@@ -4,8 +4,8 @@ This week, each member of the group will be submitting a link to their GitHub re
 ## Resources
 - Data Source: 
 - Software: - Jupyter Notebook (anaconda python 3.7)
-            - PostgreSQL 11 ??
-            - MongoDB  ??
+            - PostgreSQL 11 
+            - AWS S3 and RDS
 
 
 ## Challenge Summary
