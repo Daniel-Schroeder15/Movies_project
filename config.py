@@ -1,2 +1,0 @@
-aws_id = "AKIAIN3NEWK6VOOBMK5Q"
-aws_secret = "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"
