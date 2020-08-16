@@ -5,7 +5,8 @@ This week, each member of the group will be submitting a link to their GitHub re
 
 ## Resources
 - Data Source: Kaggle
-- Software: - Jupyter Notebook (anaconda python 3.7)
+- Software: 
+            - Jupyter Notebook (anaconda python 3.7)
             - PostgreSQL 11
             - AWS S3 and RDS
             - MongoDB
