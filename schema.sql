@@ -6,52 +6,27 @@ CREATE TABLE movie_scores_genre (
  	SCORE INTEGER
  );
 
--- CREATE TABLE review_id_table (
---   review_id TEXT PRIMARY KEY NOT NULL,
---   customer_id INTEGER,
---   product_id TEXT,
---   product_parent INTEGER,
---   review_date DATE -- this should be in the formate yyyy-mm-dd
--- );
+ CREATE TABLE datasets_movies (
+	budget INTEGER,
+	company TEXT,
+	country TEXT,
+	director TEXT,
+	genre TEXT,
+	gross INTEGER,
+	name TEXT PRIMARY KEY NOT NULL,
+	rating INTEGER,
+	released DATE,
+	runtime INTEGER,
+ 	score INTEGER,
+	star INTEGER,
+	votes INTEGER,
+	writer TEXT,
+	year INTEGER
+);
 
--- -- This table will contain only unique values
--- CREATE TABLE products (
---   product_id TEXT PRIMARY KEY NOT NULL UNIQUE,
---   product_title TEXT
--- );
+-- DROP TABLE datasets_movies
 
--- -- Customer table for first data set
--- CREATE TABLE customers (
---   customer_id INT PRIMARY KEY NOT NULL UNIQUE,
---   customer_count INT
--- );
+-- DROP TABLE testing_connection
 
--- -- vine table
--- CREATE TABLE vine_table (
---   review_id TEXT PRIMARY KEY,
---   star_rating INTEGER,
---   helpful_votes INTEGER,
---   total_votes INTEGER,
---   vine TEXT
--- );
+-- DROP TABLE movie_scores_genre
 
-
-
--- -- creats sports reviews table
--- CREATE TABLE sports_reviews (
---  product_id TEXT PRIMARY KEY NOT NULL,
--- 	product_title TEXT,
--- 	star_rating INT,
--- 	helpful_votes INT,
--- 	total_votes INT,
--- 	verified_purchase TEXT
--- );
-
--- DROP TABLE products
-
--- CREATE TABLE products (
--- 	product_id TEXT PRIMARY KEY NOT NULL UNIQUE,
--- 	product_title TEXT
--- );
-
--- SELECT * FROM products;
