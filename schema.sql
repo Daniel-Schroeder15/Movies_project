@@ -1,5 +1,11 @@
 
 
+CREATE TABLE movie_scores_genre (
+	title TEXT PRIMARY KEY NOT NULL,
+	genre TEXT,
+ 	SCORE INTEGER
+ );
+
 -- CREATE TABLE review_id_table (
 --   review_id TEXT PRIMARY KEY NOT NULL,
 --   customer_id INTEGER,
