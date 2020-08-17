@@ -30,5 +30,5 @@ What aspects make a movie more watchable?
 Can the budget indicate a good movie?  
 Are streaming services' movie library offering enough amount of watchable movies?  
 
-- **Communication Protocols:**  
+## Communication Protocols
 The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend.
