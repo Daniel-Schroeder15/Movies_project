@@ -10,7 +10,7 @@ This week, each member of the group will be submitting a link to their GitHub re
   - MoviesOnStreamingPlatforms_updated  
   - tmdb_5000_movies
 
-- **Software:  
+- **Software:**
   - Jupyter Notebook (anaconda python 3.7)  
   - PostgreSQL 11  
   - AWS S3 and RDS  
@@ -25,7 +25,7 @@ The project topic is Movies. Watching movies has become one of the most common a
 - **Data Source Description:**
 We decide to use Kaggle as the data source for our project because it provides a vast container of open-access datasets for machine learning. We selected three movie-related datasets from Kaggle: datasets_2745_4700_movies, MoviesOnStreamingPlatforms_updated, and tmdb_5000_movies. We reviewed the datasets and merged them based on the important features for achieving the project goal. We selected the columns that are worth for machine learning, such as budget, gross, genres, production company, star, score, and streaming services, etc. Last, we cleaned the merged dataset and ended up with our raw dataset Merged_Movies_Raw_Dataset of 3188 rows and 24 columns.
 
-- **Questions we hope to answer with data:**
+- **Questions we hope to answer with data:**  
 What aspects make a movie more watchable?  
 Can the budget indicate a good movie?  
 Are streaming services' movie library offering enough amount of watchable movies?  
