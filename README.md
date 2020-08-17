@@ -4,14 +4,15 @@
 This week, each member of the group will be submitting a link to their GitHub repository, which contains all the deliverables for the presentation, GitHub, machine learning model, and database sections.
 
 ## Resources
-- Data Source: Kaggle
+- **Data Source: Kaggle  
+  - Potential datasets: datasets_2745_4700_movies, MoviesOnStreamingPlatforms_updated, tmdb_5000_movies
 
-- Software:  
-Jupyter Notebook (anaconda python 3.7)  
-PostgreSQL 11  
-AWS S3 and RDS  
-MongoDB  
-Tableau
+- **Software:  
+  - Jupyter Notebook (anaconda python 3.7)  
+  - PostgreSQL 11  
+  - AWS S3 and RDS  
+  - MongoDB  
+  - Tableau
 
 ## Challenge Summary
 
