@@ -1,0 +1,940 @@
+,budget,company,country,director,genre,gross,rating,score,star,votes,writer,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Language,Ave_runtime
+0,6000000.0,Paramount Pictures,USA,John Hughes,Comedy,70136369.0,PG-13,7.8,Matthew Broderick,264740,John Hughes,Ferris Bueller's Day Off,1986,13+,7.8,80%,1,0,0,0,0,"English,German",103.0
+1,9000000.0,Walt Disney Pictures,USA,Randal Kleiser,Adventure,18564613.0,PG,6.9,Joey Cramer,36636,Mark H. Baker,Flight of the Navigator,1986,7+,6.9,83%,0,0,0,1,0,English,90.0
+2,9000000.0,Paramount Pictures,USA,Howard Deutch,Comedy,40471663.0,PG-13,6.8,Molly Ringwald,60565,John Hughes,Pretty in Pink,1986,13+,6.8,77%,0,0,1,0,0,English,96.5
+3,16000000.0,Thorn EMI Screen Entertainment,UK,Russell Mulcahy,Action,5900000.0,R,7.2,Christopher Lambert,104860,Gregory Widen,Highlander,1986,18+,7.1,69%,0,0,1,0,0,English,116.0
+4,25000000.0,Paramount Pictures,USA,Michael Ritchie,Action,79817937.0,PG-13,5.9,Eddie Murphy,42997,Dennis Feldman,The Golden Child,1986,13+,6.0,26%,0,0,1,0,0,English,94.0
+5,10000000.0,Amblin Entertainment,USA,Richard Benjamin,Comedy,37499651.0,PG,6.3,Tom Hanks,41278,David Giler,The Money Pit,1986,7+,6.4,48%,1,0,0,0,0,"English,Spanish,Chinese,Russian,Portuguese",91.0
+6,14000000.0,Walt Disney Pictures,USA,Ron Clements,Animation,38600000.0,G,7.2,Vincent Price,36539,Peter Young,The Great Mouse Detective,1986,all,7.2,79%,0,0,0,1,0,"English,French,German,Italian",74.0
+7,8500000.0,De Laurentiis Entertainment Group (DEG),USA,John Irvin,Action,16209459.0,R,5.5,Arnold Schwarzenegger,24851,Luciano Vincenzoni,Raw Deal,1986,18+,5.6,25%,0,0,1,0,0,English,106.0
+8,20000000.0,Paramount Pictures,USA,Mike Nichols,Comedy,25314289.0,R,6.1,Meryl Streep,7570,Nora Ephron,Heartburn,1986,18+,6.1,45%,0,0,1,0,0,English,108.0
+9,10000000.0,Orion Pictures,USA,Robert Mandel,Action,20603715.0,R,6.7,Bryan Brown,14502,Robert T. Megginson,F/X,1986,18+,6.7,88%,0,0,1,0,0,English,109.0
+10,0.0,Kings Road Entertainment,USA,Jim McBride,Comedy,17685307.0,R,6.6,Dennis Quaid,10022,Daniel Petrie Jr.,The Big Easy,1986,18+,6.5,89%,0,0,1,0,0,English,102.0
+11,0.0,New World Pictures,USA,Harley Cokeliss,Action,6637565.0,R,5.4,Tommy Lee Jones,4045,John Carpenter,Black Moon Rising,1986,18+,5.5,38%,0,0,1,0,0,English,100.0
+12,8500000.0,Capital Equipment Leasing,UK,Trevor Nunn,Biography,277646.0,PG-13,7.2,Helena Bonham Carter,5364,Chris Bryant,Lady Jane,1986,13+,7.1,50%,0,0,1,0,0,"English,Spanish",136.0
+13,0.0,Atlantic Entertainment Group,USA,Robert M. Young,Drama,13418091.0,R,6.3,Farrah Fawcett,2705,William Mastrosimone,Extremities,1986,18+,6.3,40%,0,0,1,0,0,English,89.0
+14,20000000.0,De Laurentiis Entertainment Group (DEG),USA,Bruce Beresford,Comedy,22905500.0,PG-13,6.4,Diane Keaton,3079,Beth Henley,Crimes of the Heart,1986,13+,6.4,81%,0,0,1,0,0,English,105.0
+15,0.0,Cinema VII,USA,John McTiernan,Horror,2278264.0,R,5.5,Lesley-Anne Down,3006,John McTiernan,Nomads,1986,18+,5.4,22%,0,0,1,0,0,"English,French",91.0
+18,0.0,Corporation Image M & M,Canada,Denys Arcand,Comedy,1902706.0,R,7.3,Dominique Michel,6622,Denys Arcand,The Decline of the American Empire,1986,18+,7.2,86%,0,0,1,0,0,"French,English",101.0
+19,0.0,Portreeve,UK,Simon Langton,Thriller,1500000.0,PG,6.2,Michael Caine,1672,Julian Bond,The Whistle Blower,1986,7+,6.2,88%,0,1,1,0,0,"English,Russian",100.0
+20,0.0,Carson Productions,USA,Eugene Corr,Drama,416393.0,PG,6.6,Jon Voight,821,Linda Remy,Desert Bloom,1986,7+,6.7,64%,0,0,1,0,0,English,105.0
+21,0.0,Cannon Group,USA,Albert Pyun,Action,2390525.0,R,6.6,John Stockwell,935,Scott Fields,Dangerously Close,1986,18+,5.5,10%,0,0,1,0,0,English,95.0
+23,16000000.0,Act III Communications,USA,Rob Reiner,Adventure,30857814.0,PG,8.1,Cary Elwes,320953,William Goldman,The Princess Bride,1987,7+,8.1,97%,0,0,0,1,0,English,98.0
+24,1000000.0,Cinemarque Entertainment BV,UK,Clive Barker,Horror,14564027.0,R,7.0,Andrew Robinson,83209,Clive Barker,Hellraiser,1987,18+,7.0,70%,0,0,1,0,0,English,94.0
+25,12000000.0,Home Box Office (HBO),USA,Fred Dekker,Action,3769990.0,PG-13,7.2,Andre Gower,21420,Shane Black,The Monster Squad,1987,13+,7.1,64%,0,0,1,0,0,"English,German",80.5
+27,0.0,RKO Pictures,USA,John Irvin,Action,13839404.0,R,6.7,Anthony Barrile,20159,James Carabatsos,Hamburger Hill,1987,18+,6.7,100%,1,0,1,0,0,"English,French",110.0
+28,0.0,Hughes Entertainment,USA,Howard Deutch,Drama,18553948.0,PG-13,7.1,Eric Stoltz,21931,John Hughes,Some Kind of Wonderful,1987,13+,7.1,81%,0,0,1,0,0,English,95.0
+30,15000000.0,Metro-Goldwyn-Mayer (MGM),USA,Norman Jewison,Comedy,80640528.0,PG,7.1,Cher,38600,John Patrick Shanley,Moonstruck,1987,7+,7.1,93%,0,0,1,0,0,"English,Italian,Latin",102.0
+31,11000000.0,Interscope Communications,USA,Leonard Nimoy,Comedy,167780960.0,PG,5.9,Tom Selleck,39544,Coline Serreau,3 Men and a Baby,1987,7+,6.0,75%,0,0,0,1,0,English,102.0
+32,6500000.0,Columbia Pictures Corporation,USA,Luis Valdez,Biography,54215416.0,PG-13,6.8,Lou Diamond Phillips,22839,Luis Valdez,La Bamba,1987,13+,6.9,90%,1,0,0,0,0,"English,Spanish",108.0
+33,0.0,United Artists,USA,Charles Shyer,Comedy,26712476.0,PG,6.1,Diane Keaton,11414,Nancy Meyers,Baby Boom,1987,7+,6.2,75%,0,0,1,0,0,English,110.0
+34,0.0,Fries Entertainment,USA,Jeffrey Bloom,Drama,15151736.0,PG-13,5.7,Louise Fletcher,7993,Virginia C. Andrews,Flowers in the Attic,1987,18+,5.8,13%,0,0,1,0,0,English,89.5
+35,3500000.0,Laurel Entertainment Inc.,USA,Michael Gornick,Comedy,14000000.0,R,6.0,George Kennedy,17500,Stephen King,Creepshow 2,1987,18+,6.1,32%,0,0,1,0,0,English,92.0
+36,3000000.0,Atlantic Entertainment Group,USA,Christopher Leitch,Comedy,7888703.0,PG,3.2,Jason Bateman,8905,Jeph Loeb,Teen Wolf Too,1987,7+,3.4,7%,0,0,1,0,0,English,95.0
+37,0.0,New World Pictures,USA,Ethan Wiley,Comedy,7800000.0,PG-13,5.4,Arye Gross,8302,Fred Dekker,House II: The Second Story,1987,13+,5.4,8%,0,0,1,0,0,English,88.0
+38,0.0,Cannon Group,USA,Andrey Konchalovskiy,Drama,769119.0,R,6.9,Jill Clayburgh,940,Andrey Konchalovskiy,Shy People,1987,18+,6.8,64%,0,0,1,0,0,English,109.0
+39,100000.0,Conquering Unicorn,USA,Robert Townsend,Comedy,5228617.0,R,7.0,Robert Townsend,3009,Robert Townsend,Hollywood Shuffle,1987,18+,7.0,88%,0,0,1,0,0,English,78.0
+40,0.0,Filmhaus,USA,David Mamet,Crime,2585639.0,R,7.3,Lindsay Crouse,17508,David Mamet,House of Games,1987,18+,7.3,96%,0,0,1,0,0,English,102.0
+41,7000000.0,De Laurentiis Entertainment Group (DEG),USA,Bob Giraldi,Comedy,7019441.0,PG-13,6.4,Jon Cryer,2584,Joe Menosky,Hiding Out,1987,13+,6.4,33%,0,0,1,0,0,English,98.0
+43,15000000.0,Focus Features,USA,Gus Van Sant,Drama,7597898.0,R,6.6,Matt Damon,32248,John Krasinski,Promised Land,2012,18+,6.6,52%,1,0,0,0,0,English,103.0
+44,0.0,De Laurentiis Entertainment Group (DEG),USA,Curtis Hanson,Crime,12640385.0,R,6.4,Steve Guttenberg,3650,Anne Holden,The Bedroom Window,1987,18+,6.4,76%,0,0,1,0,0,English,112.0
+45,0.0,Cineplex-Odeon Films,UK,Tony Bill,Crime,969205.0,R,6.3,Jodie Foster,2584,John Patrick Shanley,Five Corners,1987,18+,6.2,78%,0,0,1,0,0,English,90.0
+47,0.0,Mrs. White's Productions,UK,Donald Cammell,Horror,225132.0,R,6.4,David Keith,1342,China Kong,White of the Eye,1988,18+,6.2,43%,0,0,1,0,0,English,105.0
+48,0.0,De Laurentiis Entertainment Group (DEG),USA,Bob Clark,Comedy,9518342.0,PG,6.2,Judd Nelson,1826,Bob Clark,From the Hip,1987,7+,6.2,22%,0,0,1,0,0,English,111.0
+49,0.0,Kings Road Entertainment,USA,Jerry London,Action,295000.0,R,4.3,Burt Reynolds,1347,Michael Blodgett,Rent-a-Cop,1987,18+,4.6,15%,0,0,1,0,0,English,96.0
+50,0.0,Embark Production,USA,Joe Camp,Adventure,22257624.0,G,6.3,Red Steagall,2244,Joe Camp,Benji the Hunted,1987,all,6.3,50%,0,0,0,1,0,English,88.0
+51,9000000.0,United Artists,USA,Tom Holland,Horror,33244684.0,R,6.6,Catherine Hicks,67682,Don Mancini,Child's Play,1988,18+,6.6,71%,1,0,1,0,0,"English,Vietnamese",88.5
+52,35000000.0,Metro-Goldwyn-Mayer (MGM),USA,Ron Howard,Action,57269863.0,PG,7.3,Val Kilmer,86056,George Lucas,Willow,1988,7+,7.3,50%,0,0,0,1,0,English,126.0
+53,3000000.0,New World Pictures,USA,Michael Lehmann,Comedy,1108462.0,R,7.3,Winona Ryder,67238,Daniel Waters,Heathers,1989,18+,7.2,93%,0,1,1,0,0,English,103.0
+54,70000000.0,Touchstone Pictures,USA,Robert Zemeckis,Animation,156452370.0,PG,7.7,Bob Hoskins,153513,Gary K. Wolf,Who Framed Roger Rabbit,1988,7+,7.7,97%,0,0,0,1,0,English,104.0
+55,0.0,Akira Committee Company Ltd.,Japan,Katsuhiro tomo,Animation,553171.0,R,8.1,Nozomu Sasaki,118747,Katsuhiro tomo,Akira,1988,18+,8.0,90%,0,1,0,0,0,Japanese,124.0
+56,2000000.0,Sarlui / Diamant,USA,Stephen Chiodo,Comedy,15625095.0,PG-13,6.1,Grant Cramer,25440,Charles Chiodo,Killer Klowns from Outer Space,1988,13+,6.2,78%,1,0,0,0,0,English,88.0
+57,3000000.0,Film Futures,UK,Tony Randel,Horror,11090735.0,R,6.5,Doug Bradley,33241,Clive Barker,Hellbound: Hellraiser II,1988,18+,6.5,52%,0,1,1,0,0,English,97.0
+58,15000000.0,Orion Pictures,USA,Alan Parker,Crime,34603943.0,R,7.8,Gene Hackman,70539,Chris Gerolmo,Mississippi Burning,1988,18+,7.8,83%,0,0,1,0,0,English,128.0
+59,12000000.0,Paramount Pictures,USA,David Zucker,Comedy,78041829.0,PG-13,7.6,Leslie Nielsen,124515,Jerry Zucker,The Naked Gun: From the Files of Police Squad!,1988,13+,7.6,87%,1,0,0,0,0,English,85.0
+60,1100000.0,Cannon International,USA,Newt Arnold,Action,11806119.0,R,6.8,Jean-Claude Van Damme,63368,Sheldon Lettich,Bloodsport,1988,18+,6.8,40%,1,0,0,0,0,English,92.0
+61,31000000.0,Walt Disney Feature Animation,USA,George Scribner,Animation,74151346.0,G,6.7,Joey Lawrence,35531,Jim Cox,Oliver & Company,1988,all,6.7,51%,0,0,0,1,0,English,74.0
+62,13000000.0,Morgan Creek Productions,Canada,David Cronenberg,Drama,9134733.0,R,7.3,Jeremy Irons,32130,David Cronenberg,Dead Ringers,1988,18+,7.3,82%,0,0,1,0,0,English,116.0
+63,1200000.0,Blue Rider Pictures,USA,Kevin Tenney,Comedy,3109904.0,R,6.3,Cathy Podewell,9897,Joe Augustyn,Night of the Demons,1988,18+,6.2,40%,0,0,1,0,0,English,90.0
+64,2000000.0,Magellan Pictures,USA,Robert Bierman,Comedy,725131.0,R,5.9,Nicolas Cage,10474,Joseph Minion,Vampire's Kiss,1988,18+,6.0,61%,0,0,1,0,0,"English,German",103.0
+65,0.0,Touchstone Pictures,USA,Jim Abrahams,Comedy,40150487.0,PG,6.3,Bette Midler,9728,Dori Pierson,Big Business,1988,7+,6.4,44%,0,0,0,1,0,"English,Italian",97.0
+66,6500000.0,Columbia Pictures Corporation,USA,Spike Lee,Comedy,14545844.0,R,5.8,Laurence Fishburne,5042,Spike Lee,School Daze,1988,18+,6.0,58%,1,0,0,0,0,English,121.0
+67,0.0,Touchstone Pictures,USA,Roger Spottiswoode,Action,29300090.0,R,6.8,Sidney Poitier,9882,Harv Zimmel,Shoot to Kill,1988,18+,6.8,100%,0,0,1,0,0,English,110.0
+69,5000000.0,Helpern / Meltzer,USA,Mark Goldblatt,Action,3588626.0,R,6.0,Treat Williams,5127,Terry Black,Dead Heat,1988,18+,6.1,11%,0,0,1,0,0,English,86.0
+70,8000000.0,Hemdale,USA,Harold Becker,Drama,784990.0,R,6.1,James Woods,1629,Ben Stein,The Boost,1988,18+,6.1,38%,0,1,0,0,0,English,95.0
+71,1000000.0,Cinema Group,USA,Rowdy Herrington,Crime,492519.0,R,6.0,James Spader,1968,Rowdy Herrington,Jack's Back,1988,18+,5.9,60%,0,0,1,0,0,English,97.0
+72,0.0,De Laurentiis Entertainment Group (DEG),USA,Bill Fishman,Comedy,343786.0,R,5.8,John Cusack,3411,Bill Fishman,Tapeheads,1988,18+,5.7,60%,0,0,1,0,0,English,93.0
+74,0.0,Dualstar Productions,USA,Andy Tennant,Comedy,19474589.0,PG,5.8,Kirstie Alley,16200,Deborah Dean Davis,It Takes Two,1995,7+,5.9,8%,1,0,1,0,0,English,101.0
+75,0.0,Trans World Entertainment (TWE),USA,David Stevens,Crime,2432536.0,R,5.4,Matt Dillon,766,Spencer Eastman,Kansas,1988,18+,5.5,20%,0,0,1,0,0,English,104.0
+78,48000000.0,Paramount Pictures,USA,Steven Spielberg,Action,197171806.0,PG-13,8.3,Harrison Ford,566432,Jeffrey Boam,Indiana Jones and the Last Crusade,1989,13+,8.2,88%,1,0,0,0,0,"English,German,Greek,Arabic",127.0
+80,40000000.0,Universal Pictures,USA,Robert Zemeckis,Adventure,118500000.0,PG,7.8,Michael J. Fox,377402,Robert Zemeckis,Back to the Future Part II,1989,7+,7.8,65%,1,0,0,0,0,English,108.0
+81,25000000.0,Filmauro,USA,George P. Cosmatos,Adventure,15704614.0,R,5.8,Peter Weller,14315,David Webb Peoples,Leviathan,1989,18+,5.8,17%,0,0,1,0,0,English,98.0
+83,18000000.0,Buena Vista Pictures,USA,Joe Johnston,Adventure,130724172.0,PG,6.3,Rick Moranis,116845,Stuart Gordon,"Honey, I Shrunk the Kids",1989,7+,6.3,75%,0,0,0,1,0,English,93.0
+84,0.0,Davis Entertainment,USA,Richard Greenberg,Adventure,793775.0,PG,6.1,Fred Savage,8801,Terry Rossio,Little Monsters,1989,7+,6.1,50%,1,1,0,0,0,English,96.5
+85,27800000.0,Paramount Pictures,USA,William Shatner,Action,52210049.0,PG,5.4,William Shatner,47303,Gene Roddenberry,Star Trek V: The Final Frontier,1989,7+,5.5,22%,0,1,1,0,0,"English,Klingon",107.0
+86,0.0,Touchstone Pictures,USA,Roger Spottiswoode,Comedy,71079915.0,PG,6.1,Tom Hanks,52638,Dennis Shryack,Turner & Hooch,1989,7+,6.2,52%,0,0,0,1,0,English,97.0
+88,0.0,Paramount Pictures,UK,Lewis Gilbert,Comedy,6353913.0,R,7.2,Pauline Collins,5718,Willy Russell,Shirley Valentine,1989,18+,7.2,73%,0,1,0,0,0,English,108.0
+89,4000000.0,Lightyear Entertainment,USA,Jim Wynorski,Sci-Fi,192816.0,PG-13,4.5,Dick Durock,3054,Len Wein,The Return of Swamp Thing,1989,13+,4.7,44%,0,0,1,0,0,English,86.0
+92,0.0,Paramount Pictures,USA,Roland Joff,Biography,3563162.0,PG-13,6.5,Paul Newman,5811,Bruce Robinson,Fat Man and Little Boy,1989,13+,6.5,47%,0,0,1,0,0,English,127.0
+93,8000000.0,New Line Cinema,USA,Thomas J. Wright,Action,16093651.0,PG-13,4.3,Hulk Hogan,4966,Dennis Hackin,No Holds Barred,1989,13+,4.4,11%,0,1,1,0,0,English,93.0
+94,13000000.0,Paramount Pictures,USA,Joel Schumacher,Comedy,22030000.0,PG-13,6.3,Ted Danson,3667,Jean-Charles Tacchella,Cousins,1989,13+,6.3,50%,0,0,1,0,0,Portuguese,96.0
+96,34000000.0,Columbia Pictures Corporation,USA,Luis Puenzo,Adventure,3574256.0,R,5.8,Jane Fonda,1556,Carlos Fuentes,Old Gringo,1989,18+,5.8,42%,0,0,1,0,0,"English,Spanish",109.5
+97,0.0,Paulist Pictures,USA,John Duigan,Biography,1316495.0,PG-13,7.3,Raul Julia,1789,John Sacret Young,Romero,1989,13+,7.1,78%,0,0,1,0,0,"English,German",102.0
+98,0.0,Hemdale,USA,Mick Jackson,Biography,259486.0,R,6.4,Gary Oldman,1524,James Cresson,Chattahoochee,1989,18+,6.4,14%,0,0,1,0,0,English,95.5
+99,5000000.0,Silver Screen Partners III,USA,Jeff Blyth,Adventure,8153677.0,G,6.1,Keith Coogan,703,Alan Caillou,Cheetah,1989,all,6.0,50%,0,0,0,1,0,English,83.0
+100,0.0,Film Four International,UK,Nick Broomfield,Drama,333811.0,R,4.8,Gabriel Byrne,276,Nick Broomfield,Dark Obsession,1989,18+,4.8,36%,0,0,1,0,0,English,100.0
+101,20000000.0,Castle Rock Entertainment,USA,Rob Reiner,Crime,61276872.0,R,7.8,James Caan,147278,Stephen King,Misery,1990,18+,7.8,90%,0,1,0,0,0,English,107.0
+102,11000000.0,Universal Pictures,USA,Ron Underwood,Comedy,16667084.0,PG-13,7.1,Kevin Bacon,98220,S.S. Wilson,Tremors,1990,13+,7.1,88%,1,0,0,0,0,English,96.0
+104,47000000.0,Touchstone Pictures,USA,Warren Beatty,Action,103738726.0,PG,6.1,Warren Beatty,50318,Chester Gould,Dick Tracy,1990,7+,6.1,62%,0,0,1,0,0,English,105.0
+105,40000000.0,Universal Pictures,USA,Robert Zemeckis,Adventure,87727583.0,PG,7.4,Michael J. Fox,316774,Robert Zemeckis,Back to the Future Part III,1990,7+,7.4,80%,1,0,0,0,0,English,118.0
+106,11000000.0,Morgan Creek Productions,USA,Clive Barker,Action,8862354.0,R,6.5,Craig Sheffer,15692,Clive Barker,Nightbreed,1990,18+,6.6,38%,0,0,1,0,0,English,102.0
+108,0.0,Morgan Creek Productions,USA,William Peter Blatty,Drama,26098824.0,R,6.3,George C. Scott,19380,William Peter Blatty,The Exorcist III,1990,18+,6.4,59%,0,0,1,0,0,English,110.0
+109,30000000.0,Silver Screen Partners IV,USA,Hendel Butoy,Animation,27931461.0,G,6.9,Bob Newhart,30141,Jim Cox,The Rescuers Down Under,1990,all,6.9,69%,0,0,0,1,0,English,88.5
+110,0.0,Paramount Pictures,USA,Mike Figgis,Crime,27734391.0,R,6.5,Richard Gere,14195,Henry Bean,Internal Affairs,1990,18+,6.5,88%,0,0,1,0,0,"English,Spanish",115.0
+111,0.0,Brandenberg,UK,Tom Stoppard,Comedy,739104.0,PG,7.6,Gary Oldman,18087,Tom Stoppard,Rosencrantz & Guildenstern Are Dead,1991,7+,7.5,62%,0,0,1,0,0,English,117.0
+112,25000000.0,Ironbark Films,USA,John Cornell,Comedy,6939946.0,PG,5.4,Paul Hogan,3294,Paul Hogan,Almost an Angel,1990,7+,5.6,29%,0,0,1,0,0,English,95.0
+113,0.0,Touchstone Pictures,USA,Emile Ardolino,Comedy,71609321.0,PG,5.3,Tom Selleck,18817,Coline Serreau,3 Men and a Little Lady,1990,7+,5.4,38%,0,0,0,1,0,English,104.0
+114,2000000.0,Concorde Pictures,USA,Adam Simon,Horror,1627955.0,R,6.1,Bill Pullman,2792,Charles Beaumont,Brain Dead,1990,18+,6.0,17%,0,0,1,0,0,English,85.0
+115,0.0,Hemdale,UK,Ken Loach,Drama,1030938.0,R,7.0,Frances McDormand,2832,Jim Allen,Hidden Agenda,1990,18+,6.9,83%,0,0,1,0,0,English,108.0
+116,0.0,China Film Co-Production Corporation,China,Yimou Zhang,Drama,1986433.0,PG-13,7.8,Li Gong,6221,Heng Liu,Ju Dou,1990,13+,7.7,100%,0,0,1,0,0,Mandarin,95.0
+117,17000000.0,Columbia Pictures Corporation,USA,Howard Zieff,Comedy,59847242.0,PG-13,6.8,Anna Chlumsky,60391,Laurice Elehwany,My Girl,1991,7+,6.9,53%,1,0,0,0,0,English,102.0
+118,30000000.0,Paramount Pictures,USA,Nicholas Meyer,Action,74888996.0,PG,7.2,William Shatner,59567,Gene Roddenberry,Star Trek VI: The Undiscovered Country,1991,7+,7.2,82%,0,1,1,0,0,"English,Klingon",111.5
+119,35000000.0,Walt Disney Pictures,USA,Joe Johnston,Action,46704056.0,PG,6.4,Billy Campbell,45621,Dave Stevens,The Rocketeer,1991,7+,6.5,65%,0,0,0,1,0,"English,German",108.0
+120,38000000.0,Bill Graham Films,USA,Oliver Stone,Biography,35183792.0,R,7.2,Val Kilmer,72491,Randall Jahnson,The Doors,1991,18+,7.2,57%,0,0,1,0,0,English,140.0
+121,20000000.0,Interscope Communications,USA,Peter Hewitt,Adventure,38037513.0,PG,6.2,Keanu Reeves,52853,Chris Matheson,Bill & Ted's Bogus Journey,1991,7+,6.3,54%,0,0,1,0,0,"English,Italian,Russian",93.0
+122,15000000.0,Stone Group Pictures,USA,Sheldon Lettich,Action,30102717.0,R,5.5,Jean-Claude Van Damme,31574,Sheldon Lettich,Double Impact,1991,18+,5.6,35%,0,0,1,0,0,English,110.0
+123,13500000.0,Paramount Pictures,USA,Stan Dragoti,Comedy,26255594.0,PG-13,6.1,Scott Bakula,8750,Rick Natkin,Necessary Roughness,1991,13+,6.2,33%,0,0,1,0,0,English,108.0
+125,18000000.0,Metro-Goldwyn-Mayer (MGM),USA,Tom Mankiewicz,Comedy,5546827.0,PG,5.7,John Candy,6370,Lawrence J. Cohen,Delirious,1991,7+,5.9,44%,0,0,1,0,0,English,96.0
+126,0.0,Paramount Pictures,USA,Michael Hoffman,Comedy,36489888.0,PG-13,6.5,Sally Field,12336,Robert Harling,Soapdish,1991,13+,6.6,69%,0,0,1,0,0,English,97.0
+128,16400000.0,Orion Pictures,USA,Richard Franklin,Action,21082165.0,PG-13,5.8,Bryan Brown,7248,Robert T. Megginson,F/X2,1991,13+,5.9,38%,0,0,1,0,0,English,108.0
+130,0.0,Initial Films,USA,John Frankenheimer,Action,1182273.0,R,5.7,Andrew McCarthy,1977,Michael Mewshaw,Year of the Gun,1991,18+,5.6,29%,0,0,1,0,0,"English,Italian",111.0
+132,0.0,Avenue Pictures,UK,Michael Lindsay-Hogg,Comedy,5186392.0,R,5.7,John Malkovich,1660,Michael Lindsay-Hogg,The Object of Beauty,1991,18+,5.6,77%,0,0,1,0,0,English,103.0
+133,0.0,American Playhouse,USA,Nancy Kelly,Romance,717772.0,PG-13,7.1,Rosalind Chao,460,Ruthanne Lum McCunn,Thousand Pieces of Gold,1991,13+,6.9,91%,0,0,1,0,0,English,105.0
+134,28000000.0,Walt Disney Pictures,USA,Ron Clements,Animation,217350219.0,G,8.0,Scott Weinger,287068,Ron Clements,Aladdin,1992,all,8.0,95%,0,0,0,1,0,"English,Arabic",109.0
+135,31000000.0,Touchstone Pictures,USA,Emile Ardolino,Comedy,139610000.0,PG,6.3,Whoopi Goldberg,70833,Paul Rudnick,Sister Act,1992,7+,6.4,73%,0,0,0,1,0,English,100.0
+136,15000000.0,Touchwood Pacific Partners 1,USA,Kenny Ortega,Drama,2819485.0,PG,7.0,Christian Bale,16383,Bob Tzudiker,Newsies,1992,7+,7.0,39%,0,0,0,1,0,English,121.0
+137,6000000.0,PolyGram Filmed Entertainment,USA,Bernard Rose,Horror,25792310.0,R,6.6,Virginia Madsen,54076,Clive Barker,Candyman,1992,18+,6.6,74%,1,0,0,0,0,English,99.0
+138,45000000.0,Mace Neufeld Productions,USA,Phillip Noyce,Action,83287363.0,R,6.9,Harrison Ford,86479,Tom Clancy,Patriot Games,1992,18+,6.9,72%,1,0,1,0,0,English,117.0
+139,0.0,Palace Pictures,UK,Neil Jordan,Crime,62549000.0,R,7.3,Stephen Rea,44049,Neil Jordan,The Crying Game,1992,18+,7.2,94%,1,0,0,0,0,English,112.0
+140,23000000.0,StudioCanal,USA,Roland Emmerich,Action,36299898.0,R,6.0,Jean-Claude Van Damme,72711,Richard Rothstein,Universal Soldier,1992,18+,6.0,29%,0,1,0,0,0,English,102.0
+141,40000000.0,Touchwood Pacific Partners 1,USA,Randal Kleiser,Adventure,58662452.0,PG,4.7,Rick Moranis,34421,Stuart Gordon,Honey I Blew Up the Kid,1992,7+,4.8,40%,0,0,0,1,0,English,89.0
+142,0.0,Metro-Goldwyn-Mayer (MGM),USA,Paul Michael Glaser,Drama,25105517.0,PG,6.9,D.B. Sweeney,16022,Tony Gilroy,The Cutting Edge,1992,7+,6.9,56%,0,0,1,0,0,"English,French,Russian",101.0
+143,12000000.0,Pacific Western,USA,Brian De Palma,Crime,21370057.0,R,6.0,John Lithgow,10992,Brian De Palma,Raising Cain,1992,18+,6.1,57%,1,0,0,0,0,"English,Spanish",91.5
+144,12000000.0,Walt Disney Pictures,USA,Brian Henson,Comedy,27281507.0,G,7.7,Michael Caine,37054,Charles Dickens,The Muppet Christmas Carol,1992,all,7.7,75%,0,0,0,1,0,English,85.0
+145,15000000.0,Columbia Pictures Corporation,USA,Peter MacDonald,Action,40227000.0,R,5.4,Damon Wayans,5876,Damon Wayans,Mo' Money,1992,18+,5.5,16%,1,0,0,0,0,English,89.0
+146,29000000.0,American Zoetrope,USA,Carroll Ballard,Action,5519569.0,PG-13,6.5,Matthew Modine,2123,Jeff Benjamin,Wind,1992,13+,6.4,50%,0,0,1,0,0,English,126.0
+147,3330000.0,Atchafalaya,USA,John Sayles,Drama,5414619.0,R,7.5,Mary McDonnell,4448,John Sayles,Passion Fish,1992,18+,7.4,100%,0,0,1,0,0,English,135.0
+148,0.0,Alliance Communications Corporation,USA,Alexandre Rockwell,Comedy,256249.0,R,7.1,Steve Buscemi,2047,Sollace Mitchell,In the Soup,1992,18+,7.1,92%,0,0,1,0,0,English,93.0
+149,18000000.0,Orion Pictures,USA,Howard Deutch,Drama,6375979.0,R,6.1,Ray Liotta,2585,Ron Cutler,Article 99,1992,18+,6.1,43%,0,0,1,0,0,English,100.0
+150,800000.0,Zeta Entertainment,USA,Tamra Davis,Crime,114516.0,R,5.6,Drew Barrymore,1768,Matthew Bright,Guncrazy,1992,18+,5.5,63%,0,0,1,0,0,English,97.0
+152,28000000.0,Rhythm & Hues Studios,USA,Kenny Ortega,Comedy,39514713.0,PG,6.7,Bette Midler,67192,David Kirschner,Hocus Pocus,1993,7+,6.9,34%,0,0,0,1,0,"English,French",96.0
+153,18000000.0,Touchstone Pictures,USA,Henry Selick,Animation,75082668.0,PG,8.0,Danny Elfman,242487,Tim Burton,The Nightmare Before Christmas,1993,7+,8.0,95%,0,0,0,1,0,English,76.0
+154,11000000.0,Paramount Pictures,USA,Lasse Hallstrm,Drama,9170214.0,PG-13,7.8,Johnny Depp,183569,Peter Hedges,What's Eating Gilbert Grape,1993,13+,7.8,90%,1,0,1,0,0,English,118.0
+155,14600000.0,Columbia Pictures Corporation,USA,Harold Ramis,Comedy,70906973.0,PG,8.0,Bill Murray,483649,Danny Rubin,Groundhog Day,1993,7+,8.0,96%,1,0,0,0,0,"English,French,Italian",101.0
+156,20000000.0,Warner Bros.,USA,Simon Wincer,Adventure,77698625.0,PG,5.9,Jason James Richter,56085,Keith Walker,Free Willy,1993,7+,6.0,58%,0,1,0,0,0,English,112.0
+157,0.0,Touchwood Pacific Partners 1,USA,Duwayne Dunham,Adventure,41833324.0,G,6.9,Michael J. Fox,36081,Sheila Burnford,Homeward Bound: The Incredible Journey,1993,all,6.9,87%,0,0,0,1,0,English,84.0
+158,38000000.0,Touchstone Pictures,USA,Bill Duke,Comedy,57319029.0,PG,5.4,Whoopi Goldberg,39452,Paul Rudnick,Sister Act 2: Back in the Habit,1993,7+,5.6,7%,0,0,0,1,0,English,107.0
+159,57000000.0,Warner Bros.,USA,Marco Brambilla,Action,58055768.0,R,6.6,Sylvester Stallone,133674,Peter M. Lenkov,Demolition Man,1993,18+,6.7,59%,0,1,0,0,0,English,115.0
+160,40000000.0,Paramount Pictures,USA,Phillip Noyce,Drama,36300000.0,R,4.9,Sharon Stone,24457,Ira Levin,Sliver,1993,18+,5.0,11%,1,0,0,0,0,English,107.0
+161,15000000.0,Walt Disney Pictures,USA,Jon Turteltaub,Adventure,68856263.0,PG,6.9,John Candy,75331,Lynn Siefert,Cool Runnings,1993,7+,7.0,76%,0,0,0,1,0,"English,German,Russian",98.0
+163,40000000.0,Paramount Pictures,USA,Stephen Surjik,Comedy,48197805.0,PG-13,6.1,Mike Myers,66535,Mike Myers,Wayne's World 2,1993,13+,6.2,61%,0,1,1,0,0,"English,Cantonese",95.0
+164,10000000.0,Twentieth Century Fox Film Corporation,USA,Daniel Stern,Comedy,53579269.0,PG,5.9,Thomas Ian Nicholas,19681,Sam Harper,Rookie of the Year,1993,7+,6.0,35%,0,0,0,1,0,English,103.0
+165,30000000.0,Universal Pictures,USA,Barry Sonnenfeld,Comedy,10997166.0,PG,6.1,Michael J. Fox,10037,Mark Rosenthal,For Love or Money,1993,7+,6.2,37%,1,0,0,0,0,English,96.0
+166,6500000.0,Walt Disney Pictures,USA,Stephen Sommers,Adventure,24103594.0,PG,6.2,Elijah Wood,6666,Mark Twain,The Adventures of Huck Finn,1993,7+,6.2,73%,0,0,0,1,0,"English,French",108.0
+167,0.0,Touchstone Pictures,USA,James Lapine,Comedy,12440858.0,PG,5.5,Michael J. Fox,4691,Marc Lawrence,Life with Mikey,1993,7+,5.6,25%,0,0,0,1,0,English,91.0
+168,0.0,Island World,USA,Stephen Gyllenhaal,Drama,1497222.0,R,5.9,Debra Winger,1327,Mary McGarry Morris,A Dangerous Woman,1993,18+,5.8,50%,1,0,0,0,0,English,102.0
+169,0.0,Belbo Films,France,Sam Shepard,Drama,61274.0,PG-13,5.3,Alan Bates,922,Sam Shepard,Silent Tongue,1993,13+,5.3,38%,0,1,1,0,0,English,102.0
+170,999999.0,Incorporated Television Company (ITC),USA,Rusty Cundieff,Comedy,238230.0,R,7.2,Larry B. Scott,3462,Rusty Cundieff,Fear of a Black Hat,1994,18+,7.2,86%,0,0,1,0,0,English,88.0
+171,45000000.0,Walt Disney Pictures,USA,Roger Allers,Animation,312900000.0,G,8.5,Matthew Broderick,723070,Irene Mecchi,The Lion King,1994,all,8.5,93%,0,0,0,1,0,"English,Xhosa,Zulu,French,Spanish",103.0
+172,34000000.0,Warner Bros.,USA,Oliver Stone,Crime,50282766.0,R,7.3,Woody Harrelson,185627,Quentin Tarantino,Natural Born Killers,1994,18+,7.3,47%,0,1,0,0,0,"English,Navajo,Japanese",118.0
+173,30000000.0,TriStar Pictures,USA,Edward Zwick,Drama,66638883.0,R,7.5,Brad Pitt,121453,Susan Shilliday,Legends of the Fall,1994,18+,7.6,58%,0,0,1,0,0,"English,Cornish",133.0
+174,12000000.0,Morgan Creek Productions,USA,Tom Shadyac,Comedy,72217000.0,PG-13,6.9,Jim Carrey,232964,Jack Bernstein,Ace Ventura: Pet Detective,1994,13+,6.9,48%,1,0,0,0,0,English,86.0
+175,22000000.0,Walt Disney Pictures,USA,John Pasquin,Comedy,144833357.0,PG,6.4,Tim Allen,71963,Leo Benvenuti,The Santa Clause,1994,7+,6.5,71%,0,0,0,1,0,"English,Spanish",97.0
+176,0.0,Paramount Pictures,USA,William Friedkin,Drama,22355000.0,PG-13,6.1,Nick Nolte,10150,Ron Shelton,Blue Chips,1994,13+,6.2,37%,0,0,1,0,0,English,108.0
+177,0.0,Walt Disney Pictures,USA,Rupert Wainwright,Comedy,30577969.0,PG,5.2,Brian Bonsall,15449,Blake Snyder,Blank Check,1994,7+,5.3,9%,0,0,0,1,0,English,93.0
+178,0.0,Hollywood Pictures,USA,Jonathan Prince,Adventure,10471613.0,PG,5.9,Jonathan Jackson,7684,Andrew Kurtzman,Camp Nowhere,1994,7+,6.1,18%,0,0,0,1,0,English,96.0
+179,20000000.0,Nest Family Entertainment,USA,Richard Rich,Animation,9771658.0,G,6.4,Jack Palance,18972,Richard Rich,The Swan Princess,1994,all,6.4,50%,0,1,0,0,0,English,96.5
+180,0.0,Warner Bros.,USA,David S. Ward,Comedy,30626182.0,PG,5.5,Charlie Sheen,21665,David S. Ward,Major League II,1994,7+,5.6,5%,1,1,0,0,0,English,105.0
+181,3500000.0,New Line Cinema,USA,Jeff Pollack,Crime,16036534.0,R,6.6,Duane Martin,11508,Jeff Pollack,Above the Rim,1994,18+,6.6,53%,1,0,0,0,0,English,96.0
+183,0.0,Morgan Creek Productions,USA,Dennis Hopper,Comedy,1596700.0,R,5.0,Tom Berenger,4804,Joe Batteer,Chasers,1994,18+,5.1,33%,0,0,1,0,0,English,102.0
+185,0.0,Ang Lee Productions,Taiwan,Ang Lee,Comedy,7294403.0,UNRATED,7.8,Sihung Lung,14947,Ang Lee,Eat Drink Man Woman,1994,13+,7.8,91%,0,0,1,0,0,"Mandarin,French",124.0
+186,7850000.0,Greenleaf Productions,USA,James Yukich,Action,2341309.0,PG-13,3.7,Robert Patrick,9200,Paul Dini,Double Dragon,1994,13+,3.8,13%,0,0,1,0,0,English,96.0
+187,0.0,Walt Disney Pictures,USA,Charles Haid,Adventure,21006361.0,PG,6.5,Mackenzie Astin,6113,John Michael Hayes,Iron Will,1994,7+,6.6,62%,0,0,0,1,0,English,108.0
+188,0.0,British Screen Productions,UK,Nancy Meckler,Drama,217881.0,R,6.9,Julie Walters,2712,Wendy Kesselman,Sister My Sister,1994,18+,6.6,63%,0,0,1,0,0,English,94.5
+189,0.0,Jet Tone Production,Hong Kong,Kar-Wai Wong,Action,173526.0,R,7.2,Brigitte Lin,10951,Louis Cha,Ashes of Time,1994,18+,7.2,78%,0,0,1,0,0,"Mandarin,Cantonese",100.0
+190,3000000.0,Jones Entertainment Group,USA,John Sayles,Drama,6101600.0,PG,7.5,Jeni Courtney,6305,Rosalie K. Fry,The Secret of Roan Inish,1995,7+,7.5,95%,0,0,1,0,0,"English,Irish",103.0
+191,0.0,British Columbia Film Commission,Canada,Mina Shum,Drama,759393.0,PG-13,7.2,Sandra Oh,961,Mina Shum,Double Happiness,1994,13+,7.0,73%,0,0,1,0,0,"English,Cantonese",87.0
+193,30000000.0,Pixar Animation Studios,USA,John Lasseter,Animation,191796233.0,G,8.3,Tom Hanks,694113,John Lasseter,Toy Story,1995,all,8.3,100%,0,0,0,1,0,English,81.0
+194,60000000.0,Eon Productions,UK,Martin Campbell,Action,106600000.0,PG-13,7.2,Pierce Brosnan,209588,Ian Fleming,GoldenEye,1995,13+,7.2,78%,1,0,0,0,0,"English,Russian,Spanish",130.0
+195,18000000.0,New Line Cinema,USA,Paul W.S. Anderson,Action,70454098.0,PG-13,5.8,Christopher Lambert,87007,Ed Boon,Mortal Kombat,1995,13+,5.8,47%,1,0,0,0,0,English,101.0
+196,19000000.0,Don Simpson/Jerry Bruckheimer Films,USA,Michael Bay,Action,65807024.0,R,6.8,Will Smith,186965,George Gallo,Bad Boys,1995,18+,6.9,43%,1,0,0,0,0,English,119.0
+197,25000000.0,Trilogy Entertainment Group,USA,Rachel Talalay,Action,4064333.0,R,5.3,Lori Petty,26302,Alan Martin,Tank Girl,1995,18+,5.3,40%,0,1,0,0,0,English,104.0
+198,35000000.0,Metro-Goldwyn-Mayer (MGM),USA,Roger Donaldson,Action,60074103.0,R,5.8,Natasha Henstridge,64667,Dennis Feldman,Species,1995,18+,5.8,43%,0,0,1,0,0,English,108.0
+199,0.0,Walt Disney Pictures,USA,Kevin Lima,Animation,35348597.0,G,6.8,Bill Farmer,36877,Jymn Magon,A Goofy Movie,1995,all,6.8,59%,0,0,0,1,0,English,78.0
+200,11000000.0,Havoc,UK,Tim Robbins,Crime,39387284.0,R,7.6,Susan Sarandon,77349,Helen Prejean,Dead Man Walking,1995,18+,7.5,95%,0,0,1,0,0,English,122.0
+201,50000000.0,Warner Bros.,USA,Wolfgang Petersen,Action,67823573.0,R,6.6,Dustin Hoffman,95549,Laurence Dworet,Outbreak,1995,18+,6.6,59%,1,0,0,0,0,"English,Korean,French",127.0
+202,0.0,Trimark Pictures,USA,Noah Baumbach,Comedy,704543.0,R,7.0,Josh Hamilton,7594,Noah Baumbach,Kicking and Screaming,1995,18+,6.8,57%,1,0,0,0,0,"English,Italian",95.5
+203,15000000.0,Tapestry Films,USA,Michael Gottlieb,Adventure,13406717.0,PG,4.8,Thomas Ian Nicholas,4897,Michael Part,A Kid in King Arthur's Court,1995,7+,4.7,5%,0,0,0,1,0,English,89.0
+204,8000000.0,First Look International,USA,Gregory Widen,Action,16115878.0,R,6.6,Christopher Walken,25657,Gregory Widen,The Prophecy,1995,18+,6.5,43%,0,0,1,0,0,English,98.0
+205,30000000.0,United Artists,USA,Walter Hill,Action,2167808.0,R,5.9,Jeff Bridges,5307,Peter Dexter,Wild Bill,1995,18+,5.9,42%,0,0,1,0,0,"English,Sioux,Cantonese",98.0
+206,16000000.0,Twentieth Century Fox Film Corporation,USA,Forest Whitaker,Comedy,67052156.0,R,5.7,Whitney Houston,7977,Terry McMillan,Waiting to Exhale,1995,18+,5.9,56%,0,1,0,0,0,English,124.0
+207,0.0,Alcor Films,France,Dwight H. Little,Adventure,30077111.0,PG,4.9,Jason James Richter,13906,Keith Walker,Free Willy 2: The Adventure Home,1995,7+,5.1,31%,0,1,0,0,0,"English,Danish,Malay,Dutch,Indonesian,Finnish,Luxembourgish,French Sign Language",95.0
+208,0.0,Walt Disney Pictures,USA,Simon Wincer,Action,24700000.0,PG,5.0,Danny Glover,7352,James Morris,Operation Dumbo Drop,1995,7+,5.1,31%,0,0,0,1,0,"English,Vietnamese",107.0
+209,11000000.0,Dog Eat Dog Films,USA,Michael Moore,Comedy,178104.0,PG,5.9,John Candy,14286,Michael Moore,Canadian Bacon,1995,7+,6.0,14%,0,0,1,0,0,English,91.0
+210,0.0,Walt Disney Pictures,USA,Peter Hewitt,Adventure,23735802.0,PG,5.6,Jonathan Taylor Thomas,8150,Mark Twain,Tom and Huck,1995,7+,5.5,25%,0,0,0,1,0,English,97.0
+211,20000000.0,Paramount Pictures,USA,Jodie Foster,Comedy,17518220.0,PG-13,6.6,Holly Hunter,9567,Chris Radant,Home for the Holidays,1995,13+,6.6,63%,0,0,1,0,0,English,103.0
+212,17000000.0,Paramount Pictures,USA,Stephen Gyllenhaal,Drama,7603766.0,R,6.4,Jessica Lange,4713,Seth Margolis,Losing Isaiah,1995,18+,6.5,45%,0,0,1,0,0,English,111.0
+213,32000000.0,Caravan Pictures,USA,Jeremiah S. Chechik,Adventure,8247627.0,PG,5.9,Patrick Swayze,2814,Steve Bloom,Tall Tale,1995,7+,5.9,50%,0,0,0,1,0,English,97.0
+216,150000.0,Party Productions,USA,Daisy von Scherler Mayer,Comedy,472370.0,R,6.6,Parker Posey,3784,Harry Birckmayer,Party Girl,1995,18+,6.6,78%,0,0,1,0,0,English,94.0
+217,0.0,Rysher Entertainment,USA,Martha Coolidge,Drama,7025496.0,PG,6.2,Patrick Swayze,2311,Clifford Green,Three Wishes,1995,7+,6.1,13%,0,0,1,0,0,English,115.0
+218,0.0,Rysher Entertainment,USA,Jack Baran,Crime,1176982.0,R,4.5,Dylan McDermott,1959,Robert Ramsey,Destiny Turns on the Radio,1995,18+,4.5,17%,0,0,1,0,0,English,102.0
+219,50000000.0,TriStar Pictures,USA,Cameron Crowe,Comedy,153952592.0,R,7.3,Tom Cruise,204244,Cameron Crowe,Jerry Maguire,1996,18+,7.3,83%,1,0,0,0,0,"English,American Sign Language",139.0
+220,31000000.0,United Artists,USA,Mike Nichols,Comedy,124060553.0,R,7.0,Robin Williams,66577,Jean Poiret,The Birdcage,1996,18+,7.1,79%,0,0,1,0,0,English,117.0
+221,15000000.0,Motion Picture Corporation of America (MPCA),USA,Jason Bloom,Comedy,26757000.0,PG-13,4.4,Pauly Shore,22728,Adam Leff,Bio-Dome,1996,13+,4.5,4%,0,0,1,0,0,English,88.0
+222,75000000.0,Walt Disney Pictures,USA,Stephen Herek,Adventure,136189294.0,G,5.7,Glenn Close,81872,Dodie Smith,101 Dalmatians,1996,all,5.7,42%,0,0,0,1,0,"English,Spanish",103.0
+223,38000000.0,Walt Disney Pictures,UK,Henry Selick,Animation,28934758.0,PG,6.7,Paul Terry,52633,Roald Dahl,James and the Giant Peach,1996,7+,6.7,91%,0,0,0,1,0,English,79.0
+224,26000000.0,Paramount Pictures,USA,Hugh Wilson,Comedy,105489203.0,PG,6.2,Goldie Hawn,34686,Olivia Goldsmith,The First Wives Club,1996,7+,6.4,50%,1,0,1,0,0,English,103.0
+225,57000000.0,Universal Pictures,USA,Rob Cohen,Action,51367375.0,PG-13,6.4,Dennis Quaid,82032,Patrick Read Johnson,DragonHeart,1996,13+,6.5,50%,1,0,0,0,0,English,103.0
+226,200000.0,Doug Liman Productions,USA,Doug Liman,Comedy,4505922.0,R,7.3,Vince Vaughn,67289,Jon Favreau,Swingers,1996,18+,7.2,87%,0,1,0,0,0,English,96.0
+227,45000000.0,American Zoetrope,USA,Francis Ford Coppola,Comedy,58620973.0,PG-13,5.8,Robin Williams,49346,James DeMonaco,Jack,1996,13+,5.8,18%,0,0,0,1,0,English,117.5
+228,4100000.0,Rysher Entertainment,USA,Campbell Scott,Drama,11881039.0,R,7.3,Tony Shalhoub,13983,Stanley Tucci,Big Night,1996,18+,7.3,96%,0,0,1,0,0,"English,Italian",109.0
+229,3000000.0,Green Parrot,USA,Paul Thomas Anderson,Crime,222559.0,R,7.3,Philip Baker Hall,31261,Paul Thomas Anderson,Hard Eight,1996,18+,7.2,84%,0,0,1,0,0,English,102.0
+230,45000000.0,Paramount Pictures,USA,Simon Wincer,Action,17300889.0,PG,4.9,Billy Zane,28886,Lee Falk,The Phantom,1996,7+,4.9,42%,0,0,1,0,0,English,100.0
+231,0.0,"Jim Henson Company, The",USA,Brian Henson,Action,33609000.0,G,6.9,Tim Curry,17264,Robert Louis Stevenson,Muppet Treasure Island,1996,all,7.0,73%,0,0,0,1,0,English,99.0
+232,0.0,Chestnut Hill Productions,USA,Annette Haywood-Carter,Drama,258263.0,R,6.2,Hedy Burress,7419,Joyce Carol Oates,Foxfire,1996,18+,6.2,27%,0,1,1,0,0,English,102.0
+233,20000000.0,Interscope Communications,USA,Paul Michael Glaser,Comedy,18876581.0,PG,2.8,Shaquille O'Neal,20357,Paul Michael Glaser,Kazaam,1996,7+,3.0,6%,0,0,0,1,0,English,93.0
+234,0.0,Polygram Filmed Entertainment,UK,Jane Campion,Drama,3692836.0,PG-13,6.3,Nicole Kidman,9274,Henry James,The Portrait of a Lady,1996,13+,6.2,45%,0,0,1,0,0,"English,Italian",144.0
+235,0.0,Walt Disney Pictures,USA,David R. Ellis,Adventure,49142277.0,G,5.9,Michael J. Fox,11514,Chris Hauty,Homeward Bound II: Lost in San Francisco,1996,all,5.9,53%,0,0,0,1,0,English,88.5
+236,0.0,Rysher Entertainment,USA,Robert Harling,Comedy,12767815.0,PG-13,5.8,Shirley MacLaine,3609,Larry McMurtry,The Evening Star,1996,13+,5.9,22%,0,0,1,0,0,English,129.0
+237,0.0,Metro-Goldwyn-Mayer (MGM),USA,Harry Winer,Comedy,6970578.0,PG,5.7,Jamie Lee Curtis,6920,Michael Hitchcock,House Arrest,1996,7+,5.8,10%,0,0,1,0,0,English,108.0
+238,1300000.0,Addis Wechsler Pictures,USA,Steve Buscemi,Comedy,695229.0,R,7.2,Steve Buscemi,11933,Steve Buscemi,Trees Lounge,1996,18+,7.1,81%,0,0,1,0,0,English,95.0
+239,0.0,Caravan Pictures,USA,David Mickey Evans,Family,26459681.0,PG,5.2,Sinbad,8148,Tim Kelleher,First Kid,1996,7+,5.2,23%,0,0,0,1,0,English,101.0
+240,0.0,Metro-Goldwyn-Mayer (MGM),USA,Pen Densham,Drama,3363968.0,PG-13,6.5,Robin Wright,3564,Daniel Defoe,Moll Flanders,1996,13+,6.5,43%,0,0,1,0,0,English,123.0
+241,25000000.0,Metro-Goldwyn-Mayer (MGM),USA,Kevin Hooks,Action,17100000.0,R,5.3,Laurence Fishburne,7433,Preston A. Whitmore II,Fled,1996,18+,5.4,16%,0,0,1,0,0,"English,Spanish",98.0
+242,17000000.0,Regency Enterprises,USA,Arthur Hiller,Comedy,3308758.0,PG,4.9,Tom Arnold,3658,Don Rhymer,Carpool,1996,7+,5.0,13%,0,0,1,0,0,English,89.0
+243,10000000.0,Be Gentlemen Limited Partnership,USA,Gus Van Sant,Drama,138433435.0,R,8.3,Robin Williams,675871,Matt Damon,Good Will Hunting,1997,18+,8.3,97%,0,1,0,0,0,English,126.0
+244,60000000.0,Golar Productions,UK,Paul W.S. Anderson,Horror,26673242.0,R,6.7,Laurence Fishburne,130640,Philip Eisner,Event Horizon,1997,18+,6.7,27%,1,0,0,0,0,"English,Latin",96.0
+245,110000000.0,Eon Productions,UK,Roger Spottiswoode,Action,125332007.0,PG-13,6.5,Pierce Brosnan,157749,Bruce Feirstein,Tomorrow Never Dies,1997,13+,6.5,57%,1,0,0,0,0,"English,German,Danish,Mandarin,Cantonese",119.0
+246,50000000.0,Twentieth Century Fox Film Corporation,USA,Don Bluth,Animation,58406347.0,G,7.1,Meg Ryan,94409,Susan Gauthier,Anastasia,1997,all,5.5,85%,0,0,1,0,0,"English,Russian,French",94.0
+247,50000000.0,TriStar Pictures,USA,James L. Brooks,Comedy,148478011.0,PG-13,7.7,Jack Nicholson,238028,Mark Andrus,As Good as It Gets,1997,13+,7.7,85%,1,0,0,0,0,English,139.0
+248,17000000.0,Capella International,USA,Jay Roach,Adventure,53883989.0,PG-13,7.0,Mike Myers,193479,Mike Myers,Austin Powers: International Man of Mystery,1997,13+,7.0,71%,1,0,0,0,0,English,94.0
+249,40000000.0,Constellation Entertainment,USA,Francis Ford Coppola,Crime,45856732.0,PG-13,7.1,Matt Damon,50025,John Grisham,The Rainmaker,1997,13+,7.2,83%,1,0,1,0,0,English,135.0
+250,55000000.0,Walt Disney Pictures,USA,Sam Weisman,Action,105263257.0,PG,5.4,Brendan Fraser,60243,Jay Ward,George of the Jungle,1997,7+,5.5,57%,0,0,0,1,0,"English,Spanish",92.0
+251,85000000.0,Columbia Pictures Corporation,USA,Wolfgang Petersen,Action,172956409.0,R,6.5,Harrison Ford,155674,Andrew W. Marlowe,Air Force One,1997,18+,6.5,76%,0,0,1,0,0,"English,Russian",124.0
+252,32000000.0,Twentieth Century Fox Film Corporation,USA,Raja Gosnell,Comedy,30882515.0,PG,4.3,Alex D. Linz,83369,John Hughes,Home Alone 3,1997,7+,4.5,29%,0,0,0,1,0,"English,Polish",102.0
+253,3500000.0,Redwave Films,UK,Peter Cattaneo,Comedy,45950122.0,R,7.2,Robert Carlyle,86993,Simon Beaufoy,The Full Monty,1997,18+,7.2,96%,0,1,0,0,0,English,91.0
+254,27000000.0,Paramount Pictures,USA,Gary Fleder,Crime,60527873.0,R,6.6,Morgan Freeman,54408,James Patterson,Kiss the Girls,1997,18+,6.6,29%,1,0,1,0,0,"English,Mandarin",115.0
+255,250000.0,Too Askew Prod. Inc.,USA,Kevin Smith,Comedy,12006514.0,R,7.3,Ben Affleck,119658,Kevin Smith,Chasing Amy,1997,18+,7.2,87%,1,0,0,0,0,English,113.0
+256,32000000.0,Walt Disney Pictures,USA,John Pasquin,Comedy,59925026.0,PG,5.1,Tim Allen,19393,Herv Palud,Jungle 2 Jungle,1997,7+,5.2,19%,0,0,0,1,0,English,105.0
+257,36000000.0,Dino De Laurentiis Company,USA,Jonathan Mostow,Action,50129186.0,R,6.9,Kurt Russell,40913,Jonathan Mostow,Breakdown,1997,18+,6.9,80%,0,0,1,0,0,English,93.0
+258,80000000.0,Walt Disney Pictures,USA,Les Mayfield,Comedy,92977226.0,PG,5.2,Robin Williams,69813,Samuel W. Taylor,Flubber,1997,7+,5.3,24%,0,0,0,1,0,English,93.0
+259,50000000.0,DreamWorks,USA,Mimi Leder,Action,41263140.0,R,5.9,George Clooney,48476,Leslie Cockburn,The Peacemaker,1997,18+,5.9,39%,1,0,0,0,0,"English,Russian,Serbian,Bosnian,Croatian,Polish",124.0
+260,40000000.0,British Broadcasting Corporation (BBC),UK,Peter Hyams,Horror,33956608.0,R,5.7,Penelope Ann Miller,20582,Douglas Preston,The Relic,1997,18+,5.8,34%,0,0,1,0,0,English,110.0
+261,7500000.0,Fox 2000 Pictures,USA,George Tillman Jr.,Comedy,43490057.0,R,7.0,Vanessa Williams,5761,George Tillman Jr.,Soul Food,1997,18+,7.0,81%,0,1,0,0,0,English,115.0
+262,37000000.0,Pacific Western,USA,Jeb Stuart,Crime,6482195.0,R,6.4,Danny Glover,10585,Jeb Stuart,Switchback,1997,18+,6.4,32%,0,0,1,0,0,English,118.0
+263,12000000.0,Channel Four Films,UK,Danny Boyle,Comedy,4266243.0,R,6.4,Cameron Diaz,31471,John Hodge,A Life Less Ordinary,1997,18+,6.4,39%,0,1,0,0,0,English,103.0
+265,0.0,Triumph Films,Canada,Lance Young,Drama,207751.0,R,6.1,Craig Sheffer,1775,Lance Young,Bliss,1997,18+,6.0,46%,0,0,1,0,0,English,107.0
+266,0.0,Warner Bros.,USA,Sam Pillsbury,Adventure,3519178.0,PG,4.6,Jason James Richter,7706,Keith Walker,Free Willy 3: The Rescue,1997,7+,4.7,44%,0,1,0,0,0,English,86.0
+267,0.0,Robert Simonds Productions,USA,Bob Spiers,Action,18301610.0,PG,4.6,Christina Ricci,3491,Gordon Gordon,That Darn Cat,1997,7+,4.7,13%,0,0,0,1,0,"English,French",102.5
+268,7000000.0,"Rank Organisation, The",UK,John Duigan,Drama,106292.0,R,7.6,Sam Rockwell,6638,Naomi Wallace,Lawn Dogs,1997,18+,7.5,72%,0,0,1,0,0,English,101.0
+269,3000000.0,Gruber Bros,UK,Stefan Schwartz,Comedy,302204.0,PG,6.6,Dan Futterman,6880,Stefan Schwartz,Shooting Fish,1997,7+,6.6,57%,0,0,1,0,0,English,109.0
+270,0.0,Davis Entertainment Classics,USA,Timothy Hutton,Drama,33556.0,PG,6.9,Evan Rachel Wood,2228,Karen Janszen,Digging to China,1997,7+,6.8,43%,0,0,1,0,0,English,98.0
+271,90000000.0,Walt Disney Feature Animation Florida,USA,Tony Bancroft,Animation,120620254.0,G,7.6,Ming-Na Wen,193214,Robert D. San Souci,Mulan,1998,all,7.6,86%,0,0,0,1,0,English,101.5
+272,60000.0,Harvest Filmworks,USA,Darren Aronofsky,Drama,3216970.0,R,7.5,Sean Gullette,151309,Darren Aronofsky,Pi,1998,18+,7.4,88%,0,0,1,0,0,"English,Hebrew",84.0
+273,0.0,Cinema Vehicle Services,USA,Nancy Meyers,Adventure,66308518.0,PG,6.5,Lindsay Lohan,96539,Erich Kstner,The Parent Trap,1998,7+,6.5,86%,0,0,0,1,0,"English,French",128.0
+274,75000000.0,Paramount Pictures,USA,Mimi Leder,Action,140464664.0,PG-13,6.1,Robert Duvall,142094,Bruce Joel Rubin,Deep Impact,1998,13+,6.2,45%,1,0,0,0,0,English,120.0
+275,120000000.0,Pixar Animation Studios,USA,John Lasseter,Animation,162798565.0,G,7.2,Kevin Spacey,226736,John Lasseter,A Bug's Life,1998,all,7.2,92%,0,0,0,1,0,English,95.0
+276,70000000.0,DreamWorks Animation,USA,Brenda Chapman,Animation,101217900.0,PG,7.0,Val Kilmer,98359,Philip LaZebnik,The Prince of Egypt,1998,7+,7.1,80%,0,1,0,0,0,"English,Hebrew",99.0
+277,65000000.0,TriStar Pictures,USA,Martin Campbell,Action,94095523.0,PG-13,6.7,Antonio Banderas,144796,Johnston McCulley,The Mask of Zorro,1998,13+,6.7,82%,1,0,0,0,0,English,136.0
+278,35000000.0,United Artists Corporation,USA,Randall Wallace,Action,56968902.0,PG-13,6.5,Leonardo DiCaprio,134842,Alexandre Dumas,The Man in the Iron Mask,1998,13+,6.5,33%,0,0,1,0,0,"English,Italian",132.0
+279,130000000.0,Centropolis Film Productions,USA,Roland Emmerich,Action,136314294.0,PG-13,5.3,Matthew Broderick,160038,Dean Devlin,Godzilla,1998,13+,5.4,16%,1,0,0,0,0,"English,Japanese",131.0
+281,10000000.0,Columbia Pictures Corporation,USA,Harry Elfont,Comedy,25339117.0,PG-13,6.5,Jennifer Love Hewitt,39581,Deborah Kaplan,Can't Hardly Wait,1998,13+,6.5,42%,1,0,0,0,0,English,100.0
+282,30000000.0,PolyGram Filmed Entertainment,UK,Shekhar Kapur,Biography,30082699.0,R,7.5,Cate Blanchett,80195,Michael Hirst,Elizabeth,1998,18+,7.4,82%,1,0,0,0,0,"English,French",124.0
+283,58000000.0,Paramount Pictures,USA,Jonathan Frakes,Action,70117571.0,PG,6.4,Patrick Stewart,60249,Gene Roddenberry,Star Trek: Insurrection,1998,7+,6.4,55%,0,1,1,0,0,English,103.0
+284,17000000.0,Broadway Pictures,USA,John Fortenberry,Comedy,30324946.0,PG-13,6.2,Chris Kattan,50769,Steve Koren,A Night at the Roxbury,1998,13+,6.3,11%,1,0,1,0,0,English,82.0
+286,220000000.0,Marvel Studios,USA,Joss Whedon,Action,623357910.0,PG-13,8.1,Robert Downey Jr.,1064633,Joss Whedon,The Avengers,2012,13+,8.0,92%,0,0,1,1,0,"English,Russian,Hindi",143.0
+287,71500000.0,Twentieth Century Fox Film Corporation,USA,Betty Thomas,Comedy,144156605.0,PG-13,5.3,Eddie Murphy,79986,Hugh Lofting,Doctor Dolittle,1998,13+,5.4,42%,0,0,0,1,0,English,85.0
+288,105000000.0,DreamWorks,USA,Eric Darnell,Animation,90757863.0,PG,6.6,Woody Allen,131396,Todd Alcott,Antz,1998,7+,6.5,93%,0,1,0,0,0,English,83.0
+289,24000000.0,Paramount Pictures,USA,Igor Kovalyov,Animation,100494675.0,G,5.9,Elizabeth Daily,15183,David N. Weiss,The Rugrats Movie,1998,all,5.9,59%,1,0,0,0,0,English,79.0
+290,90000000.0,RKO Pictures,USA,Ron Underwood,Action,50632037.0,PG,5.6,Bill Paxton,24374,Merian C. Cooper,Mighty Joe Young,1998,7+,5.6,55%,0,0,0,1,0,"English,Swahili",114.0
+291,5000000.0,Rysher Entertainment,USA,Don Roos,Comedy,5881367.0,R,6.5,Christina Ricci,18791,Don Roos,The Opposite of Sex,1998,18+,6.3,80%,0,0,1,0,0,English,105.0
+293,3500000.0,Lions Gate Films,USA,Bill Condon,Biography,6390032.0,R,7.5,Ian McKellen,26050,Christopher Bram,Gods and Monsters,1998,18+,7.4,95%,0,1,0,0,0,"English,Hungarian",105.0
+294,5000000.0,Fox Searchlight Pictures,USA,Tamara Jenkins,Comedy,5480318.0,R,6.6,Natasha Lyonne,10079,Tamara Jenkins,Slums of Beverly Hills,1998,18+,6.6,80%,0,1,0,0,0,English,91.0
+296,20000000.0,Cinehaus,USA,Robert Benton,Crime,15030732.0,R,6.2,Paul Newman,8769,Robert Benton,Twilight,1998,18+,6.2,60%,0,0,1,0,0,English,108.0
+298,12000000.0,AMLF,UK,Gillies MacKinnon,Adventure,1262786.0,R,6.1,Kate Winslet,5757,Esther Freud,Hideous Kinky,1998,18+,6.0,65%,0,0,1,0,0,"English,French,Arabic",98.0
+299,0.0,Edward R. Pressman Film,USA,Abel Ferrara,Drama,20416.0,R,4.9,Christopher Walken,3666,William Gibson,New Rose Hotel,1999,18+,5.1,19%,0,0,1,0,0,"English,German,Japanese",93.0
+300,30000000.0,Walt Disney Pictures,USA,Arlene Sanford,Comedy,12213678.0,PG,5.4,Jonathan Taylor Thomas,7267,Tom Nursall,I'll Be Home for Christmas,1998,all,5.5,23%,0,0,0,1,0,English,86.0
+302,2000000.0,UK Film Council,Australia,John Hillcoat,Crime,1900725.0,R,7.4,Ray Winstone,44941,Nick Cave,The Proposition,2005,18+,7.4,86%,0,0,1,0,0,English,99.0
+303,0.0,Mindfire Entertainment,USA,Robert Meyer Burnett,Comedy,30229.0,R,7.0,Rafer Weigel,2954,Mark A. Altman,Free Enterprise,1998,18+,6.8,83%,0,0,1,0,0,English,113.0
+304,24000000.0,DIC Entertainment,USA,Steve Boyum,Comedy,4308981.0,PG,3.9,Paul Walker,2385,Jim Herzfeld,Meet the Deedles,1998,7+,4.1,7%,0,0,0,1,0,English,93.0
+305,10000000.0,Initial Entertainment Group (IEG),USA,Predrag Antonijevic,Drama,12903.0,R,7.3,Dennis Quaid,9097,Robert Orr,Savior,1998,18+,7.3,56%,0,0,1,0,0,"English,Serbian,French",103.0
+306,63000000.0,Warner Bros.,USA,Lana Wachowski,Action,171479930.0,R,8.7,Keanu Reeves,1339820,Lilly Wachowski,The Matrix,1999,18+,8.7,87%,1,0,0,0,0,English,136.0
+307,60000000.0,Castle Rock Entertainment,USA,Frank Darabont,Crime,136801374.0,R,8.5,Tom Hanks,879924,Stephen King,The Green Mile,1999,18+,8.6,78%,0,1,0,0,0,"English,French",189.0
+308,115000000.0,Lucasfilm,USA,George Lucas,Action,474544677.0,PG,6.5,Ewan McGregor,584809,George Lucas,Star Wars: Episode I - The Phantom Menace,1999,7+,6.5,53%,0,0,0,1,0,English,136.0
+309,6000000.0,American Zoetrope,USA,Sofia Coppola,Drama,4859475.0,R,7.2,Kirsten Dunst,125166,Jeffrey Eugenides,The Virgin Suicides,1999,18+,7.2,76%,0,0,1,0,0,English,97.0
+310,37000000.0,Ghoulardi Film Company,USA,Paul Thomas Anderson,Drama,22455976.0,R,8.0,Tom Cruise,253771,Paul Thomas Anderson,Magnolia,1999,18+,8.0,83%,1,0,0,0,0,"English,German,French",188.0
+311,33000000.0,New Line Cinema,USA,Jay Roach,Action,206040086.0,PG-13,6.6,Mike Myers,191205,Mike Myers,Austin Powers: The Spy Who Shagged Me,1999,13+,6.6,52%,1,0,0,0,0,"English,German",95.0
+312,7000000.0,Franchise Pictures,USA,Troy Duffy,Action,25812.0,R,7.9,Willem Dafoe,206785,Troy Duffy,The Boondock Saints,1999,18+,7.8,22%,0,0,1,0,0,"English,Spanish,Papiamento,Russian,Latin",108.0
+313,90000000.0,Pixar Animation Studios,USA,John Lasseter,Animation,245852179.0,G,7.9,Tom Hanks,420432,John Lasseter,Toy Story 2,1999,all,7.9,100%,0,0,0,1,0,"English,Arabic,Spanish",92.0
+314,135000000.0,Danjaq,UK,Michael Apted,Action,126943684.0,PG-13,6.4,Pierce Brosnan,165433,Neal Purvis,The World Is Not Enough,1999,13+,6.4,52%,1,0,0,0,0,"English,Russian,Spanish",128.0
+315,130000000.0,Walt Disney Pictures,USA,Chris Buck,Animation,171091819.0,G,7.2,Tony Goldwyn,160561,Tab Murphy,Tarzan,1999,all,7.3,89%,1,0,0,0,0,"English,Lingala,French",99.0
+317,10000000.0,Asymmetrical Productions,France,David Lynch,Biography,6203044.0,G,8.0,Richard Farnsworth,68583,John Roach,The Straight Story,1999,all,8.0,95%,0,0,0,1,0,English,112.0
+318,29000000.0,Metro-Goldwyn-Mayer (MGM),USA,Rupert Wainwright,Horror,50046268.0,R,6.2,Patricia Arquette,57128,Tom Lazarus,Stigmata,1999,18+,6.2,22%,0,0,1,0,0,"English,Assyrian Neo-Aramaic,Portuguese,Italian,Aramaic",103.0
+319,80000000.0,Walt Disney Pictures,USA,James Algar,Animation,60655420.0,G,7.2,James Levine,29666,Eric Goldberg,Fantasia 2000,1999,all,7.2,81%,0,0,0,1,0,English,87.5
+321,0.0,Channel Four Films,Italy,Tim Roth,Drama,254441.0,R,7.4,Ray Winstone,8458,Alexander Stuart,The War Zone,1999,18+,7.3,84%,0,0,1,0,0,English,98.0
+322,0.0,Bandai Visual Company,Japan,Hiroyuki Okiura,Animation,94591.0,R,7.5,Michael Dobson,12129,Mamoru Oshii,Jin-Roh: The Wolf Brigade,1999,18+,7.4,55%,0,0,1,0,0,Japanese,102.0
+323,4000000.0,Baumgarten-Prophet Entertainment,USA,Jeff Franklin,Comedy,2800000.0,R,5.8,French Stewart,4508,Jeff Franklin,Love Stinks,1999,18+,5.8,19%,0,0,1,0,0,English,94.0
+324,8500000.0,Elysian Dreams,USA,Robert Altman,Comedy,10919177.0,PG-13,6.9,Glenn Close,11540,Anne Rapp,Cookie's Fortune,1999,13+,6.8,86%,1,0,0,0,0,English,118.0
+325,0.0,Franchise Pictures,USA,John Swanbeck,Drama,3150107.0,R,6.7,Kevin Spacey,12697,Roger Rueff,The Big Kahuna,2000,18+,6.6,73%,0,0,1,0,0,English,90.0
+326,21000000.0,Absolute Entertainment (II),USA,John Duigan,Comedy,15593.0,PG-13,5.8,Elisabeth Shue,2410,Richard Christie,Molly,1999,13+,5.8,14%,0,0,1,0,0,English,93.5
+327,0.0,Winslow Partners Ltd.,UK,David Mamet,Drama,3956112.0,G,7.4,Rebecca Pidgeon,6669,Terence Rattigan,The Winslow Boy,1999,all,7.3,97%,0,0,1,0,0,English,110.5
+329,110000000.0,Columbia Pictures Corporation,USA,Roland Emmerich,Action,113330342.0,R,7.2,Mel Gibson,221478,Robert Rodat,The Patriot,2000,18+,7.2,61%,1,1,0,0,0,"English,French",165.0
+330,30000000.0,Jerry Bruckheimer Films,USA,Boaz Yakin,Biography,115654751.0,PG,7.8,Denzel Washington,171757,Gregory Allen Howard,Remember the Titans,2000,7+,7.8,73%,0,0,0,1,0,English,113.0
+331,19000000.0,Dimension Films,USA,Keenen Ivory Wayans,Comedy,157019771.0,R,6.2,Anna Faris,199176,Shawn Wayans,Scary Movie,2000,18+,6.2,53%,1,0,0,0,0,English,99.5
+332,100000000.0,DreamWorks,USA,Robert Zemeckis,Drama,155464351.0,PG-13,6.6,Harrison Ford,103332,Clark Gregg,What Lies Beneath,2000,13+,6.6,46%,1,0,0,0,0,English,130.0
+333,23000000.0,New Line Cinema,USA,James Wong,Horror,53331147.0,R,6.7,Devon Sawa,194181,Glen Morgan,Final Destination,2000,18+,6.7,35%,1,0,0,0,0,"English,French",98.0
+334,123000000.0,Universal Pictures,USA,Ron Howard,Comedy,260044825.0,PG,6.0,Jim Carrey,155553,Dr. Seuss,How the Grinch Stole Christmas,2000,7+,6.2,50%,1,0,0,0,0,English,104.0
+335,100000000.0,Walt Disney Feature Animation,USA,Mark Dindal,Animation,89302687.0,G,7.3,David Spade,141885,Chris Williams,The Emperor's New Groove,2000,all,7.3,85%,0,0,0,1,0,English,78.0
+336,95000000.0,DreamWorks Animation,USA,Bibo Bergeron,Animation,50863742.0,PG,6.9,Kevin Kline,65786,Terry Rossio,The Road to El Dorado,2000,7+,6.9,48%,0,1,0,0,0,English,89.0
+337,2000000.0,Altavista Films,Mexico,Alejandro Gonzlez Irritu,Drama,5383834.0,R,8.1,Emilio Echevarra,187814,Guillermo Arriaga,Amores Perros,2000,18+,8.1,92%,0,0,1,0,0,Spanish,154.0
+338,127500000.0,Walt Disney Pictures,USA,Eric Leighton,Animation,137748063.0,PG,6.5,D.B. Sweeney,42134,Thom Enriquez,Dinosaur,2000,7+,6.5,64%,0,0,0,1,0,English,82.0
+339,45000000.0,Aardman Animations,UK,Peter Lord,Animation,106834564.0,G,7.0,Mel Gibson,150396,Peter Lord,Chicken Run,2000,all,7.0,97%,0,1,0,0,0,English,84.0
+340,29000000.0,Columbia Pictures Corporation,USA,Nicholas Hytner,Drama,17174870.0,PG-13,6.7,Amanda Schull,16575,Carol Heikkinen,Center Stage,2000,13+,6.7,42%,1,0,0,0,0,English,115.0
+341,25000000.0,Warner Bros.,USA,Andrzej Bartkowiak,Action,55973336.0,R,6.1,Jet Li,59814,Mitchell Kapner,Romeo Must Die,2000,18+,6.1,32%,1,0,0,0,0,"English,Chinese",115.0
+342,1200000.0,Hart-Sharp Entertainment,USA,Kenneth Lonergan,Drama,9180275.0,R,7.7,Laura Linney,24362,Kenneth Lonergan,You Can Count on Me,2000,18+,7.5,95%,0,0,1,0,0,English,111.0
+343,85000000.0,Cruella Productions,USA,Kevin Lima,Adventure,66957026.0,G,4.8,Glenn Close,28524,Dodie Smith,102 Dalmatians,2000,all,4.9,31%,0,0,0,1,0,English,100.0
+345,30000000.0,Lewitt / Eberts Prouctions,USA,Joe Charbanic,Crime,28927720.0,R,5.3,James Spader,23123,Darcy Meyers,The Watcher,2000,18+,5.3,10%,1,0,0,0,0,English,100.0
+346,8500000.0,Artisan Entertainment,USA,Christopher McQuarrie,Action,6055661.0,R,6.7,Ryan Phillippe,28466,Christopher McQuarrie,The Way of the Gun,2000,18+,6.7,45%,0,0,1,0,0,"English,Spanish",119.0
+347,23000000.0,Artisan Entertainment,USA,Robert Altman,Comedy,13113041.0,R,4.6,Richard Gere,16174,Anne Rapp,Dr. T & the Women,2000,18+,4.6,56%,0,1,1,0,0,"English,German,Spanish",122.0
+348,16000000.0,StudioCanal,USA,Kathryn Bigelow,Crime,102622.0,R,5.9,Catherine McCormack,7993,Anita Shreve,The Weight of Water,2000,18+,5.9,35%,0,0,1,0,0,English,107.0
+349,24000000.0,Broadway Pictures,USA,Reginald Hudlin,Comedy,13592872.0,R,5.1,Tim Meadows,11223,Tim Meadows,The Ladies Man,2000,18+,5.2,11%,0,0,1,0,0,English,84.0
+350,13000000.0,MFF Feature Film Productions,USA,Chris Koch,Adventure,60020107.0,PG,5.0,Chevy Chase,9929,Will McRobb,Snow Day,2000,7+,5.1,29%,1,0,0,0,0,English,89.0
+351,30000000.0,Paramount Pictures,Germany,Stig Bergqvist,Animation,76507756.0,G,6.1,Christine Cavanaugh,8974,J. David Stem,Rugrats in Paris: The Movie,2000,all,6.1,76%,1,0,0,0,0,"English,French",78.0
+352,65000000.0,Paramount Pictures,USA,Chuck Russell,Crime,29374178.0,R,5.1,Kim Basinger,12659,Cathy Cash Spellman,Bless the Child,2000,18+,5.1,3%,0,0,1,0,0,English,107.0
+353,63000000.0,Paramount Pictures,France,Nora Ephron,Comedy,10014234.0,R,5.0,John Travolta,8957,Adam Resnick,Lucky Numbers,2000,18+,5.0,22%,0,0,1,0,0,English,105.0
+354,3600000.0,Animal Productions LLC,USA,Steve Buscemi,Crime,43805.0,R,6.6,Willem Dafoe,11086,Edward Bunker,Animal Factory,2000,18+,6.6,82%,0,0,1,0,0,English,94.0
+355,8000000.0,Icon Entertainment International,Germany,Wim Wenders,Drama,52526.0,R,5.9,Jeremy Davies,19103,Bono,The Million Dollar Hotel,2000,18+,5.9,25%,0,0,1,0,0,English,122.0
+356,30000000.0,Disney Television Animation,USA,Jun Falkenstein,Animation,45554533.0,G,6.3,Jim Cummings,14258,A.A. Milne,The Tigger Movie,2000,all,6.3,62%,0,0,0,1,0,English,77.0
+357,10000000.0,Universal Pictures,USA,Scott Alexander,Comedy,7027345.0,PG-13,5.7,Norm MacDonald,7286,Scott Alexander,Screwed,2000,18+,5.8,13%,1,0,1,0,0,English,81.0
+358,0.0,Daly-Harris Productions,USA,Del Shores,Comedy,1111273.0,R,6.8,Delta Burke,2477,Del Shores,Sordid Lives,2000,18+,6.8,37%,0,0,1,0,0,English,111.0
+359,51000000.0,Castle Rock Entertainment,Canada,Antoine Fuqua,Action,15325127.0,R,5.7,Jamie Foxx,9493,Andrew Scheinman,Bait,2000,18+,5.8,26%,0,0,1,0,0,English,106.0
+360,4500000.0,Keystone Family Pictures,Canada,Robert Vince,Comedy,1246237.0,PG,3.8,Bernie,1908,Anne Vince,MVP: Most Valuable Primate,2000,7+,4.1,20%,0,0,1,0,0,English,93.0
+361,115000000.0,Pixar Animation Studios,USA,Pete Docter,Animation,289916256.0,G,8.1,Billy Crystal,652440,Pete Docter,"Monsters, Inc.",2001,all,8.0,96%,0,0,0,1,0,English,92.0
+362,53000000.0,Apostle,USA,Ted Demme,Biography,52990775.0,R,7.6,Johnny Depp,210713,Bruce Porter,Blow,2001,18+,7.6,55%,1,0,0,0,0,English,124.0
+363,26000000.0,Walt Disney Pictures,USA,Garry Marshall,Comedy,108248956.0,G,6.3,Julie Andrews,103820,Meg Cabot,The Princess Diaries,2001,all,6.3,48%,0,0,0,1,0,"English,Dutch,Italian",111.0
+364,120000000.0,Walt Disney Feature Animation,USA,Gary Trousdale,Animation,84052762.0,PG,6.8,Michael J. Fox,80961,Tab Murphy,Atlantis: The Lost Empire,2001,7+,6.9,49%,0,0,0,1,0,"English,French,Spanish",95.0
+365,45000000.0,Dimension Films,USA,Keenen Ivory Wayans,Comedy,71308997.0,R,5.3,Anna Faris,127881,Shawn Wayans,Scary Movie 2,2001,18+,5.3,15%,1,0,0,0,0,English,83.0
+366,25000000.0,Miramax,UK,Sharon Maguire,Comedy,71543427.0,R,6.7,Rene Zellweger,188905,Helen Fielding,Bridget Jones's Diary,2001,18+,6.7,80%,0,0,1,0,0,English,97.0
+367,48000000.0,Paramount Pictures,USA,Jerry Zucker,Adventure,56618055.0,PG-13,6.4,Breckin Meyer,97606,Andy Breckman,Rat Race,2001,13+,6.4,44%,0,0,1,0,0,English,112.0
+368,68000000.0,Paramount Pictures,USA,Frank Oz,Crime,71069884.0,R,6.8,Robert De Niro,107003,Daniel E. Taylor,The Score,2001,18+,6.8,73%,1,0,1,0,0,"English,French",124.0
+369,0.0,StudioCanal,USA,Larry Clark,Biography,1537670.0,R,7.0,Brad Renfro,30774,Jim Schutze,Bully,2001,18+,6.9,54%,0,0,1,0,0,English,108.0
+370,57000000.0,DreamWorks,USA,Gore Verbinski,Adventure,66808615.0,R,6.1,Brad Pitt,91818,J.H. Wyman,The Mexican,2001,18+,6.1,54%,0,1,0,0,0,"English,Spanish",123.0
+371,80000000.0,Columbia Pictures Corporation,USA,Ivan Reitman,Comedy,38345494.0,PG-13,6.1,David Duchovny,106732,Don Jakoby,Evolution,2001,13+,6.1,43%,1,1,1,0,0,English,101.0
+372,48000000.0,Konrad Pictures,USA,James Mangold,Comedy,47121859.0,PG-13,6.4,Meg Ryan,69008,Steven Rogers,Kate & Leopold,2001,13+,6.4,50%,1,0,0,0,0,"English,French",118.0
+373,35000000.0,Davis Entertainment,USA,David Mirkin,Comedy,40334024.0,PG-13,6.2,Sigourney Weaver,46273,Robert Dunn,Heartbreakers,2001,13+,6.2,53%,1,0,0,0,0,"English,Russian",123.0
+374,75000000.0,Metro-Goldwyn-Mayer (MGM),USA,Barry Levinson,Comedy,41575141.0,PG-13,6.5,Bruce Willis,59465,Harley Peyton,Bandits,2001,13+,6.5,64%,1,0,1,0,0,English,123.0
+375,6000000.0,Aamir Khan Productions,India,Ashutosh Gowariker,Adventure,70147.0,PG,8.2,Aamir Khan,82703,Ashutosh Gowariker,Lagaan: Once Upon a Time in India,2001,7+,8.1,95%,1,0,0,0,0,"Hindi,English,Awadhi,Urdu",224.0
+376,30000000.0,Paramount Pictures,USA,John A. Davis,Animation,80936232.0,G,6.0,Debi Derryberry,25867,John A. Davis,Jimmy Neutron: Boy Genius,2001,all,6.0,74%,1,0,0,0,0,English,82.0
+377,70000000.0,Twentieth Century Fox Film Corporation,USA,Steve Carr,Comedy,112952899.0,PG,4.7,Eddie Murphy,36199,Hugh Lofting,Dr. Dolittle 2,2001,7+,4.7,42%,0,0,0,1,0,English,87.0
+378,0.0,Fireworks Pictures,UK,Sandra Goldbacher,Drama,304909.0,R,7.0,Anna Friel,3970,Sandra Goldbacher,Me Without You,2001,18+,6.9,66%,0,0,1,0,0,"English,French",100.5
+379,23000000.0,Disney Television Animation,USA,Chuck Sheetz,Animation,36696761.0,G,6.6,Andrew Lawrence,7522,Paul Germain,Recess: School's Out,2001,all,6.6,60%,0,0,0,1,0,English,82.0
+380,7000000.0,Lions Gate Films,UK,Peter Bogdanovich,Drama,3209481.0,PG-13,6.4,Kirsten Dunst,7093,Steven Peros,The Cat's Meow,2001,13+,6.3,75%,0,0,1,0,0,English,114.0
+382,0.0,Samuel Goldwyn Films,USA,Maria Ripoll,Comedy,4447014.0,PG-13,6.6,Hector Elizondo,3663,Hui-Ling Wang,Tortilla Soup,2001,13+,6.7,74%,0,0,1,0,0,"English,Spanish",102.0
+384,40000000.0,Walt Disney Pictures,USA,Ericson Core,Biography,57789574.0,PG,7.1,Mark Wahlberg,55713,Brad Gann,Invincible,2006,7+,7.1,72%,0,0,0,1,0,"English,Japanese,Italian",121.0
+385,2500000.0,Columbia TriStar Home Video,USA,Blair Treu,Comedy,405182.0,PG,6.5,Evan Rachel Wood,2814,Jessica Barondes,Little Secrets,2001,7+,6.4,60%,0,0,1,0,0,English,96.0
+386,35000000.0,R.P. Productions,France,Roman Polanski,Biography,32572577.0,R,8.5,Adrien Brody,558449,Ronald Harwood,The Pianist,2002,18+,8.5,95%,1,0,1,0,0,"English,German,Russian",150.0
+387,48000000.0,DreamWorks,USA,Gore Verbinski,Horror,129128133.0,PG-13,7.1,Naomi Watts,275425,Ehren Kruger,The Ring,2002,13+,7.1,71%,1,0,1,0,0,English,115.0
+388,102000000.0,Twentieth Century Fox Film Corporation,USA,Steven Spielberg,Action,132072926.0,PG-13,7.7,Tom Cruise,430579,Philip K. Dick,Minority Report,2002,13+,7.6,90%,1,0,0,0,0,"English,Swedish",145.0
+389,80000000.0,DreamWorks,USA,Sam Mendes,Crime,104454762.0,R,7.7,Tom Hanks,214021,Max Allan Collins,Road to Perdition,2002,18+,7.7,81%,1,0,0,0,0,English,117.0
+390,115000000.0,Lucasfilm,USA,George Lucas,Action,310675583.0,PG,6.6,Hayden Christensen,510731,George Lucas,Star Wars: Episode II - Attack of the Clones,2002,7+,6.5,65%,0,0,0,1,0,English,142.0
+391,25000000.0,Paramount Pictures,USA,Stephen Daldry,Drama,41675994.0,PG-13,7.6,Meryl Streep,108353,Michael Cunningham,The Hours,2002,13+,7.5,80%,0,0,1,0,0,English,110.0
+392,20000000.0,Dimension Films,USA,Kurt Wimmer,Action,1203974.0,R,7.5,Christian Bale,277569,Kurt Wimmer,Equilibrium,2002,18+,7.4,40%,1,0,0,0,0,English,107.0
+393,142000000.0,Eon Productions,UK,Lee Tamahori,Action,160942139.0,PG-13,6.1,Pierce Brosnan,179342,Ian Fleming,Die Another Day,2002,13+,6.1,57%,1,0,0,0,0,"English,Korean,Cantonese,Spanish,German,Icelandic,Italian,Arabic",133.0
+394,59000000.0,Twentieth Century Fox Film Corporation,USA,Chris Wedge,Animation,176387405.0,PG,7.6,Denis Leary,357258,Michael J. Wilson,Ice Age,2002,7+,7.5,77%,0,0,0,1,0,English,81.0
+395,80000000.0,Walt Disney Pictures,USA,Dean DeBlois,Animation,145794338.0,PG,7.2,Daveigh Chase,131270,Chris Sanders,Lilo & Stitch,2002,7+,7.2,86%,0,0,0,1,0,"English,Hawaiian",85.0
+396,63000000.0,New Line Cinema,USA,Jay Roach,Action,213307889.0,PG-13,6.2,Mike Myers,172153,Mike Myers,Austin Powers in Goldmember,2002,13+,6.2,54%,1,0,0,0,0,"English,Japanese,German,French",94.0
+397,0.0,Kintop Pictures,UK,Gurinder Chadha,Comedy,32543449.0,PG-13,6.7,Parminder Nagra,94400,Gurinder Chadha,Bend It Like Beckham,2002,13+,6.6,85%,0,1,0,0,0,"English,Punjabi,Hindi,German",112.0
+398,13000000.0,Fox 2000 Pictures,USA,Joel Schumacher,Crime,46566212.0,R,7.1,Colin Farrell,221926,Larry Cohen,Phone Booth,2002,18+,7.0,72%,0,1,0,0,0,"English,Swahili",81.0
+399,140000000.0,Walt Disney Feature Animation,USA,Ron Clements,Animation,38176783.0,PG,7.1,Joseph Gordon-Levitt,79637,Robert Louis Stevenson,Treasure Planet,2002,7+,7.2,69%,0,0,0,1,0,English,95.0
+400,80000000.0,DreamWorks Animation,USA,Kelly Asbury,Animation,73280117.0,G,7.1,Matt Damon,50166,John Fusco,Spirit: Stallion of the Cimarron,2002,all,7.1,70%,0,1,0,0,0,English,83.0
+401,80000000.0,Warner Bros.,USA,Simon Wells,Action,56684819.0,PG-13,5.9,Guy Pearce,108052,H.G. Wells,The Time Machine,2002,13+,6.0,29%,1,0,0,0,0,English,96.0
+402,15000000.0,Walt Disney Pictures,USA,Jay Russell,Drama,19158074.0,PG,6.7,Alexis Bledel,18985,Natalie Babbitt,Tuck Everlasting,2002,7+,6.6,60%,0,0,0,1,0,"English,French",90.0
+403,17000000.0,Miramax,USA,Michael Lehmann,Comedy,37950822.0,R,5.6,Josh Hartnett,64465,Rob Perez,40 Days and 40 Nights,2002,18+,5.6,39%,1,0,0,0,0,English,96.0
+404,2000000.0,Muse Productions,USA,Jonas kerlund,Comedy,410241.0,R,6.8,Jason Schwartzman,33439,Will De Los Santos,Spun,2002,18+,6.8,37%,0,0,1,0,0,English,101.0
+405,15000000.0,Alphaville Films,USA,Ron Shelton,Action,9059588.0,R,6.6,Kurt Russell,18124,James Ellroy,Dark Blue,2002,18+,6.6,59%,0,0,1,0,0,English,118.0
+406,65000000.0,Walt Disney Pictures,USA,Michael Lembeck,Comedy,139236327.0,G,5.6,Tim Allen,38234,Don Rhymer,The Santa Clause 2,2002,all,5.6,56%,0,0,0,1,0,English,104.0
+407,45000000.0,Paramount Pictures,USA,Roger Michell,Drama,66818548.0,R,6.5,Ben Affleck,60451,Chap Taylor,Changing Lanes,2002,18+,6.4,77%,0,0,1,0,0,English,98.0
+408,35000000.0,Walt Disney Pictures,Canada,Brian Levant,Adventure,81172560.0,PG,5.1,Cuba Gooding Jr.,21710,Jim Kouf,Snow Dogs,2002,7+,5.2,25%,0,0,0,1,0,English,99.0
+409,8500000.0,Twentieth Century Fox Film Corporation,USA,John Polson,Drama,28563926.0,PG-13,5.0,Jesse Bradford,17091,Charles F. Bohl,Swimfan,2002,13+,5.1,15%,0,0,1,0,0,English,85.0
+410,35000000.0,Paramount Pictures,UK,Shekhar Kapur,Adventure,18306166.0,PG-13,6.5,Heath Ledger,29532,A.E.W. Mason,The Four Feathers,2002,13+,6.5,41%,0,0,1,0,0,English,132.0
+411,120000000.0,Columbia Pictures Corporation,USA,Rob Minkoff,Animation,64956806.0,PG,5.4,Michael J. Fox,40457,E.B. White,Stuart Little 2,2002,all,5.4,81%,1,0,0,0,0,English,77.0
+412,35000000.0,Walt Disney Pictures,USA,Peter Hastings,Comedy,16988996.0,G,4.0,Haley Joel Osment,4149,Mark Perez,The Country Bears,2002,all,4.1,29%,0,0,0,1,0,English,88.0
+413,10000000.0,First Look International,Germany,Bruce Beresford,Drama,1483975.0,PG,7.0,Pierce Brosnan,5611,Paul Pender,Evelyn,2002,7+,7.0,64%,0,0,1,0,0,English,94.0
+414,9000000.0,United Artists,USA,Burr Steers,Comedy,4681503.0,R,7.0,Kieran Culkin,29911,Burr Steers,Igby Goes Down,2002,18+,6.9,76%,0,0,1,0,0,English,98.0
+418,0.0,Not specified,UK,Lynne Ramsay,Drama,267194.0,R,6.8,Samantha Morton,7294,Lynne Ramsay,Morvern Callar,2002,18+,6.8,84%,0,0,1,0,0,"English,Spanish",97.0
+419,0.0,Robbins Entertainment,USA,Austin Chick,Drama,103874.0,R,6.0,Mark Ruffalo,2877,Austin Chick,XX/XY,2002,18+,5.9,43%,0,1,0,0,0,English,91.0
+420,140000000.0,Walt Disney Pictures,USA,Gore Verbinski,Action,305413918.0,PG-13,8.0,Johnny Depp,886092,Ted Elliott,Pirates of the Caribbean: The Curse of the Black Pearl,2003,13+,8.0,79%,0,0,0,1,0,English,143.0
+421,30000000.0,Miramax,USA,Quentin Tarantino,Action,70099045.0,R,8.1,Uma Thurman,807087,Quentin Tarantino,Kill Bill: Vol. 1,2003,18+,8.1,85%,0,1,0,0,0,"English,Japanese,French",111.0
+422,25000000.0,Warner Bros.,USA,Clint Eastwood,Crime,90135191.0,R,8.0,Sean Penn,361466,Brian Helgeland,Mystic River,2003,18+,7.9,88%,1,0,0,0,0,English,138.0
+423,94000000.0,Pixar Animation Studios,USA,Andrew Stanton,Animation,380843261.0,G,8.1,Albert Brooks,772029,Andrew Stanton,Finding Nemo,2003,all,8.1,99%,0,0,0,1,0,English,100.0
+424,40000000.0,Twentieth Century Fox Film Corporation,USA,Shawn Levy,Comedy,138614544.0,PG,5.8,Steve Martin,80652,Frank B. Gilbreth Jr.,Cheaper by the Dozen,2003,7+,5.9,24%,0,0,0,1,0,English,98.0
+425,150000000.0,Warner Bros.,USA,Lana Wachowski,Action,281492479.0,R,7.2,Keanu Reeves,446954,Lilly Wachowski,The Matrix Reloaded,2003,18+,7.2,73%,1,0,0,0,0,"English,French",138.0
+426,20000000.0,Walt Disney Pictures,USA,Andrew Davis,Adventure,67406573.0,PG,7.1,Shia LaBeouf,63052,Louis Sachar,Holes,2003,7+,7.0,78%,0,0,0,1,0,English,117.0
+427,22000000.0,Lakeshore Entertainment,USA,Len Wiseman,Action,51970690.0,R,7.0,Kate Beckinsale,225226,Kevin Grevioux,Underworld,2003,18+,7.0,31%,1,0,0,0,0,English,121.0
+428,140000000.0,Warner Bros.,USA,Edward Zwick,Action,111110575.0,R,7.7,Tom Cruise,340268,John Logan,The Last Samurai,2003,18+,7.7,66%,1,0,0,0,0,"English,Japanese",154.0
+429,200000000.0,C-2 Pictures,USA,Jonathan Mostow,Action,150371112.0,R,6.3,Arnold Schwarzenegger,326064,James Cameron,Terminator 3: Rise of the Machines,2003,18+,6.3,69%,1,0,0,0,0,English,109.0
+431,78000000.0,Angry Films,USA,Stephen Norrington,Action,66465204.0,PG-13,5.8,Sean Connery,148712,Alan Moore,The League of Extraordinary Gentlemen,2003,13+,5.8,17%,0,1,0,0,0,"English,German,Italian",110.0
+433,109000000.0,Universal Pictures,USA,Bo Welch,Adventure,101149285.0,PG,3.8,Mike Myers,39497,Dr. Seuss,The Cat in the Hat,2003,7+,3.9,9%,1,1,0,0,0,English,82.0
+434,26000000.0,Casual Friday Productions,USA,Mark Waters,Comedy,110230332.0,PG,6.1,Jamie Lee Curtis,104892,Mary Rodgers,Freaky Friday,2003,7+,6.1,88%,0,0,0,1,0,"English,Mandarin",97.0
+435,130000000.0,Columbia Pictures Corporation,USA,Michael Bay,Action,138608444.0,R,6.6,Will Smith,190484,George Gallo,Bad Boys II,2003,18+,6.6,23%,1,0,0,0,0,"English,Spanish,Russian",147.0
+436,26000000.0,New Line Cinema,USA,David R. Ellis,Horror,46961214.0,R,6.2,A.J. Cook,129165,J. Mackye Gruber,Final Destination 2,2003,18+,6.2,48%,1,0,0,0,0,English,90.0
+437,15000000.0,DreamWorks,USA,Vadim Perelman,Drama,13005485.0,R,7.6,Jennifer Connelly,58778,Andre Dubus III,House of Sand and Fog,2003,18+,7.5,74%,0,0,1,0,0,"English,Persian",126.0
+438,17000000.0,Walt Disney Pictures,USA,Jim Fall,Adventure,42672630.0,PG,5.4,Hilary Duff,30128,Susan Estelle Jansen,The Lizzie McGuire Movie,2003,7+,5.5,41%,0,0,0,1,0,"English,Italian",94.0
+439,60000000.0,Paramount Pictures,USA,Jon Amiel,Action,31186896.0,PG-13,5.5,Aaron Eckhart,81258,Cooper Layne,The Core,2003,13+,5.5,40%,1,0,1,0,0,English,135.0
+440,60000000.0,DreamWorks,USA,Patrick Gilmore,Animation,26483452.0,PG,6.7,Brad Pitt,39745,John Logan,Sinbad: Legend of the Seven Seas,2003,7+,6.7,45%,0,1,0,0,0,"English,Cantonese,Italian",85.5
+441,20000000.0,Warner Bros.,USA,Dennie Gordon,Comedy,35990505.0,PG,5.8,Amanda Bynes,51247,William Douglas-Home,What a Girl Wants,2003,7+,5.8,35%,1,0,0,0,0,English,105.0
+442,90000000.0,Walt Disney Pictures,USA,Rob Minkoff,Comedy,75847266.0,PG,4.9,Eddie Murphy,34691,David Berenbaum,The Haunted Mansion,2003,7+,5.0,14%,0,0,0,1,0,English,99.5
+443,80000000.0,Warner Bros.,Germany,Joe Dante,Animation,20991364.0,PG,5.7,Brendan Fraser,26853,Larry Doyle,Looney Tunes: Back in Action,2003,7+,5.7,56%,1,0,0,0,0,English,96.5
+444,50000000.0,Metro-Goldwyn-Mayer (MGM),USA,Carl Franklin,Action,40905277.0,PG-13,6.5,Denzel Washington,49072,David Collard,Out of Time,2003,18+,6.5,64%,0,0,1,0,0,English,105.0
+445,20000000.0,Metro-Goldwyn-Mayer (MGM),USA,Chris Koch,Comedy,15408822.0,PG-13,5.6,Jason Lee,14915,Greg Glienna,A Guy Thing,2003,13+,5.6,24%,0,0,1,0,0,English,101.0
+446,5000000.0,World of Wonder,USA,Fenton Bailey,Biography,728253.0,R,6.3,Macaulay Culkin,13310,Fenton Bailey,Party Monster,2003,18+,6.3,29%,0,0,1,0,0,English,98.0
+447,25000000.0,Klasky-Csupo,USA,John Eng,Animation,39399750.0,PG,5.6,Jodi Carlisle,6205,Kate Boutilier,Rugrats Go Wild,2003,7+,5.6,39%,1,0,0,0,0,English,90.0
+448,8000000.0,British Broadcasting Corporation (BBC),UK,Tim Fywell,Drama,1174139.0,R,7.1,Romola Garai,6060,Dodie Smith,I Capture the Castle,2003,18+,6.9,79%,0,0,1,0,0,English,113.0
+449,3200000.0,ContentFilm,USA,Wayne Kramer,Crime,8243880.0,R,7.0,William H. Macy,29549,Frank Hannah,The Cooler,2003,18+,6.9,77%,0,1,1,0,0,English,101.0
+450,0.0,Dharma Productions,India,Nikkhil Advani,Comedy,1787378.0,NOT RATED,8.0,Preity Zinta,51400,Niranjan Iyengar,Kal Ho Naa Ho,2003,all,8.0,70%,1,0,0,0,0,Hindi,186.0
+451,14000000.0,Dimension Films,USA,David Zucker,Comedy,15550605.0,PG-13,4.7,Ashton Kutcher,25363,David Dorfman,My Boss's Daughter,2003,13+,4.7,8%,0,0,1,0,0,English,86.0
+452,20000000.0,Disney Television Animation,USA,Steve Trenbirth,Animation,47887943.0,G,5.4,John Goodman,12558,Karl Geurs,The Jungle Book 2,2003,all,5.4,19%,0,0,0,1,0,English,72.0
+453,0.0,"Klockworx, The",Japan,Takashi Miike,Crime,54419.0,R,7.1,Yta Sone,9463,Sakichi Sat,Gozu,2003,18+,7.0,72%,0,0,1,0,0,Japanese,129.5
+454,6800000.0,Cobalt Media Group,USA,Damian Nieman,Crime,33225.0,R,6.4,Joe Nicolo,11130,Damian Nieman,Shade,2003,18+,6.3,67%,0,0,1,0,0,English,101.0
+455,0.0,Gospel of John Ltd.,Canada,Philip Saville,Biography,4068087.0,PG-13,7.7,Henry Ian Cusick,2335,John Goldsmith,The Visual Bible: The Gospel of John,2003,13+,7.7,37%,0,0,1,0,0,English,180.0
+456,0.0,Disneytoon Studios,USA,Francis Glebas,Animation,23103423.0,G,6.0,John Fiedler,5240,Brian Hohlfeld,Piglet's Big Movie,2003,all,6.1,70%,0,0,0,1,0,English,75.0
+457,5740000.0,Australian Film Finance Corporation (AFFC),Australia,Sue Brooks,Drama,647054.0,R,6.7,Toni Collette,5814,Alison Tilson,Japanese Story,2003,18+,6.7,68%,0,0,1,0,0,"English,Japanese",107.5
+458,92000000.0,Pixar Animation Studios,USA,Brad Bird,Animation,261441092.0,PG,8.0,Craig T. Nelson,520926,Brad Bird,The Incredibles,2004,7+,8.0,97%,0,0,0,1,0,"English,French",115.0
+459,30000000.0,Miramax,USA,Quentin Tarantino,Action,66208183.0,R,8.0,Uma Thurman,555508,Quentin Tarantino,Kill Bill: Vol. 2,2004,18+,8.0,84%,0,1,0,0,0,"English,Cantonese,Mandarin,Spanish",137.0
+460,5000000.0,Filmax Group,Spain,Brad Anderson,Drama,1082715.0,R,7.7,Christian Bale,304458,Scott Kosar,The Machinist,2004,18+,7.7,77%,0,0,1,0,0,"English,Spanish",101.0
+461,0.0,Constantin Film,Germany,Oliver Hirschbiegel,Biography,5509040.0,R,8.3,Bruno Ganz,272105,Bernd Eichinger,Downfall,2004,18+,8.2,90%,0,0,1,0,0,"French,English,German,Russian",156.0
+462,40000000.0,Walt Disney Pictures,USA,Garry Marshall,Comedy,95170481.0,G,5.7,Anne Hathaway,59819,Meg Cabot,The Princess Diaries 2: Royal Engagement,2004,all,5.8,26%,0,0,0,1,0,"English,Greek,French,Spanish",113.0
+463,10000000.0,Metro-Goldwyn-Mayer (MGM),USA,Joe Nussbaum,Comedy,9436390.0,PG,5.3,Alexa PenaVega,13433,Elisa Bell,Sleepover,2004,7+,5.3,15%,1,0,1,0,0,English,89.0
+464,15000000.0,Walt Disney Pictures,Germany,Sara Sugarman,Comedy,29331068.0,PG,4.6,Lindsay Lohan,24586,Dyan Sheldon,Confessions of a Teenage Drama Queen,2004,7+,4.6,14%,0,0,0,1,0,English,89.0
+465,165000000.0,Castle Rock Entertainment,USA,Robert Zemeckis,Animation,183373735.0,G,6.6,Tom Hanks,134170,Chris Van Allsburg,The Polar Express,2004,all,6.6,56%,1,0,0,0,0,English,100.0
+466,45000000.0,Davis Films / Impact Pictures,Germany,Alexander Witt,Action,51201453.0,R,6.2,Milla Jovovich,164937,Paul W.S. Anderson,Resident Evil: Apocalypse,2004,18+,6.2,20%,1,0,0,0,0,English,94.0
+467,20000000.0,Columbia Pictures Film Production Asia,Hong Kong,Stephen Chow,Action,17108591.0,R,7.8,Stephen Chow,106883,Stephen Chow,Kung Fu Hustle,2004,18+,7.7,90%,1,0,0,0,0,"Cantonese,Mandarin",99.0
+469,110000000.0,Walden Media,USA,Frank Coraci,Action,24008137.0,PG,5.8,Jackie Chan,73536,Jules Verne,Around the World in 80 Days,2004,7+,5.9,32%,0,0,0,1,0,"English,Cantonese,French,German,Hindi,Turkish",120.0
+470,28000000.0,Pop Pop Productions,Canada,Gavin O'Connor,Biography,64378093.0,PG,7.5,Kurt Russell,39178,Eric Guggenheim,Miracle,2004,7+,7.5,81%,1,0,0,1,0,English,135.0
+471,11000000.0,Fox Searchlight Pictures,USA,Bill Condon,Biography,10214647.0,R,7.1,Liam Neeson,44032,Bill Condon,Kinsey,2004,18+,7.0,90%,0,1,0,0,0,English,118.0
+472,16000000.0,Metro-Goldwyn-Mayer (MGM),USA,Jessy Terrero,Comedy,13922211.0,R,4.4,Dwayne Adway,19204,Bo Zenga,Soul Plane,2004,18+,4.5,18%,1,0,1,0,0,"English,Spanish",86.0
+473,20000000.0,Metro-Goldwyn-Mayer (MGM),UK,Irwin Winkler,Biography,13337299.0,PG-13,6.6,Kevin Kline,10018,Jay Cocks,De-Lovely,2004,13+,6.6,48%,0,0,1,0,0,"English,French,Italian",125.0
+474,7000000.0,Yash Raj Films,India,Yash Chopra,Drama,2921738.0,NOT RATED,7.9,Shah Rukh Khan,39916,Aditya Chopra,Veer-Zaara,2004,7+,7.8,92%,0,0,1,0,0,Hindi,192.0
+475,110000000.0,Walt Disney Pictures,USA,Will Finn,Animation,50030461.0,PG,5.4,Judi Dench,15266,Will Finn,Home on the Range,2004,7+,5.3,53%,0,0,0,1,0,"English,Mandarin",76.0
+476,0.0,Huit et Demi Productions,France,Ziad Doueiri,Crime,121166.0,R,7.0,Vahina Giocante,4054,Chimo,Lila Says,2005,18+,6.9,68%,0,0,1,0,0,"French,Arabic",89.0
+477,8000000.0,40 Acres & A Mule Filmworks,USA,Spike Lee,Comedy,365134.0,R,5.3,Anthony Mackie,6600,Michael Genet,She Hate Me,2004,18+,5.3,19%,1,0,0,0,0,"English,German,Spanish",138.0
+478,0.0,Path Pictures International,UK,Danny Boyle,Comedy,6583149.0,PG-13,6.9,Alex Etel,22743,Frank Cottrell Boyce,Millions,2004,13+,6.9,88%,0,0,0,1,0,English,98.0
+479,6000000.0,Bob Yari Productions,USA,David Duchovny,Comedy,371081.0,PG-13,7.0,David Duchovny,7919,David Duchovny,House of D,2004,13+,7.0,10%,0,1,1,0,0,"English,French",96.5
+480,0.0,United Artists,USA,David Gordon Green,Drama,24947.0,R,6.7,Jamie Bell,7587,Lingard Jervey,Undertow,2004,18+,6.6,55%,0,0,1,0,0,English,89.5
+481,0.0,Ashutosh Gowariker Productions Pvt. Ltd.,India,Ashutosh Gowariker,Drama,1223240.0,NOT RATED,8.3,Shah Rukh Khan,66309,M.G. Sathya,Swades,2004,all,8.2,83%,1,0,0,0,0,"Hindi,English",202.5
+482,50000.0,Ariztical Entertainment,USA,Q. Allan Brocka,Comedy,155212.0,UNRATED,5.9,Scott Lunsford,5354,Q. Allan Brocka,Eating Out,2004,18+,5.8,16%,0,0,1,0,0,English,90.0
+483,0.0,Alliance Atlantis Communications,Canada,Michael McGowan,Comedy,795126.0,PG-13,7.6,Adam Butcher,5291,Michael McGowan,Saint Ralph,2005,13+,7.3,64%,0,0,1,0,0,English,98.0
+484,18000000.0,Metro-Goldwyn-Mayer (MGM),USA,Kevin Rodney Sullivan,Comedy,65111277.0,PG-13,5.7,Ice Cube,11281,Mark Brown,Barbershop 2: Back in Business,2004,13+,5.7,68%,0,0,1,0,0,English,106.0
+485,0.0,Mij Film Co.,Iran,Bahman Ghobadi,Drama,256822.0,PG-13,8.1,Soran Ebrahim,14720,Bahman Ghobadi,Turtles Can Fly,2005,13+,8.1,88%,0,1,0,0,0,"Kurdish,Arabic,English",98.0
+486,1000000.0,Kim Ki-Duk Film,South Korea,Ki-duk Kim,Crime,238507.0,R,8.1,Seung-yeon Lee,41640,Ki-duk Kim,3-Iron,2004,18+,8.0,87%,0,0,1,0,0,Korean,88.0
+487,150000000.0,Warner Bros.,USA,Tim Burton,Adventure,206459076.0,PG,6.7,Johnny Depp,350762,Roald Dahl,Charlie and the Chocolate Factory,2005,7+,6.6,82%,1,0,0,0,0,English,115.0
+488,150000000.0,Warner Bros.,USA,Christopher Nolan,Action,206852432.0,PG-13,8.3,Christian Bale,1075968,Bob Kane,Batman Begins,2005,13+,8.2,84%,0,1,0,0,0,"English,Mandarin",146.0
+490,40000000.0,Dimension Films,USA,Frank Miller,Crime,74103820.0,R,8.0,Mickey Rourke,690034,Frank Miller,Sin City,2005,18+,8.0,77%,1,0,0,0,0,English,124.0
+491,180000000.0,Walt Disney Pictures,USA,Andrew Adamson,Adventure,291709845.0,PG,6.9,Tilda Swinton,310549,Ann Peacock,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,7+,6.9,76%,0,0,0,1,0,"English,German,Brazilian Sign Language",143.0
+492,0.0,Celador Films,UK,Neil Marshall,Adventure,26024456.0,R,7.2,Shauna Macdonald,167959,Neil Marshall,The Descent,2005,18+,7.2,85%,0,1,1,0,0,English,99.0
+493,70000000.0,Columbia Pictures Corporation,USA,Andy Tennant,Comedy,179495555.0,PG-13,6.6,Will Smith,259673,Kevin Bisch,Hitch,2005,13+,6.6,68%,1,1,0,0,0,English,118.0
+494,1500000.0,Samuel Goldwyn Films,USA,Noah Baumbach,Comedy,7362100.0,R,7.4,Owen Kline,64252,Noah Baumbach,The Squid and the Whale,2005,18+,7.3,92%,1,0,1,0,0,English,81.0
+495,40000000.0,Warner Bros.,USA,Tim Burton,Animation,53359111.0,PG,7.4,Johnny Depp,205383,Tim Burton,Corpse Bride,2005,7+,7.3,84%,1,0,0,0,0,English,77.0
+496,126000000.0,DreamWorks,USA,Michael Bay,Action,35818913.0,PG-13,6.9,Scarlett Johansson,275721,Caspian Tredwell-Owen,The Island,2006,13+,7.9,63%,0,0,1,0,0,English,136.0
+497,72000000.0,Universal Pictures,USA,Sam Mendes,Action,62658220.0,R,7.0,Jake Gyllenhaal,152251,William Broyles Jr.,Jarhead,2005,18+,7.0,61%,1,0,0,0,0,"English,Spanish,Arabic,Latin",125.0
+498,88000000.0,Dimension Films,USA,Terry Gilliam,Adventure,37916267.0,PG-13,5.9,Matt Damon,103728,Ehren Kruger,The Brothers Grimm,2005,13+,5.9,38%,0,0,1,0,0,"English,French,German,Italian",118.0
+499,0.0,Inferno Distribution,Germany,Roger Kumble,Comedy,32619671.0,PG-13,6.2,Ryan Reynolds,88269,Adam 'Tex' Davis,Just Friends,2005,13+,6.2,42%,1,0,0,0,0,English,96.0
+500,50000000.0,Walt Disney Pictures,USA,Angela Robinson,Adventure,66023816.0,G,4.8,Lindsay Lohan,38998,Thomas Lennon,Herbie Fully Loaded,2005,all,4.8,41%,0,0,0,1,0,English,101.0
+501,150000000.0,Walt Disney Pictures,USA,Mark Dindal,Animation,135386665.0,G,5.8,Zach Braff,70253,Mark Dindal,Chicken Little,2005,all,5.7,37%,1,0,0,1,0,English,81.0
+502,50000000.0,Columbia Pictures Corporation,USA,John Stockwell,Action,18472363.0,PG-13,5.8,Paul Walker,66598,Matt Johnson,Into the Blue,2005,13+,5.9,21%,0,0,1,0,0,English,110.0
+503,7000000.0,Sony Pictures Classics,USA,Bennett Miller,Biography,28747570.0,R,7.4,Philip Seymour Hoffman,108050,Dan Futterman,Capote,2005,18+,7.3,90%,0,0,1,0,0,English,114.0
+504,45000000.0,Paramount Pictures,USA,Raja Gosnell,Comedy,53412862.0,PG,5.4,Dennis Quaid,23229,Ron Burch,"Yours, Mine & Ours",2005,7+,5.5,6%,1,0,1,0,0,English,88.0
+505,0.0,Walt Disney Pictures,USA,Tim Fywell,Comedy,24381334.0,G,6.0,Michelle Trachtenberg,21228,Meg Cabot,Ice Princess,2005,all,6.0,52%,0,0,0,1,0,English,98.0
+507,19300000.0,Recorded Picture Company (RPC),UK,Terry Gilliam,Drama,66453.0,R,6.5,Jeff Bridges,28341,Tony Grisoni,Tideland,2005,18+,6.5,31%,0,0,1,0,0,English,120.0
+508,100000000.0,Columbia Pictures Corporation,USA,Dean Parisot,Comedy,110332737.0,PG-13,6.1,Jim Carrey,117210,Judd Apatow,Fun with Dick and Jane,2005,13+,6.2,28%,1,0,0,0,0,"English,Spanish",90.0
+509,57000000.0,Paramount Pictures,USA,Cameron Crowe,Comedy,26838389.0,PG-13,6.4,Orlando Bloom,61111,Cameron Crowe,Elizabethtown,2005,13+,6.4,29%,0,0,1,0,0,English,123.0
+510,0.0,Fairway Films,USA,Bill Paxton,Drama,15331289.0,PG,7.5,Shia LaBeouf,23793,Mark Frost,The Greatest Game Ever Played,2005,7+,7.4,63%,0,0,0,1,0,English,120.0
+511,900000.0,Andrea Sperling Productions,USA,Jamie Babbit,Crime,381186.0,R,6.4,Camilla Belle,13952,Abdi Nazemian,The Quiet,2005,18+,6.2,21%,0,0,1,0,0,"English,American Sign Language",96.0
+512,35000000.0,Columbia Pictures Corporation,USA,Kevin Rodney Sullivan,Comedy,68915888.0,PG-13,5.9,Ashton Kutcher,35503,William Rose,Guess Who,2005,13+,5.9,42%,1,0,0,0,0,English,105.0
+513,25000000.0,Boll Kino Beteiligungs GmbH & Co. KG,Germany,Uwe Boll,Action,2405420.0,R,2.9,Kristanna Loken,31478,Guinevere Turner,BloodRayne,2005,18+,2.9,4%,0,0,1,0,0,English,95.0
+514,0.0,Movision,Canada,Sturla Gunnarsson,Action,66851.0,R,5.9,Hringur Ingvarsson,16275,Anonymous,Beowulf & Grendel,2005,18+,5.8,47%,0,0,1,0,0,"English,Latin,Icelandic",103.0
+515,14000000.0,Twentieth Century Fox Film Corporation,USA,Wayne Wang,Comedy,32645546.0,PG,6.4,AnnaSophia Robb,9001,Kate DiCamillo,Because of Winn-Dixie,2005,7+,6.3,55%,0,0,0,1,0,English,106.0
+516,0.0,M&M; Productions,Denmark,Anders Thomas Jensen,Comedy,1305.0,R,7.8,Ulrich Thomsen,38428,Anders Thomas Jensen,Adam's Apples,2005,18+,7.8,70%,0,0,1,0,0,Danish,94.0
+517,0.0,Path Pictures International,Ireland,Neil Jordan,Comedy,828699.0,R,7.3,Cillian Murphy,18406,Neil Jordan,Breakfast on Pluto,2005,18+,7.2,57%,0,0,1,0,0,"English,Irish",128.0
+518,3800000.0,Manitoba Film and Video Production Tax Credit,USA,Jeremy Haft,Horror,167723.0,R,5.2,Jenna Dewan Tatum,8649,Jeffrey Reddick,Tamara,2005,18+,5.1,32%,0,1,0,0,0,English,98.0
+520,35000000.0,Vanguard Animation,UK,Gary Chapman,Animation,19447478.0,G,5.6,Ewan McGregor,17195,George Webster,Valiant,2005,all,5.5,32%,0,0,0,1,0,English,76.0
+521,6800000.0,El Camino Pictures,USA,Arie Posin,Comedy,49526.0,R,7.0,Jamie Bell,16769,Arie Posin,The Chumscrubber,2005,18+,6.9,37%,0,1,0,0,0,English,108.0
+522,2500000.0,Shoreline Entertainment,USA,Randall Miller,Comedy,247141.0,PG-13,6.6,Robert Carlyle,2382,Randall Miller,Marilyn Hotchkiss' Ballroom Dancing & Charm School,2005,13+,6.5,22%,0,0,1,0,0,English,101.5
+523,500000.0,Mandragora,Romania,Cristi Puiu,Drama,79943.0,R,8.0,Doru Ana,11161,Cristi Puiu,The Death of Mr. Lazarescu,2005,18+,7.9,93%,1,0,0,0,0,Romanian,153.0
+524,0.0,Estudios Picasso,Spain,Guillermo del Toro,Drama,37634615.0,R,8.2,Ivana Baquero,511652,Guillermo del Toro,Pan's Labyrinth,2006,18+,8.2,95%,1,0,0,0,0,Spanish,118.0
+525,225000000.0,Walt Disney Pictures,USA,Gore Verbinski,Action,423315812.0,PG-13,7.3,Johnny Depp,567704,Ted Elliott,Pirates of the Caribbean: Dead Man's Chest,2006,13+,7.3,53%,0,0,0,1,0,"English,Turkish,Greek,Mandarin,French",151.0
+526,40000000.0,Icon Entertainment International,USA,Mel Gibson,Action,50866635.0,R,7.8,Gerardo Taracena,252584,Mel Gibson,Apocalypto,2006,18+,7.8,66%,0,0,1,0,0,Maya,139.0
+527,120000000.0,Pixar Animation Studios,USA,John Lasseter,Animation,244082982.0,G,7.1,Owen Wilson,292006,John Lasseter,Cars,2006,all,7.1,75%,0,0,0,1,0,"English,Italian,Japanese,Yiddish",117.0
+528,55000000.0,Columbia Pictures Corporation,USA,Gabriele Muccino,Biography,163566459.0,PG-13,8.0,Will Smith,369367,Steve Conrad,The Pursuit of Happyness,2006,13+,8.0,67%,1,0,0,0,0,"English,Cantonese",117.0
+529,25000000.0,Paramount Pictures,France,Alejandro Gonzlez Irritu,Drama,34302837.0,R,7.5,Brad Pitt,257380,Guillermo Arriaga,Babel,2006,18+,7.4,69%,1,0,0,0,0,"English,Arabic,Spanish,Japanese,Berber languages,French,Russian,Japanese Sign Language",143.0
+530,70000000.0,Columbia Pictures Corporation,USA,Frank Coraci,Comedy,137355633.0,PG-13,6.4,Adam Sandler,263834,Steve Koren,Click,2006,13+,6.4,33%,1,0,0,0,0,"English,Portuguese,Japanese",107.0
+531,75000000.0,Columbia Pictures,USA,Gil Kenan,Animation,73661010.0,PG,6.6,Mitchel Musso,79512,Dan Harmon,Monster House,2006,7+,6.6,75%,0,1,0,0,0,English,91.0
+532,0.0,Showbox Entertainment,South Korea,Joon-ho Bong,Action,2201923.0,R,7.0,Kang-ho Song,76265,Joon-ho Bong,The Host,2006,18+,7.1,93%,0,1,0,0,0,"Korean,English",120.0
+534,15000000.0,Paramount Classics,USA,Craig Brewer,Drama,9396870.0,R,7.0,Christina Ricci,55548,Craig Brewer,Black Snake Moan,2006,18+,6.9,66%,1,0,1,0,0,English,116.0
+535,21000000.0,Fu Works,Netherlands,Paul Verhoeven,Drama,4398392.0,R,7.8,Carice van Houten,63950,Gerard Soeteman,Black Book,2006,18+,7.7,75%,0,0,1,0,0,"Dutch,German,English,Hebrew",145.0
+536,63000000.0,Paramount Pictures,USA,Oliver Stone,Drama,70278893.0,PG-13,6.0,Nicolas Cage,70654,Andrea Berloff,World Trade Center,2006,13+,5.9,67%,1,0,1,0,0,English,129.0
+537,40000000.0,Walt Disney Pictures,USA,Frank Marshall,Adventure,81612565.0,PG,7.3,Paul Walker,52356,David DiGilio,Eight Below,2006,7+,7.3,72%,0,0,0,1,0,English,120.0
+538,50000000.0,Screen Gems,USA,Len Wiseman,Action,62318875.0,R,6.7,Kate Beckinsale,169745,Danny McBride,Underworld: Evolution,2006,18+,6.7,17%,1,0,0,0,0,"English,French,Hungarian",106.0
+539,15000000.0,Universal Pictures,USA,Paul Greengrass,Drama,31567134.0,R,7.6,David Alan Basche,87699,Paul Greengrass,United 93,2006,18+,7.5,90%,1,0,0,0,0,"English,Arabic,German",111.0
+540,0.0,Left Turn Films,UK,Sean Ellis,Comedy,24942.0,R,7.2,Sean Biggerstaff,76132,Sean Ellis,Cashback,2006,18+,7.2,46%,0,1,0,0,0,"English,Spanish",102.0
+541,32000000.0,Paramount Pictures,Germany,Jared Hess,Comedy,80197993.0,PG,5.7,Jack Black,69721,Jared Hess,Nacho Libre,2006,7+,5.7,39%,1,0,0,0,0,"English,Spanish",92.0
+542,15000000.0,Fox Searchlight Pictures,UK,Richard Eyre,Crime,17508670.0,R,7.4,Cate Blanchett,67309,Patrick Marber,Notes on a Scandal,2006,18+,7.4,87%,0,1,0,0,0,"English,French",92.0
+544,50000000.0,Paramount Pictures,USA,Tom Dey,Comedy,88715192.0,PG-13,5.6,Matthew McConaughey,62338,Tom J. Astle,Failure to Launch,2006,13+,5.6,24%,1,0,0,0,0,English,97.0
+545,0.0,Canal+ Espaa,Spain,Pedro Almodvar,Comedy,12899867.0,R,7.6,Penlope Cruz,81978,Pedro Almodvar,Volver,2006,18+,7.6,91%,0,1,0,0,0,Spanish,121.0
+546,35000000.0,Revolution Studios,USA,Peter Hewitt,Action,11631245.0,PG,4.3,Tim Allen,16115,Adam Rifkin,Zoom,2006,7+,4.4,3%,1,0,0,0,0,English,96.5
+548,15000000.0,Summit Entertainment,UK,Mark Palansky,Comedy,10011274.0,PG,6.8,Christina Ricci,53683,Leslie Caveny,Penelope,2006,7+,6.7,54%,0,0,1,0,0,English,104.0
+549,30000000.0,Columbia Pictures Industries,USA,Phil Joanou,Crime,38432823.0,PG-13,6.9,Dwayne Johnson,35771,Jeff Maguire,Gridiron Gang,2006,13+,6.9,43%,1,0,0,0,0,English,125.0
+550,85000000.0,Columbia Pictures,USA,Roger Allers,Animation,85105259.0,PG,6.2,Ashton Kutcher,71052,Steve Bencich,Open Season,2006,7+,6.1,48%,1,0,0,0,0,English,86.0
+552,12000000.0,Walt Disney Pictures,USA,Michael Lembeck,Adventure,84500122.0,G,4.7,Tim Allen,24317,Ed Decter,The Santa Clause 3: The Escape Clause,2006,all,4.7,17%,0,0,0,1,0,English,97.0
+553,50000000.0,The Saul Zaentz Company,USA,Milos Forman,Biography,1000045.0,R,6.9,Javier Bardem,26348,Milos Forman,Goya's Ghosts,2006,18+,6.9,30%,0,0,1,0,0,English,113.0
+554,0.0,The Ultimate Gift LLC,USA,Michael O. Sajbel,Drama,3438735.0,PG,7.4,Drew Fuller,15148,Cheryl McKay,The Ultimate Gift,2006,7+,7.3,32%,0,0,1,0,0,"English,Spanish",107.0
+555,50000000.0,Warner Bros.,USA,John A. Davis,Animation,28142535.0,PG,5.9,Paul Giamatti,31986,John A. Davis,The Ant Bully,2006,7+,5.8,62%,0,1,0,0,0,English,88.0
+556,0.0,Glen Echo Entertainment,USA,Scott Glosserman,Comedy,69136.0,R,6.8,Nathan Baesel,18107,Scott Glosserman,Behind the Mask: The Rise of Leslie Vernon,2006,18+,6.7,76%,0,0,1,0,0,English,96.0
+557,0.0,Les Films Pellas,France,Pierre Salvadori,Comedy,1499127.0,PG-13,7.0,Audrey Tautou,27386,Pierre Salvadori,Priceless,2006,13+,7.0,82%,0,0,1,0,0,"French,English",106.0
+558,0.0,MTV Films,USA,Jody Hill,Comedy,233637.0,R,6.4,Danny McBride,9799,Ben Best,The Foot Fist Way,2006,18+,6.3,54%,0,0,1,0,0,English,83.5
+559,25000000.0,Paramount Vantage,USA,Paul Thomas Anderson,Drama,40222514.0,R,8.1,Daniel Day-Lewis,412459,Paul Thomas Anderson,There Will Be Blood,2007,18+,8.2,91%,1,0,0,0,0,"English,American Sign Language",158.0
+560,300000000.0,Walt Disney Pictures,USA,Gore Verbinski,Action,309420425.0,PG-13,7.1,Johnny Depp,514191,Ted Elliott,Pirates of the Caribbean: At World's End,2007,13+,7.1,44%,0,0,0,1,0,English,169.0
+561,150000000.0,Pixar Animation Studios,USA,Brad Bird,Animation,206445654.0,G,8.0,Brad Garrett,516560,Brad Bird,Ratatouille,2007,all,8.0,96%,0,0,0,1,0,"English,French",111.0
+562,110000000.0,Columbia Pictures Corporation,USA,Mark Steven Johnson,Action,115802596.0,PG-13,5.2,Nicolas Cage,194164,Mark Steven Johnson,Ghost Rider,2007,13+,5.2,26%,1,0,0,0,0,English,112.0
+563,0.0,Forensic Films,USA,David Ross,Drama,40677.0,R,5.7,Lauren Birkell,9225,David Ross,The Babysitters,2007,18+,5.6,33%,0,0,1,0,0,English,88.0
+564,12000000.0,Metro-Goldwyn-Mayer (MGM),USA,Craig Gillespie,Comedy,5972884.0,PG-13,7.4,Ryan Gosling,122310,Nancy Oliver,Lars and the Real Girl,2007,13+,7.3,81%,0,0,1,0,0,"English,Spanish",106.0
+565,150000000.0,DreamWorks Animation,USA,Simon J. Smith,Animation,126631277.0,PG,6.1,Jerry Seinfeld,115409,Jerry Seinfeld,Bee Movie,2007,7+,6.1,50%,1,0,0,0,0,English,91.0
+566,60000000.0,DreamWorks,USA,Bobby Farrelly,Comedy,36787257.0,R,5.8,Ben Stiller,75859,Scot Armstrong,The Heartbreak Kid,2007,18+,5.8,29%,1,0,0,0,0,"English,Spanish",116.0
+567,75000000.0,Twentieth Century Fox Film Corporation,USA,David Silverman,Animation,183135014.0,PG-13,7.4,Dan Castellaneta,273363,James L. Brooks,The Simpsons Movie,2007,13+,7.3,88%,0,0,0,1,0,English,87.0
+568,22000000.0,Walt Disney Pictures,USA,Andy Fickman,Comedy,90648202.0,PG,6.2,Dwayne Johnson,48000,Nichole Millard,The Game Plan,2007,7+,6.1,28%,0,0,0,1,0,English,110.0
+569,45000000.0,Constantin Film,France,Russell Mulcahy,Action,50648679.0,R,6.3,Milla Jovovich,162711,Paul W.S. Anderson,Resident Evil: Extinction,2007,18+,6.3,24%,1,0,0,0,0,English,94.0
+570,70000000.0,Paramount Pictures,USA,Lee Tamahori,Action,18211013.0,PG-13,6.2,Nicolas Cage,131848,Gary Goldman,Next,2007,13+,6.2,28%,0,0,1,0,0,"English,French,German,Serbian",96.0
+571,130000000.0,Walt Disney Pictures,USA,Jon Turteltaub,Action,219964115.0,PG,6.5,Nicolas Cage,193052,Marianne Wibberley,National Treasure: Book of Secrets,2007,7+,6.5,36%,0,0,0,1,0,"English,French",124.0
+572,0.0,Paramount Pictures,USA,Akiva Schaffer,Comedy,13920741.0,PG-13,6.7,Andy Samberg,64550,Pam Brady,Hot Rod,2007,13+,6.7,39%,1,0,1,0,0,English,94.0
+573,150000000.0,Walt Disney Animation Studios,USA,Stephen J. Anderson,Animation,97822171.0,G,6.9,Daniel Hansen,72807,Jon Bernstein,Meet the Robinsons,2007,all,6.8,67%,0,0,0,1,0,English,95.0
+574,55000000.0,Universal Pictures,UK,Shekhar Kapur,Biography,16285240.0,PG-13,6.9,Cate Blanchett,58073,William Nicholson,Elizabeth: The Golden Age,2007,13+,6.8,34%,1,0,0,0,0,"English,Spanish,Swedish",114.0
+575,0.0,Aamir Khan Productions,India,Aamir Khan,Drama,1204660.0,PG,8.5,Darsheel Safary,109807,Amole Gupte,Like Stars on Earth,2007,7+,8.4,91%,1,0,0,0,0,"Hindi,English",165.0
+576,12000000.0,Metro-Goldwyn-Mayer (MGM),USA,Jon Poll,Comedy,3950294.0,R,7.0,Anton Yelchin,58595,Gustin Nash,Charlie Bartlett,2007,18+,7.0,57%,0,0,1,0,0,English,97.0
+577,0.0,Boll Kino Beteiligungs GmbH & Co. KG,USA,Uwe Boll,Action,18005198.0,R,4.5,Dave Foley,20748,Uwe Boll,Postal,2007,18+,4.5,9%,0,0,1,0,0,English,100.0
+578,0.0,GreeneStreet Films,USA,Robert Benton,Drama,3504875.0,R,6.7,Morgan Freeman,14779,Allison Burnett,Feast of Love,2007,18+,6.6,39%,0,0,1,0,0,English,97.0
+579,3800000.0,A-Team,Japan,Takashi Miike,Action,48034.0,R,6.3,Hideaki It,13379,Takashi Miike,Sukiyaki Western Django,2007,18+,6.2,56%,0,0,1,0,0,English,121.0
+580,15000000.0,Metro-Goldwyn-Mayer (MGM),USA,Katja von Garnier,Drama,3525161.0,PG-13,5.5,Agnes Bruckner,15964,Ehren Kruger,Blood and Chocolate,2007,13+,5.5,11%,0,0,1,0,0,"English,Romanian",99.0
+581,8000000.0,Hyde Park Entertainment,Canada,Stuart Townsend,Action,223537.0,R,6.7,Andr Benjamin,13248,Stuart Townsend,Battle in Seattle,2007,18+,6.7,56%,0,0,1,0,0,English,99.0
+582,0.0,Polaris Film Production & Finance,France,Julie Delpy,Comedy,4432981.0,R,6.8,Julie Delpy,27948,Julie Delpy,2 Days in Paris,2007,18+,6.8,87%,0,1,1,0,0,"English,French",96.0
+583,185000000.0,Warner Bros.,USA,Christopher Nolan,Action,534858444.0,PG-13,9.0,Christian Bale,1839571,Jonathan Nolan,The Dark Knight,2008,13+,9.0,94%,0,1,0,0,0,"English,Mandarin",152.0
+584,150000000.0,Warner Bros.,USA,David Fincher,Drama,127509326.0,PG-13,7.8,Brad Pitt,495968,Eric Roth,The Curious Case of Benjamin Button,2008,13+,7.8,71%,1,0,0,0,0,"English,Russian,French",166.0
+585,35000000.0,Columbia Pictures,USA,Robert Luketic,Crime,81159365.0,PG-13,6.8,Jim Sturgess,201705,Peter Steinfeld,21,2008,13+,6.8,36%,1,0,0,0,0,English,123.0
+586,25000000.0,Paramount Pictures,USA,Matt Reeves,Action,80048433.0,PG-13,7.0,Mike Vogel,319809,Drew Goddard,Cloverfield,2008,13+,7.0,77%,1,0,0,0,0,"English,Russian",85.0
+587,185000000.0,Paramount Pictures,USA,Steven Spielberg,Action,317101119.0,PG-13,6.2,Harrison Ford,358563,David Koepp,Indiana Jones and the Kingdom of the Crystal Skull,2008,13+,6.1,78%,1,0,0,0,0,"English,German,Russian",122.0
+588,150000000.0,Columbia Pictures,USA,Peter Berg,Action,227946274.0,PG-13,6.4,Will Smith,375055,Vincent Ngo,Hancock,2008,13+,6.4,41%,1,0,0,0,0,"Vietnamese,English,Japanese",92.0
+589,90000000.0,Paramount Pictures,USA,Mark Waters,Adventure,71195053.0,PG,6.6,Freddie Highmore,74370,Karey Kirkpatrick,The Spiderwick Chronicles,2008,7+,6.5,80%,1,0,0,0,0,English,96.0
+590,24000000.0,Blue Askew,USA,Kevin Smith,Comedy,31457946.0,R,6.6,Seth Rogen,156855,Kevin Smith,Zack and Miri Make a Porno,2008,18+,6.5,65%,1,0,0,0,0,English,101.0
+591,225000000.0,Walt Disney Pictures,USA,Andrew Adamson,Action,141621490.0,PG,6.6,Ben Barnes,162829,Andrew Adamson,The Chronicles of Narnia: Prince Caspian,2008,7+,6.5,66%,0,0,0,1,0,English,150.0
+592,80000000.0,Warner Bros.,USA,Peter Segal,Action,130319208.0,PG-13,6.5,Steve Carell,176842,Tom J. Astle,Get Smart,2008,13+,6.5,50%,0,1,0,0,0,"English,Russian,Punjabi,Arabic",110.0
+593,4000000.0,EFTI,Sweden,Tomas Alfredson,Drama,2122065.0,R,7.9,Kre Hedebrant,183463,John Ajvide Lindqvist,Let the Right One In,2008,18+,7.9,98%,0,1,0,0,0,"Swedish,Spanish",114.5
+595,70000000.0,Warner Bros.,USA,Peyton Reed,Comedy,97690976.0,PG-13,6.8,Jim Carrey,289261,Nicholas Stoller,Yes Man,2008,13+,6.8,46%,1,0,0,0,0,"English,Korean,Estonian",104.0
+596,150000000.0,Walt Disney Animation Studios,USA,Byron Howard,Animation,114053579.0,PG,6.9,John Travolta,158580,Dan Fogelman,Bolt,2008,7+,6.8,89%,1,0,0,1,0,English,96.0
+597,0.0,Paramount Vantage,UK,Saul Dibb,Biography,13823741.0,PG-13,6.9,Keira Knightley,66399,Jeffrey Hatcher,The Duchess,2008,13+,6.9,62%,1,0,1,0,0,English,110.0
+598,85000000.0,Blue Sky Studios,USA,Jimmy Hayward,Animation,154529439.0,G,6.8,Jim Carrey,113151,Ken Daurio,Horton Hears a Who!,2008,all,6.8,79%,0,1,0,0,0,English,86.0
+599,11000000.0,Walt Disney Pictures,USA,Kenny Ortega,Comedy,90559416.0,G,4.6,Zac Efron,47545,Peter Barsocchini,High School Musical 3: Senior Year,2008,all,4.8,64%,0,0,0,1,0,English,112.0
+600,150000000.0,DreamWorks Animation,USA,Eric Darnell,Animation,180010950.0,PG,6.7,Ben Stiller,162026,Etan Cohen,Madagascar: Escape 2 Africa,2008,7+,6.6,64%,1,0,0,0,0,"English,Italian",89.0
+601,80000000.0,Walt Disney Pictures,USA,Adam Shankman,Comedy,110101975.0,PG,6.1,Adam Sandler,76733,Matt Lopez,Bedtime Stories,2008,7+,6.0,26%,0,0,0,1,0,English,99.0
+602,0.0,Good Dick,USA,Marianna Palka,Comedy,15542.0,R,6.4,Marianna Palka,6977,Marianna Palka,Good Dick,2008,18+,6.4,50%,0,0,1,0,0,"English,Polish,German",86.0
+603,8000000.0,Overture Films,USA,Christine Jeffs,Comedy,12062558.0,R,6.9,Amy Adams,63616,Megan Holley,Sunshine Cleaning,2008,18+,6.8,74%,0,0,1,0,0,"English,Spanish",91.0
+604,14700000.0,Vivendi Entertainment,USA,Fatih Akin,Comedy,1585859.0,R,6.3,Shia LaBeouf,41273,Hu Hong,"New York, I Love You",2008,18+,6.2,37%,0,0,1,0,0,"English,French,Cantonese,Gujarati,Yiddish",103.0
+605,15000000.0,Lakeshore Entertainment,USA,Ryhei Kitamura,Horror,83361.0,R,6.1,Vinnie Jones,51337,Jeff Buhler,The Midnight Meat Train,2008,18+,6.1,72%,0,0,1,0,0,English,98.0
+606,60000000.0,Millennium Films,USA,Jon Avnet,Action,40081410.0,R,6.0,Robert De Niro,76498,Russell Gewirtz,Righteous Kill,2008,18+,6.0,18%,0,1,0,0,0,"English,Spanish,Russian",101.0
+607,30000000.0,Twentieth Century Fox Film Corporation,USA,Chris Carter,Drama,20981633.0,PG-13,5.9,David Duchovny,81648,Frank Spotnitz,The X Files: I Want to Believe,2008,13+,5.9,31%,0,1,0,0,0,"English,Russian,Czech",104.0
+608,8000000.0,Metro-Goldwyn-Mayer (MGM),USA,Marc Schlermann,Crime,108662.0,R,6.0,Alyssa Milano,28065,Mark Neveldine,Pathology,2008,18+,6.0,45%,0,0,1,0,0,English,95.0
+609,40000000.0,Paramount Pictures,USA,Steven Brill,Comedy,32853640.0,PG-13,5.7,Owen Wilson,52554,Kristofor Brown,Drillbit Taylor,2008,13+,5.7,26%,1,0,0,0,0,English,110.0
+610,12000000.0,LightWave Entertainment,USA,Darnell Martin,Biography,8195551.0,R,7.0,Adrien Brody,16677,Darnell Martin,Cadillac Records,2008,18+,7.0,67%,1,0,0,0,0,English,109.0
+611,20000000.0,DreamWorks,USA,David Koepp,Comedy,13214030.0,PG-13,6.7,Ricky Gervais,63093,David Koepp,Ghost Town,2008,13+,6.7,85%,0,0,1,0,0,English,102.0
+612,40000000.0,Initial Entertainment Group (IEG),USA,Danny Pang,Action,15279680.0,R,5.4,Nicolas Cage,50355,Jason Richman,Bangkok Dangerous,2008,18+,5.4,8%,0,1,0,0,0,"English,Thai",99.0
+613,62000000.0,Paramount Pictures,UK,Marco Schnabel,Comedy,32235793.0,PG-13,3.8,Mike Myers,45014,Mike Myers,The Love Guru,2008,13+,3.8,14%,1,0,1,0,0,English,87.0
+614,15000000.0,Filmax International,UK,Brad Anderson,Crime,2203641.0,R,6.7,Woody Harrelson,44948,Brad Anderson,Transsiberian,2008,18+,6.7,92%,0,0,1,0,0,"English,Russian,Spanish,Mandarin,French",111.0
+615,25000000.0,Paramount Pictures,USA,Kimberly Peirce,Drama,10911750.0,R,6.5,Ryan Phillippe,18404,Mark Richard,Stop-Loss,2008,18+,6.4,65%,0,0,1,0,0,English,112.0
+616,5000000.0,Jackson Income Fund,USA,Michael Keaton,Crime,346286.0,R,6.6,Michael Keaton,2365,Ron Lazzeretti,The Merry Gentleman,2008,18+,6.5,65%,0,0,1,0,0,English,110.0
+617,5000000.0,Shocking Bottle,USA,Randall Miller,Comedy,4040588.0,PG-13,6.8,Chris Pine,13051,Jody Savin,Bottle Shock,2008,13+,6.8,48%,0,0,1,0,0,"English,French,German",110.0
+618,20000000.0,Pelican Productions LLC (I),USA,Fred Wolf,Adventure,6563357.0,R,5.3,Steve Zahn,19380,Peter Gaulke,Strange Wilderness,2008,18+,5.3,2%,0,0,1,0,0,English,93.5
+619,0.0,Walt Disney Pictures,USA,Roger Kumble,Adventure,45588608.0,G,4.3,Raven-Symon,13864,Emi Mochizuki,College Road Trip,2008,all,4.3,12%,0,0,0,1,0,English,83.0
+620,22000000.0,Big City Pictures,USA,Callie Khouri,Comedy,20668843.0,PG-13,5.8,Diane Keaton,17753,Glenn Gers,Mad Money,2008,13+,5.8,22%,0,0,1,0,0,English,104.0
+621,75000000.0,Universal Pictures,USA,Quentin Tarantino,Adventure,120540719.0,R,8.3,Brad Pitt,988686,Quentin Tarantino,Inglourious Basterds,2009,18+,8.3,89%,1,0,0,0,0,"English,German,French,Italian",153.0
+622,23600000.0,Columbia Pictures,USA,Ruben Fleischer,Adventure,75590286.0,R,7.7,Jesse Eisenberg,419201,Rhett Reese,Zombieland,2009,18+,7.6,90%,0,1,1,0,0,English,88.0
+623,25000000.0,Paramount Pictures,USA,Jason Reitman,Drama,83823381.0,R,7.4,George Clooney,283498,Walter Kirn,Up in the Air,2009,18+,7.4,91%,0,1,1,0,0,English,109.0
+625,200000000.0,Columbia Pictures,USA,Roland Emmerich,Action,166112167.0,PG-13,5.8,John Cusack,303766,Roland Emmerich,2012,2009,13+,5.8,39%,1,0,0,0,0,"English,French,Tibetan,Mandarin,Russian,Hindi,Portuguese,Latin,Italian,Spanish",158.0
+626,175000000.0,Pixar Animation Studios,USA,Pete Docter,Animation,293004164.0,PG,8.3,Edward Asner,743601,Pete Docter,Up,2009,7+,8.2,98%,0,0,0,1,0,English,96.0
+627,11000000.0,StudioCanal,USA,Atom Egoyan,Drama,3074838.0,R,6.3,Julianne Moore,60262,Erin Cressida Wilson,Chloe,2009,18+,6.3,51%,1,0,0,0,0,English,96.0
+628,0.0,Vinod Chopra Productions,India,Rajkumar Hirani,Adventure,6532908.0,PG-13,8.4,Aamir Khan,250762,Rajkumar Hirani,3 Idiots,2009,13+,8.4,100%,1,0,1,0,0,"Hindi,English",170.0
+629,200000000.0,"Halcyon Company, The",USA,McG,Action,125322469.0,PG-13,6.6,Christian Bale,301842,John Brancato,Terminator Salvation,2009,13+,6.5,33%,1,0,0,0,0,"English,Italian",115.0
+630,5000000.0,Liberty Films UK,UK,Duncan Jones,Drama,5009677.0,R,7.9,Sam Rockwell,283589,Duncan Jones,Moon,2009,18+,7.9,90%,1,0,0,0,0,"English,Spanish",97.0
+631,13000000.0,Yellow Bird,Sweden,Niels Arden Oplev,Drama,10095170.0,R,7.8,Michael Nyqvist,185107,Nikolaj Arcel,The Girl with the Dragon Tattoo,2009,18+,7.8,85%,0,0,1,0,0,"English,Swedish",155.0
+633,65000000.0,Walt Disney Pictures,USA,Andy Fickman,Action,67172594.0,PG,5.7,Dwayne Johnson,46750,Matt Lopez,Race to Witch Mountain,2009,7+,5.7,42%,1,0,0,0,0,English,98.0
+634,100000000.0,Universal Pictures,USA,Michael Mann,Biography,97104620.0,R,7.0,Christian Bale,244316,Ronan Bennett,Public Enemies,2009,18+,7.0,68%,1,0,0,0,0,English,140.0
+635,7000000.0,Fade to Black Productions,USA,Tom Ford,Drama,9166863.0,R,7.6,Colin Firth,92447,Christopher Isherwood,A Single Man,2009,18+,7.6,85%,1,0,0,0,0,"English,Spanish",99.0
+636,105000000.0,Walt Disney Animation Studios,USA,Ron Clements,Animation,104400899.0,G,7.1,Anika Noni Rose,97887,Ron Clements,The Princess and the Frog,2009,all,7.1,85%,1,0,0,1,0,"English,French",97.0
+637,40000000.0,Universal Pictures,USA,Paul Weitz,Action,13838130.0,PG-13,5.9,Chris Massoglia,37859,Paul Weitz,Cirque du Freak: The Vampire's Assistant,2009,13+,5.8,38%,1,0,0,0,0,"English,Spanish,French",104.5
+638,0.0,DreamWorks,USA,Charles Guard,Drama,28573173.0,PG-13,6.4,Emily Browning,66806,Craig Rosenberg,The Uninvited,2009,13+,6.3,31%,0,0,1,0,0,English,87.0
+639,900000.0,MPI Media Group,USA,Ti West,Horror,100659.0,R,6.4,Jocelin Donahue,33194,Ti West,The House of the Devil,2009,18+,6.4,87%,0,0,1,0,0,English,95.0
+640,40000000.0,Columbia Pictures,USA,Nora Ephron,Biography,94125426.0,PG-13,7.0,Amy Adams,86198,Nora Ephron,Julie & Julia,2009,13+,7.0,77%,1,0,0,0,0,"English,French",120.5
+641,30000000.0,Focus Features,USA,Shane Acker,Animation,31743332.0,PG-13,7.1,Elijah Wood,117268,Pamela Pettler,9,2009,13+,7.1,57%,1,0,0,0,0,English,79.0
+642,40000000.0,New Line Cinema,USA,David R. Ellis,Horror,66477700.0,R,5.2,Nick Zano,81274,Eric Bress,The Final Destination,2009,18+,5.2,29%,1,0,0,0,0,English,82.0
+643,35000000.0,Sketch Films,USA,Patrick Tatopoulos,Action,45802315.0,R,6.6,Rhona Mitra,132542,Danny McBride,Underworld: Rise of the Lycans,2009,18+,6.6,30%,1,0,0,0,0,English,92.0
+644,7000000.0,Focus Features,USA,Ethan Coen,Comedy,9190525.0,R,7.0,Michael Stuhlbarg,110208,Joel Coen,A Serious Man,2009,18+,7.0,90%,1,0,0,0,0,"English,Yiddish,Hebrew",106.0
+645,6000000.0,LD Entertainment,USA,Marcus Dunstan,Horror,7706394.0,R,6.4,Josh Stewart,47291,Patrick Melton,The Collector,2009,18+,6.4,29%,0,0,1,0,0,English,90.0
+646,26000000.0,Paramount Vantage,USA,Christian Alvart,Horror,13248477.0,R,6.2,Rene Zellweger,65254,Ray Wright,Case 39,2009,18+,6.2,21%,0,1,1,0,0,English,109.0
+647,30000000.0,It's a Laugh Productions,USA,Peter Chelsom,Comedy,79566871.0,G,4.3,Miley Cyrus,34118,Dan Berendsen,Hannah Montana: The Movie,2009,all,4.5,44%,0,0,0,1,0,English,102.0
+648,0.0,Yellow Bird,Sweden,Daniel Alfredson,Crime,9081782.0,R,7.2,Noomi Rapace,78771,Jonas Frykberg,The Girl Who Played with Fire,2009,18+,7.2,69%,0,0,1,0,0,"Swedish,Italian,English,French",129.0
+649,70000000.0,Mod Producciones,Spain,Alejandro Amenbar,Adventure,617840.0,R,7.2,Rachel Weisz,56850,Alejandro Amenbar,Agora,2009,13+,7.2,53%,0,0,1,0,0,English,127.0
+650,0.0,Barbarian Films,USA,David Mackenzie,Comedy,249590.0,R,5.9,Ashton Kutcher,34153,Jason Hall,Spread,2009,18+,5.8,21%,0,0,1,0,0,English,97.0
+651,40000000.0,Warner Bros.,Germany,James McTeigue,Action,38105077.0,R,6.4,Rick Yune,60987,Matthew Sand,Ninja Assassin,2009,18+,6.3,25%,1,0,0,0,0,English,99.0
+652,22000000.0,Paramount Pictures,USA,George Gallo,Comedy,723714.0,R,6.6,Luke Wilson,33978,George Gallo,Middle Men,2009,18+,6.8,40%,0,1,1,0,0,English,105.0
+653,0.0,Jon Shestack Productions,USA,Mark Waters,Comedy,55250026.0,PG-13,5.8,Matthew McConaughey,71836,Jon Lucas,Ghosts of Girlfriends Past,2009,13+,5.8,27%,1,0,0,0,0,"English,Japanese,Chinese,Spanish",107.5
+654,18500000.0,Warner Bros.,USA,Ricky Gervais,Comedy,18439082.0,PG-13,6.4,Ricky Gervais,99595,Ricky Gervais,The Invention of Lying,2009,13+,6.4,56%,1,0,0,0,0,English,100.0
+655,17000000.0,Millennium Films,USA,Antoine Fuqua,Crime,27154426.0,R,6.7,Richard Gere,55183,Michael C. Martin,Brooklyn's Finest,2009,18+,6.7,44%,1,0,1,0,0,English,132.0
+656,0.0,Film i Vst,Sweden,Daniel Alfredson,Crime,5188972.0,R,7.3,Michael Nyqvist,57185,Stieg Larsson,The Girl Who Kicked the Hornet's Nest,2009,18+,7.3,54%,0,0,1,0,0,Swedish,147.0
+657,7300000.0,Marv Films,UK,Daniel Barber,Action,1818681.0,R,7.2,Michael Caine,77350,Gary Young,Harry Brown,2009,18+,7.2,63%,0,0,1,0,0,English,103.0
+659,60000000.0,DreamWorks,UK,Joe Wright,Biography,31670931.0,PG-13,6.7,Jamie Foxx,45900,Susannah Grant,The Soloist,2009,13+,6.7,57%,0,0,1,0,0,English,117.0
+660,0.0,Artfire Films,USA,Kieran Mulroney,Comedy,15388.0,R,6.6,Jeff Daniels,16398,Michele Mulroney,Paper Man,2009,18+,6.6,32%,0,0,1,0,0,English,110.0
+661,150000000.0,Jerry Bruckheimer Films,USA,Hoyt Yeatman,Animation,119436770.0,PG,5.1,Will Arnett,35516,Cormac Wibberley,G-Force,2009,7+,5.1,22%,0,0,0,1,0,"Spanish,English",88.0
+662,40000000.0,Warner Bros.,USA,Robert Rodriguez,Comedy,20916309.0,PG,4.8,Jimmy Bennett,5645,Robert Rodriguez,Shorts,2009,7+,4.7,46%,1,0,0,0,0,English,89.0
+663,5000000.0,Echo Lake Entertainment,USA,Derrick Borte,Drama,1474508.0,R,6.5,Demi Moore,35116,Randy T. Dinzler,The Joneses,2010,18+,6.5,63%,0,0,1,0,0,English,96.0
+664,70000000.0,Metro-Goldwyn-Mayer (MGM),USA,Harald Zwart,Adventure,35922978.0,PG,5.6,Steve Martin,35845,Scott Neustadter,The Pink Panther 2,2009,7+,5.6,13%,0,1,1,0,0,"English,French,Spanish,Italian",92.0
+665,0.0,Paramount Vantage,USA,David Pastor,Drama,90820.0,PG-13,6.0,Chris Pine,37265,lex Pastor,Carriers,2009,13+,6.0,68%,1,0,0,0,0,English,92.0
+666,0.0,Paramount Vantage,USA,Neal Brennan,Comedy,15102127.0,R,5.8,Jeremy Piven,18361,Andy Stock,"The Goods: Live Hard, Sell Hard",2009,18+,5.8,27%,1,0,1,0,0,English,89.0
+667,6500000.0,Oscilloscope,USA,Oren Moverman,Drama,66637.0,R,7.2,Ben Foster,30893,Alessandro Camon,The Messenger,2009,18+,7.1,89%,0,1,1,0,0,"English,Spanish",113.0
+668,160000000.0,Warner Bros.,USA,Christopher Nolan,Action,292576195.0,PG-13,8.8,Leonardo DiCaprio,1629342,Christopher Nolan,Inception,2010,13+,8.8,87%,1,0,0,0,0,"English,Japanese,French",148.0
+669,60000000.0,Universal Pictures,USA,Edgar Wright,Action,31494270.0,PG-13,7.5,Michael Cera,302029,Michael Bacall,Scott Pilgrim vs. the World,2010,13+,7.5,81%,1,0,0,0,0,English,112.0
+670,20000000.0,DreamWorks,USA,Jim Field Smith,Comedy,31584722.0,R,6.4,Jay Baruchel,107464,Sean Anders,She's Out of My League,2010,18+,6.4,58%,1,0,1,0,0,"English,Ukrainian",102.0
+671,1500000.0,Alliance Films,USA,James Wan,Horror,54009150.0,PG-13,6.8,Patrick Wilson,226632,Leigh Whannell,Insidious,2010,13+,6.8,66%,1,0,0,0,0,English,103.0
+672,40000000.0,Columbia Pictures,USA,David Fincher,Biography,96962694.0,PG-13,7.7,Jesse Eisenberg,521956,Aaron Sorkin,The Social Network,2010,13+,7.7,96%,1,0,0,0,0,"English,French",120.0
+673,69000000.0,Universal Pictures,USA,Pierre Coffin,Animation,251513985.0,PG,7.7,Steve Carell,422190,Cinco Paul,Despicable Me,2010,7+,7.6,81%,1,0,0,0,0,English,95.0
+674,260000000.0,Walt Disney Animation Studios,USA,Nathan Greno,Animation,200821936.0,PG,7.8,Mandy Moore,325621,Dan Fogelman,Tangled,2010,7+,7.7,89%,0,0,0,1,0,English,100.0
+675,15000000.0,See-Saw Films,UK,Tom Hooper,Biography,138797449.0,R,8.0,Colin Firth,544927,David Seidler,The King's Speech,2010,18+,8.0,95%,1,0,0,0,0,English,118.0
+676,200000000.0,Paramount Pictures,USA,Jon Favreau,Action,312433331.0,PG-13,7.0,Robert Downey Jr.,571416,Justin Theroux,Iron Man 2,2010,13+,7.0,73%,0,0,1,1,0,"English,French,Russian",124.0
+677,170000000.0,Walt Disney Pictures,USA,Joseph Kosinski,Action,172062763.0,PG,6.8,Jeff Bridges,278124,Edward Kitsis,TRON: Legacy,2010,7+,6.8,51%,0,0,0,1,0,English,112.5
+679,38000000.0,Paramount Pictures,USA,Ethan Coen,Adventure,171243005.0,PG-13,7.6,Jeff Bridges,259855,Joel Coen,True Grit,2010,13+,7.6,96%,0,1,1,0,0,English,110.0
+680,80000000.0,Alcon Entertainment,USA,Albert Hughes,Action,94835059.0,R,6.9,Denzel Washington,246433,Gary Whitta,The Book of Eli,2010,18+,6.9,47%,0,1,0,0,0,English,118.0
+681,100000000.0,New Line Cinema,USA,Michael Patrick King,Comedy,95347692.0,R,4.4,Sarah Jessica Parker,63699,Michael Patrick King,Sex and the City 2,2010,18+,4.5,16%,1,0,0,0,0,"English,Arabic",146.0
+682,200000000.0,Walt Disney Pictures,USA,Lee Unkrich,Animation,415004880.0,G,8.3,Tom Hanks,603472,John Lasseter,Toy Story 3,2010,all,8.3,98%,0,0,0,1,0,"English,Spanish",103.0
+683,3500000.0,Incentive Filmed Entertainment,USA,Derek Cianfrance,Drama,9737892.0,R,7.4,Ryan Gosling,154714,Derek Cianfrance,Blue Valentine,2010,18+,7.4,87%,1,0,0,0,0,English,112.0
+684,2000000.0,Cinetel Films,USA,Steven R. Monroe,Crime,93051.0,R,6.3,Sarah Butler,61717,Adam Rockoff,I Spit on Your Grave,2010,18+,6.3,33%,0,0,1,0,0,English,108.0
+686,110000000.0,Columbia Pictures,USA,Phillip Noyce,Action,118311368.0,PG-13,6.4,Angelina Jolie,259831,Kurt Wimmer,Salt,2010,13+,6.4,62%,1,0,0,0,0,"English,Russian,Korean",100.0
+687,150000000.0,Paramount Pictures,USA,M. Night Shyamalan,Action,131564731.0,PG,4.2,Noah Ringer,127467,M. Night Shyamalan,The Last Airbender,2010,7+,4.1,5%,1,0,0,0,0,English,103.0
+688,55000000.0,Screen Gems,USA,Steve Antin,Drama,39440655.0,PG-13,6.4,Cher,65689,Steve Antin,Burlesque,2010,13+,6.4,36%,1,0,0,0,0,English,119.0
+689,35000000.0,Lionsgate,USA,Paul Haggis,Crime,21148651.0,PG-13,7.4,Russell Crowe,155358,Paul Haggis,The Next Three Days,2010,13+,7.4,51%,0,1,1,0,0,English,133.0
+690,100000000.0,Columbia Pictures,USA,Adam McKay,Action,119219978.0,PG-13,6.7,Will Ferrell,204044,Adam McKay,The Other Guys,2010,13+,6.6,78%,1,0,0,0,0,"English,Ukrainian",107.0
+691,19000000.0,Universal Pictures,USA,Anand Tucker,Comedy,25918920.0,PG,6.5,Amy Adams,77685,Deborah Kaplan,Leap Year,2010,7+,6.5,23%,0,1,0,0,0,"English,Ukrainian",100.0
+692,15000000.0,Color Force,USA,Thor Freudenthal,Comedy,64003625.0,PG,6.2,Zachary Gordon,35256,Jackie Filgo,Diary of a Wimpy Kid,2010,7+,6.2,53%,0,0,0,1,0,"English,German",110.0
+693,52000000.0,New Line Cinema,USA,Garry Marshall,Comedy,110485654.0,PG-13,5.7,Julia Roberts,100570,Katherine Fugate,Valentine's Day,2010,13+,5.7,18%,1,0,0,0,0,"English,Spanish,Russian,Italian",125.0
+694,20000000.0,Overture Films,UK,Matt Reeves,Drama,12134420.0,R,7.2,Kodi Smit-McPhee,99166,Matt Reeves,Let Me In,2010,18+,7.1,88%,0,1,0,0,0,English,116.0
+695,130000000.0,DreamWorks Animation,USA,Tom McGrath,Animation,148415853.0,PG,7.3,Will Ferrell,188234,Alan Schoolcraft,Megamind,2010,7+,7.2,72%,0,1,0,0,0,English,95.0
+696,100000000.0,GK Films,USA,Florian Henckel von Donnersmarck,Action,67631157.0,PG-13,6.0,Johnny Depp,190376,Florian Henckel von Donnersmarck,The Tourist,2010,13+,6.0,20%,1,0,0,0,0,"English,French,Italian,Russian,Spanish",103.0
+697,0.0,Cinema Service,South Korea,Jeong-beom Lee,Action,6460.0,R,7.8,Bin Won,48823,Jeong-beom Lee,The Man from Nowhere,2010,18+,7.8,100%,0,0,1,0,0,"Korean,English",119.0
+698,25000000.0,Screen Gems,USA,Lasse Hallstrm,Drama,80014842.0,PG-13,6.3,Channing Tatum,115712,Jamie Linden,Dear John,2010,13+,6.3,29%,1,0,0,0,0,English,108.0
+699,20000000.0,Overture Films,USA,Breck Eisner,Horror,39123589.0,R,6.5,Radha Mitchell,98210,Scott Kosar,The Crazies,2010,18+,6.5,71%,0,0,1,0,0,English,101.0
+700,0.0,Universal Pictures,USA,Nicholas Stoller,Comedy,60974475.0,R,6.4,Jonah Hill,153864,Nicholas Stoller,Get Him to the Greek,2010,18+,6.4,72%,1,0,0,0,0,English,109.0
+701,0.0,Exclusive Films,USA,Peter Weir,Adventure,2701859.0,PG-13,7.3,Jim Sturgess,94377,Keith R. Clarke,The Way Back,2010,13+,7.3,74%,0,1,1,0,0,English,120.5
+702,20000000.0,Touchstone Pictures,USA,Julie Anne Robinson,Drama,62950384.0,PG,5.9,Miley Cyrus,66108,Nicholas Sparks,The Last Song,2010,7+,6.0,21%,0,0,0,1,0,English,103.5
+703,60000000.0,Constantin Film,Germany,Paul W.S. Anderson,Action,60128566.0,R,5.9,Milla Jovovich,143707,Paul W.S. Anderson,Resident Evil: Afterlife,2010,18+,5.8,22%,1,0,0,0,0,"English,Japanese,Spanish",96.0
+704,45000000.0,R.P. Productions,France,Roman Polanski,Drama,15541549.0,PG-13,7.2,Ewan McGregor,140059,Robert Harris,The Ghost Writer,2010,13+,7.2,84%,0,0,1,0,0,English,128.0
+705,40000000.0,Columbia Pictures,USA,Andy Tennant,Action,67061228.0,PG-13,5.5,Jennifer Aniston,103868,Sarah Thorp,The Bounty Hunter,2010,13+,5.6,12%,1,0,0,0,0,"English,Ukrainian",110.0
+706,10000000.0,River Road Entertainment,USA,Floria Sigismondi,Biography,3571735.0,R,6.6,Kristen Stewart,41586,Floria Sigismondi,The Runaways,2010,18+,6.5,70%,1,0,0,0,0,English,106.0
+708,150000000.0,Walt Disney Animation Studios,USA,Chris Buck,Animation,400738009.0,PG,7.5,Kristen Bell,464149,Jennifer Lee,Frozen,2013,7+,7.4,90%,0,0,0,1,0,"English,Norwegian",102.0
+709,75000000.0,Lionsgate,USA,Robert Luketic,Action,47059963.0,PG-13,5.4,Katherine Heigl,77029,Bob DeRosa,Killers,2010,13+,5.4,10%,0,0,1,0,0,English,100.0
+710,0.0,Paramount Pictures,USA,Jay Roach,Comedy,73026337.0,PG-13,5.9,Steve Carell,84651,David Guion,Dinner for Schmucks,2010,13+,5.9,41%,1,0,0,0,0,English,114.0
+711,6000000.0,Sedic International,Japan,Takashi Miike,Action,802524.0,R,7.6,Kji Yakusho,54145,Kaneo Ikegami,13 Assassins,2010,18+,7.6,95%,0,1,0,0,0,Japanese,141.0
+712,37000000.0,Warner Bros.,USA,Kevin Smith,Action,44875481.0,R,5.6,Bruce Willis,78157,Robb Cullen,Cop Out,2010,18+,5.6,18%,1,0,0,0,0,"English,Spanish",107.0
+713,25000000.0,Miramax,USA,Troy Nixey,Fantasy,24042490.0,R,5.6,Katie Holmes,42545,Guillermo del Toro,Don't Be Afraid of the Dark,2010,18+,5.6,60%,1,0,0,0,0,English,99.0
+714,15000000.0,Not specified,UK,John Wells,Drama,4439063.0,R,6.8,Ben Affleck,38636,John Wells,The Company Men,2010,18+,6.7,67%,1,0,0,0,0,English,104.0
+715,650000.0,Glass Eye Pix,USA,Jim Mickle,Drama,18469.0,R,6.5,Connor Paolo,36801,Nick Damici,Stake Land,2010,18+,6.5,74%,0,0,1,0,0,English,98.0
+716,35000000.0,Walt Disney Pictures,USA,Randall Wallace,Biography,59713955.0,PG,7.2,Diane Lane,22288,Mike Rich,Secretariat,2010,7+,7.2,63%,0,0,0,1,0,English,123.0
+717,0.0,Henan Film & TV Production Group Henan Film Studio,Hong Kong,Wilson Yip,Action,205675.0,R,7.6,Donnie Yen,78917,Tai-lee Chan,Ip Man 2,2010,18+,7.5,96%,1,0,0,0,0,"Cantonese,Mandarin,English",108.0
+719,3000000.0,Paramount Pictures,USA,Tod Williams,Horror,84752907.0,R,5.7,Katie Featherston,87197,Michael R. Perry,Paranormal Activity 2,2010,18+,5.6,59%,0,1,1,0,0,"English,Spanish",91.0
+720,8000000.0,Annapurna Productions,USA,Mitch Glazer,Drama,3669.0,R,5.0,Mickey Rourke,7540,Mitch Glazer,Passion Play,2011,18+,4.6,3%,0,0,1,0,0,English,94.0
+721,15000000.0,Screen Gems,USA,Shana Feste,Drama,20218921.0,PG-13,6.3,Garrett Hedlund,15478,Shana Feste,Country Strong,2010,13+,6.3,22%,1,0,0,0,0,English,117.0
+722,0.0,Evenstar Films,USA,Kelly Reichardt,Drama,977600.0,PG,6.6,Michelle Williams,9252,Jonathan Raymond,Meek's Cutoff,2010,7+,6.5,86%,0,1,1,0,0,English,104.0
+723,25000000.0,Aramid Entertainment Fund,USA,Taylor Hackford,Biography,134904.0,R,5.7,Helen Mirren,2558,Mark Jacobson,Love Ranch,2010,18+,5.6,13%,0,0,1,0,0,English,108.5
+724,4500000.0,10th Hole Productions,USA,Galt Niederhoffer,Comedy,103280.0,PG-13,5.1,Katie Holmes,10547,Galt Niederhoffer,The Romantics,2010,13+,5.1,14%,0,0,1,0,0,English,97.5
+725,0.0,Lionsgate,USA,Tyler Perry,Drama,37721949.0,R,6.0,Janet Jackson,6359,Tyler Perry,For Colored Girls,2010,18+,6.1,32%,1,0,0,0,0,English,116.5
+726,800000.0,ArieScope Pictures,USA,Adam Green,Comedy,62000.0,R,5.5,Danielle Harris,10103,Adam Green,Hatchet II,2010,18+,5.5,40%,0,0,1,0,0,English,85.0
+727,0.0,Paper Street Films,USA,Josh Radnor,Comedy,215576.0,R,6.8,Josh Radnor,27342,Josh Radnor,Happythankyoumoreplease,2011,18+,6.8,42%,0,0,1,0,0,English,100.0
+728,0.0,Secret Handshake Entertainment,USA,Michael J. Weithorn,Comedy,85789.0,R,5.7,Jenna Fischer,2787,Michael J. Weithorn,A Little Help,2010,18+,5.6,41%,0,0,1,0,0,English,104.5
+729,15000000.0,An Olive Branch Productions,Canada,George Hickenlooper,Biography,1039869.0,R,6.2,Kevin Spacey,15443,Norman Snider,Casino Jack,2010,18+,6.2,40%,0,0,1,0,0,English,108.0
+730,12000000.0,Company Films,USA,Malcolm Venville,Comedy,101882.0,R,6.0,Keanu Reeves,16513,Sacha Gervasi,Henry's Crime,2010,18+,6.0,41%,0,0,1,0,0,English,108.0
+731,0.0,Samuel Goldwyn Films,UK,Jake Scott,Drama,152857.0,R,7.0,James Gandolfini,21126,Ken Hixon,Welcome to the Rileys,2010,18+,7.0,54%,0,1,1,0,0,English,105.0
+732,0.0,Access Motion Pictures,Canada,Geoffrey Sax,Biography,693181.0,R,6.5,Halle Berry,4201,Cheryl Edwards,Frankie & Alice,2010,18+,6.5,21%,0,0,1,0,0,English,100.5
+733,85000000.0,CD2 Films,USA,Brad Peyton,Action,43585753.0,PG,4.3,Bette Midler,11161,Ron J. Friedman,Cats & Dogs: The Revenge of Kitty Galore,2010,7+,4.3,13%,1,0,0,0,0,English,91.0
+734,0.0,Prime Focus,India,Sanjay Leela Bhansali,Comedy,1017335.0,Not specified,7.5,Hrithik Roshan,13312,Sanjay Leela Bhansali,Guzaarish,2010,7+,7.4,67%,1,0,0,0,0,"Hindi,English",126.0
+735,250000000.0,Walt Disney Pictures,USA,Rob Marshall,Action,241071802.0,PG-13,6.6,Johnny Depp,408968,Ted Elliott,Pirates of the Caribbean: On Stranger Tides,2011,13+,6.6,33%,0,0,0,1,0,"English,Spanish",118.5
+736,15000000.0,FilmDistrict,USA,Nicolas Winding Refn,Crime,35060689.0,R,7.8,Ryan Gosling,472901,Hossein Amini,Drive,2011,18+,7.8,92%,1,0,1,0,0,"English,Spanish",100.0
+737,150000000.0,Paramount Pictures,USA,Kenneth Branagh,Action,181030624.0,PG-13,7.0,Chris Hemsworth,585830,Ashley Miller,Thor,2011,13+,7.0,77%,0,0,1,1,0,English,115.0
+738,140000000.0,Paramount Pictures,USA,Joe Johnston,Action,176654505.0,PG-13,6.9,Chris Evans,563504,Christopher Markus,Captain America: The First Avenger,2011,13+,6.9,80%,0,0,1,1,0,"English,Norwegian,French",124.0
+739,50000000.0,Paramount Pictures,USA,J.J. Abrams,Mystery,127004179.0,PG-13,7.0,Elle Fanning,303656,J.J. Abrams,Super 8,2011,13+,7.0,81%,0,1,1,0,0,English,112.0
+740,195000000.0,Paramount Pictures,USA,Michael Bay,Action,352390543.0,PG-13,6.3,Shia LaBeouf,345669,Ehren Kruger,Transformers: Dark of the Moon,2011,13+,6.2,35%,0,1,1,0,0,English,154.0
+741,40000000.0,Lionsgate,USA,Brad Furman,Crime,58009200.0,R,7.3,Matthew McConaughey,184728,John Romano,The Lincoln Lawyer,2011,18+,7.3,84%,0,0,1,0,0,English,118.0
+742,150000000.0,Paramount Pictures,USA,Martin Scorsese,Adventure,73864507.0,PG,7.5,Asa Butterfield,264187,John Logan,Hugo,2011,7+,7.5,93%,1,0,0,0,0,English,126.0
+743,15000000.0,Focus Features,USA,Lone Scherfig,Drama,13843771.0,PG-13,7.0,Anne Hathaway,116446,David Nicholls,One Day,2011,13+,7.0,36%,1,0,1,0,0,English,107.0
+744,0.0,No Trace Camping,USA,Michael Dowse,Comedy,4168144.0,R,6.8,Seann William Scott,75386,Jay Baruchel,Goon,2012,18+,6.8,81%,1,0,0,0,0,"English,French",92.0
+745,25000000.0,Paramount Pictures,USA,Ivan Reitman,Comedy,70662220.0,R,6.2,Natalie Portman,181844,Elizabeth Meriwether,No Strings Attached,2011,18+,6.2,49%,0,1,1,0,0,"English,Ukrainian",108.0
+746,7000000.0,BBC Films,UK,Lynne Ramsay,Drama,1738692.0,R,7.5,Tilda Swinton,108592,Lynne Ramsay,We Need to Talk About Kevin,2011,18+,7.5,75%,0,1,1,0,0,English,112.0
+747,135000000.0,Paramount Pictures,USA,Gore Verbinski,Animation,123477607.0,PG,7.2,Johnny Depp,198267,John Logan,Rango,2011,7+,7.2,88%,0,1,1,0,0,English,107.0
+748,90000000.0,Millennium Films,USA,Marcus Nispel,Action,21295021.0,R,5.2,Jason Momoa,85864,Thomas Dean Donnelly,Conan the Barbarian,2011,18+,5.2,25%,0,1,1,0,0,English,121.0
+749,24000000.0,Paramount Pictures,USA,Craig Brewer,Comedy,51802742.0,PG-13,5.9,Kenny Wormald,40132,Dean Pitchford,Footloose,2011,13+,5.9,69%,0,1,1,0,0,English,113.0
+750,35000000.0,Lionsgate,USA,John Singleton,Action,28087155.0,PG-13,5.1,Taylor Lautner,68380,Shawn Christensen,Abduction,2011,13+,5.1,5%,0,1,1,0,0,English,106.0
+751,11000000.0,Voltage Pictures,USA,William Friedkin,Crime,1987762.0,R,6.7,Matthew McConaughey,63334,Tracy Letts,Killer Joe,2011,18+,6.7,79%,0,1,0,0,0,English,102.0
+752,18000000.0,Enticing Entertainment,USA,Sean McNamara,Biography,43853424.0,PG,7.1,AnnaSophia Robb,38348,Sean McNamara,Soul Surfer,2011,7+,7.0,45%,1,0,0,0,0,English,112.0
+753,8000000.0,Summit Entertainment,USA,Jonathan Levine,Comedy,35014192.0,R,7.7,Joseph Gordon-Levitt,285675,Will Reiser,50/50,2011,18+,7.6,93%,0,1,0,0,0,English,100.0
+754,200000000.0,Walt Disney Pictures,USA,John Lasseter,Animation,191452396.0,G,6.2,Owen Wilson,116477,John Lasseter,Cars 2,2011,all,6.1,39%,0,0,0,1,0,"English,Japanese,Italian,French",106.0
+755,135000000.0,Columbia Pictures,USA,Steven Spielberg,Animation,77591831.0,PG,7.4,Jamie Bell,188070,Herg,The Adventures of Tintin,2011,7+,7.3,74%,1,0,0,0,0,English,107.0
+756,66000000.0,DreamWorks,USA,Steven Spielberg,Drama,79884879.0,PG-13,7.2,Jeremy Irvine,125204,Lee Hall,War Horse,2011,13+,7.2,74%,1,0,0,0,0,"English,German",146.0
+757,45000000.0,Universal Pictures,USA,Oliver Parker,Action,8305970.0,PG,6.3,Rowan Atkinson,95736,Hamish McColl,Johnny English Reborn,2011,7+,6.3,38%,1,0,0,0,0,"English,Mandarin,Swiss German,Cantonese,Russian",101.0
+759,15000000.0,Studio 37,France,Michel Hazanavicius,Comedy,44671682.0,PG-13,7.9,Jean Dujardin,202820,Michel Hazanavicius,The Artist,2011,13+,7.9,95%,1,0,0,0,0,"English,French",100.0
+760,250000.0,Paramount Vantage,USA,Drake Doremus,Drama,3413908.0,PG-13,6.7,Felicity Jones,51491,Drake Doremus,Like Crazy,2011,13+,6.7,71%,0,0,1,0,0,English,86.0
+761,0.0,The Weinstein Company,UK,Simon Curtis,Biography,14600347.0,R,7.0,Michelle Williams,75373,Adrian Hodges,My Week with Marilyn,2011,13+,7.0,83%,1,0,0,0,0,"English,French",99.0
+762,150000000.0,DreamWorks Animation,USA,Jennifer Yuh Nelson,Animation,165249063.0,PG,7.3,Jack Black,203107,Jonathan Aibel,Kung Fu Panda 2,2011,7+,7.2,81%,1,0,0,0,0,English,90.0
+763,16000000.0,Screen Gems,USA,Christian E. Christiansen,Drama,37300107.0,PG-13,4.9,Minka Kelly,30941,Sonny Mallhi,The Roommate,2011,13+,4.8,4%,1,0,0,0,0,English,95.5
+764,55000000.0,Cliffjack Motion Pictures,USA,Jim Sheridan,Drama,21283440.0,PG-13,6.0,Daniel Craig,54803,David Loucka,Dream House,2011,13+,6.0,6%,1,0,0,0,0,English,84.0
+765,45000000.0,GK Films,USA,Bruce Robinson,Comedy,13100042.0,R,6.2,Johnny Depp,90562,Bruce Robinson,The Rum Diary,2011,18+,6.2,51%,1,0,0,0,0,"English,Spanish,German",119.5
+766,13000000.0,Path,UK,Phyllida Lloyd,Biography,30017992.0,PG-13,6.4,Meryl Streep,88841,Abi Morgan,The Iron Lady,2011,13+,6.4,52%,1,0,0,0,0,English,105.0
+767,120000000.0,Columbia Pictures,USA,Michel Gondry,Action,98780042.0,PG-13,5.8,Seth Rogen,142094,Seth Rogen,The Green Hornet,2011,13+,5.8,44%,1,0,0,0,0,"English,Mandarin",109.5
+768,12000000.0,Anchor Bay Films,USA,Jonathan Hensleigh,Biography,1187711.0,R,7.1,Ray Stevenson,37684,Jonathan Hensleigh,Kill the Irishman,2011,18+,7.1,62%,0,0,1,0,0,English,106.0
+769,15000000.0,Semtex Films,UK,Madonna,Drama,583455.0,R,6.2,Abbie Cornish,10495,Madonna,W.E.,2011,18+,6.3,12%,1,0,0,0,0,"English,French,Russian",119.0
+770,5000000.0,Mandalay Vision,USA,Richard Linklater,Biography,9203192.0,PG-13,6.8,Jack Black,49922,Skip Hollandsworth,Bernie,2012,13+,6.8,88%,0,0,1,0,0,English,99.0
+771,12000000.0,Paramount Pictures,USA,Jason Reitman,Comedy,16311571.0,R,6.3,Charlize Theron,68120,Diablo Cody,Young Adult,2011,18+,6.2,80%,1,0,1,0,0,English,94.0
+772,63000000.0,Universal Pictures,USA,Tim Hill,Animation,108085305.0,PG,5.5,Russell Brand,26043,Cinco Paul,Hop,2011,7+,5.4,25%,1,0,0,0,0,"English,Chinese,Spanish,French,Ukrainian",97.5
+773,25000000.0,Incentive Filmed Entertainment,USA,David R. Ellis,Horror,18872522.0,PG-13,4.0,Sara Paxton,21890,Will Hayes,Shark Night 3D,2011,13+,4.0,19%,1,0,0,0,0,English,90.0
+774,94000000.0,Beijing New Picture Film Co.,China,Yimou Zhang,Drama,9213.0,R,7.6,Christian Bale,41876,Heng Liu,The Flowers of War,2011,18+,7.6,41%,0,0,1,0,0,"Mandarin,English,Japanese,Shanghainese",146.0
+775,0.0,Endgame Entertainment,USA,Alex Gregory,Comedy,154604.0,R,6.2,Jason Sudeikis,18896,Alex Gregory,A Good Old Fashioned Orgy,2011,18+,6.1,35%,0,1,1,0,0,English,95.0
+776,30000000.0,Walt Disney Pictures,USA,Stephen J. Anderson,Animation,26692846.0,G,7.2,Jim Cummings,16941,Stephen J. Anderson,Winnie the Pooh,2011,all,7.2,91%,0,0,0,1,0,English,102.0
+777,0.0,Eros International,India,Zoya Akhtar,Adventure,3076226.0,Not specified,8.1,Hrithik Roshan,50511,Farhan Akhtar,Zindagi Na Milegi Dobara,2011,7+,8.1,91%,1,0,0,0,0,"Hindi,Japanese,Spanish,English",155.0
+778,5000000.0,Paramount Pictures,USA,Henry Joost,Horror,104007828.0,R,5.8,Chloe Csengery,80871,Christopher Landon,Paranormal Activity 3,2011,18+,5.8,67%,0,1,0,0,0,English,83.0
+779,0.0,UK Film Council,UK,Lasse Hallstrm,Comedy,9025107.0,PG-13,6.8,Ewan McGregor,54890,Simon Beaufoy,Salmon Fishing in the Yemen,2012,13+,6.8,67%,0,0,1,0,0,"English,Arabic,Mandarin",107.0
+780,10000000.0,Red Granite Pictures,USA,Jennifer Westfeldt,Comedy,7250054.0,R,6.2,Jennifer Westfeldt,37719,Jennifer Westfeldt,Friends with Kids,2012,18+,6.1,67%,0,1,1,0,0,English,107.0
+781,5000000.0,Dimension Films,USA,Gonzalo Lpez-Gallego,Horror,17686929.0,PG-13,5.2,Warren Christie,49108,Brian Miller,Apollo 18,2011,13+,5.2,23%,1,0,0,0,0,English,86.0
+782,0.0,Cherry Sky Films,USA,Adam Kassen,Biography,67071.0,R,6.9,Chris Evans,20277,Paul Danziger,Puncture,2011,18+,6.8,52%,0,0,1,0,0,"English,French",100.0
+783,0.0,Davis Entertainment,USA,Nicole Kassell,Comedy,10011.0,PG-13,6.3,Kate Hudson,24736,Gren Wells,A Little Bit of Heaven,2011,13+,6.3,4%,0,0,1,0,0,English,103.0
+784,8000000.0,Rickshaw Productions,USA,Joe Nussbaum,Comedy,10130219.0,PG,5.4,Aimee Teegarden,13474,Katie Wech,Prom,2011,7+,5.4,36%,0,0,0,1,0,English,104.0
+785,20000000.0,Atlas Productions,USA,Paul Johansson,Drama,4752353.0,PG-13,5.7,Taylor Schilling,11831,Brian Patrick O'Toole,Atlas Shrugged: Part I,2011,13+,5.6,12%,0,0,1,0,0,English,97.0
+786,8000000.0,Magic Violet,USA,Geoffrey Fletcher,Action,17186.0,R,6.1,Saoirse Ronan,10028,Geoffrey Fletcher,Violet & Daisy,2011,18+,6.1,22%,0,0,1,0,0,English,88.0
+787,100000000.0,The Weinstein Company,USA,Quentin Tarantino,Drama,162805434.0,R,8.4,Jamie Foxx,1070691,Quentin Tarantino,Django Unchained,2012,18+,8.4,87%,1,0,0,0,0,"English,German,French,Italian",165.0
+788,13000000.0,Summit Entertainment,USA,Stephen Chbosky,Drama,17738570.0,PG-13,8.0,Logan Lerman,386932,Stephen Chbosky,The Perks of Being a Wallflower,2012,13+,8.0,86%,1,0,0,0,0,English,102.5
+789,30000000.0,Lionsgate,USA,Drew Goddard,Horror,42073277.0,R,7.0,Kristen Connolly,304144,Joss Whedon,The Cabin in the Woods,2012,18+,7.0,92%,0,1,1,0,0,"English,Japanese",95.0
+790,21000000.0,The Weinstein Company,USA,David O. Russell,Comedy,132092958.0,R,7.8,Bradley Cooper,575513,David O. Russell,Silver Linings Playbook,2012,18+,7.7,92%,1,0,0,0,0,English,122.0
+791,7000000.0,Iron Horse Entertainment (II),USA,Steven Soderbergh,Comedy,113721571.0,R,6.1,Channing Tatum,115818,Reid Carolin,Magic Mike,2012,18+,6.1,79%,0,0,1,0,0,English,110.0
+792,165000000.0,Walt Disney Animation Studios,USA,Rich Moore,Animation,189422889.0,PG,7.7,John C. Reilly,298207,Rich Moore,Wreck-It Ralph,2012,7+,7.7,87%,0,0,0,1,0,English,101.0
+793,185000000.0,Walt Disney Pictures,USA,Mark Andrews,Animation,237283207.0,PG,7.2,Kelly Macdonald,302017,Brenda Chapman,Brave,2012,7+,7.1,78%,0,0,0,1,0,English,93.0
+794,26000000.0,The Weinstein Company,USA,John Hillcoat,Crime,37400127.0,R,7.3,Tom Hardy,199327,Nick Cave,Lawless,2012,18+,7.3,67%,1,0,0,0,0,English,116.0
+795,3000000.0,Alliance Films,USA,Scott Derrickson,Horror,48086903.0,R,6.8,Ethan Hawke,177787,Scott Derrickson,Sinister,2012,18+,6.8,64%,1,0,0,0,0,English,110.0
+796,250000000.0,Walt Disney Pictures,USA,Andrew Stanton,Action,73078100.0,PG-13,6.6,Taylor Kitsch,224234,Andrew Stanton,John Carter,2012,13+,6.6,52%,0,0,0,1,0,English,132.0
+797,32000000.0,The Weinstein Company,USA,Paul Thomas Anderson,Drama,16377274.0,R,7.1,Philip Seymour Hoffman,116047,Paul Thomas Anderson,The Master,2012,18+,7.2,85%,1,0,0,0,0,"Filipino,English",141.0
+798,7000000.0,Exclusive Media Group,USA,David Ayer,Action,41003371.0,R,7.7,Jake Gyllenhaal,196450,David Ayer,End of Watch,2012,18+,7.6,85%,1,0,0,0,0,"English,Spanish",109.0
+799,15000000.0,CBS Films,UK,Martin McDonagh,Comedy,15024049.0,R,7.2,Colin Farrell,200857,Martin McDonagh,Seven Psychopaths,2012,18+,7.2,82%,0,0,1,0,0,"English,Vietnamese",110.0
+800,2000000.0,Samuel Goldwyn Films,USA,Jon Kasdan,Comedy,17061.0,PG-13,6.9,Dylan O'Brien,55742,Jon Kasdan,The First Time,2012,13+,6.8,47%,0,0,1,0,0,English,95.0
+801,10000000.0,Lionsgate,USA,Jeff Nichols,Drama,21590086.0,PG-13,7.4,Matthew McConaughey,146045,Jeff Nichols,Mud,2013,13+,7.4,97%,1,0,0,0,0,English,130.0
+802,17000000.0,Cross Creek Pictures,UK,James Watkins,Drama,54333290.0,PG-13,6.4,Daniel Radcliffe,153960,Susan Hill,The Woman in Black,2012,13+,6.4,67%,0,0,1,0,0,English,95.0
+803,6900000.0,Relativity Media,Canada,Mark Tonderai,Drama,31611916.0,PG-13,5.6,Jennifer Lawrence,62147,David Loucka,House at the End of the Street,2012,13+,5.6,14%,1,0,0,0,0,English,101.0
+804,6000000.0,Also Known As Pictures,USA,Brian Klugman,Drama,11494838.0,PG-13,7.1,Bradley Cooper,64718,Brian Klugman,The Words,2012,13+,7.0,25%,0,0,1,0,0,"English,French",102.0
+806,42000000.0,Summit Entertainment,USA,Asger Leth,Action,18620000.0,PG-13,6.6,Sam Worthington,131006,Pablo F. Fenjves,Man on a Ledge,2012,13+,6.6,32%,0,1,1,0,0,"English,Spanish",102.0
+807,85000000.0,Relativity Media,USA,Tarsem Singh,Adventure,64935167.0,PG,5.6,Lily Collins,74728,Marc Klein,Mirror Mirror,2012,7+,5.6,50%,1,0,1,0,0,English,106.0
+808,0.0,RT Features,USA,Noah Baumbach,Comedy,4063238.0,R,7.4,Greta Gerwig,50014,Noah Baumbach,Frances Ha,2013,18+,7.5,92%,1,0,0,0,0,"French,English",86.0
+809,15000000.0,Plan B Entertainment,USA,Andrew Dominik,Crime,15026056.0,R,6.2,Brad Pitt,117806,Andrew Dominik,Killing Them Softly,2012,18+,6.2,73%,1,0,0,0,0,English,97.0
+810,0.0,Millennium Films,Spain,Rodrigo Corts,Drama,52624.0,R,6.2,Sigourney Weaver,51697,Rodrigo Corts,Red Lights,2012,18+,6.2,30%,0,0,1,0,0,English,114.0
+811,14000000.0,Ghost House Pictures,USA,Ole Bornedal,Horror,49130154.0,PG-13,5.9,Natasha Calis,50230,Juliet Snowden,The Possession,2012,13+,5.9,40%,0,0,1,0,0,English,92.0
+812,39000000.0,Walt Disney Pictures,USA,Tim Burton,Animation,35291068.0,PG,7.0,Winona Ryder,81006,Leonard Ripps,Frankenweenie,2012,7+,6.9,87%,0,0,0,1,0,English,87.0
+813,25000000.0,Monsterfoot Productions,USA,Peter Hedges,Comedy,51853450.0,PG,6.6,Jennifer Garner,40006,Peter Hedges,The Odd Life of Timothy Green,2012,7+,6.6,35%,0,0,0,1,0,English,105.0
+814,16600000.0,Recorded Picture Company (RPC),UK,Joachim Rnning,Adventure,1517410.0,PG-13,7.2,Pl Sverre Hagen,38013,Petter Skavlan,Kon-Tiki,2012,13+,7.2,81%,1,0,1,0,0,"Norwegian,English,French,Swedish",118.0
+815,12000000.0,Lionsgate,USA,Nicholas Jarecki,Drama,7918283.0,R,6.6,Richard Gere,44196,Nicholas Jarecki,Arbitrage,2012,18+,6.6,88%,0,1,1,0,0,English,107.0
+816,60000000.0,Upside Down Films,Canada,Juan Solanas,Drama,102118.0,PG-13,6.4,Jim Sturgess,62401,Juan Solanas,Upside Down,2012,13+,6.4,28%,0,0,1,0,0,English,109.0
+817,0.0,Maven Pictures,USA,Shari Springer Berman,Comedy,1378426.0,PG-13,5.8,Kristen Wiig,13157,Michelle Morgan,Girl Most Likely,2012,13+,5.8,22%,0,1,1,0,0,"English,French,Romanian,Dutch,Mandarin",103.0
+818,1000000.0,Alcon Entertainment,USA,Bradley Parker,Horror,18119640.0,R,5.0,Jesse McCartney,55671,Oren Peli,Chernobyl Diaries,2012,18+,5.0,19%,1,0,0,0,0,"English,Ukrainian,Russian",86.0
+819,58000000.0,Twentieth Century Fox Film Corporation,USA,Anthony Hemingway,Action,49876377.0,PG-13,5.9,Cuba Gooding Jr.,30097,John Ridley,Red Tails,2012,13+,5.9,40%,0,0,0,1,0,"English,Italian,German",112.5
+820,0.0,Medusa Film,Italy,Sergio Castellitto,Drama,14947.0,R,7.4,Penlope Cruz,13094,Margaret Mazzantini,Twice Born,2012,18+,7.4,17%,0,0,1,0,0,"English,Italian,Bosnian",127.0
+821,2500000.0,Dog Run Pictures,USA,Jake Schreier,Comedy,3325638.0,PG-13,7.1,Peter Sarsgaard,55671,Christopher Ford,Robot & Frank,2012,13+,7.1,86%,0,0,1,0,0,English,89.0
+822,40000000.0,Universal Pictures,USA,Ken Kwapis,Biography,20113965.0,PG,6.5,Drew Barrymore,16132,Jack Amiel,Big Miracle,2012,7+,6.5,75%,1,0,0,0,0,English,107.0
+823,14000000.0,Paramount Pictures,USA,Josh Schwartz,Adventure,9402410.0,PG-13,5.4,Victoria Justice,12027,Max Werner,Fun Size,2012,13+,5.4,25%,0,1,1,0,0,English,86.0
+824,750000.0,Prototype,USA,William Brent Bell,Horror,53261944.0,R,4.2,Fernanda Andrade,31857,William Brent Bell,The Devil Inside,2012,18+,4.2,6%,1,0,0,0,0,"English,German,Italian",83.0
+825,6000000.0,Red Crown Productions,USA,Scott McGehee,Drama,1065000.0,R,7.5,Julianne Moore,23509,Nancy Doyne,What Maisie Knew,2013,18+,7.4,86%,0,0,1,0,0,English,96.0
+826,11000000.0,Headline Pictures,UK,Dustin Hoffman,Comedy,18390117.0,PG-13,6.8,Maggie Smith,16807,Ronald Harwood,Quartet,2012,13+,6.8,80%,1,0,0,0,0,"English,Italian,Polish,French",96.0
+827,0.0,Paragraph Pictures,Canada,Joan Carr-Wiggin,Comedy,9222.0,R,7.0,Marcia Gay Harden,1410,Joan Carr-Wiggin,If I Were You,2013,18+,7.0,13%,0,0,1,0,0,English,115.0
+828,20000000.0,"Tyler Perry Company, The",USA,Tyler Perry,Comedy,65653242.0,PG-13,4.9,Tyler Perry,7957,Tyler Perry,Madea's Witness Protection,2012,13+,4.9,19%,0,1,1,0,0,English,107.0
+829,0.0,Adventure Pictures,UK,Sally Potter,Drama,1005700.0,PG-13,6.3,Elle Fanning,8755,Sally Potter,Ginger & Rosa,2012,13+,6.3,78%,1,0,0,0,0,English,90.0
+830,0.0,Opening Night Productions,USA,Yaron Zilberman,Drama,1561577.0,R,7.1,Philip Seymour Hoffman,12008,Seth Grossman,A Late Quartet,2012,18+,7.1,76%,0,0,1,0,0,English,105.0
+831,20000000.0,New Line Cinema,USA,James Wan,Horror,137400141.0,R,7.5,Patrick Wilson,342870,Chad Hayes,The Conjuring,2013,18+,7.5,85%,0,1,0,0,0,"English,Latin",112.0
+832,23000000.0,Annapurna Pictures,USA,Spike Jonze,Drama,25568251.0,R,8.0,Joaquin Phoenix,404796,Spike Jonze,Her,2013,18+,8.0,95%,1,0,0,0,0,English,126.0
+833,0.0,Quat'sous Films,France,Abdellatif Kechiche,Drama,2199675.0,NC-17,7.8,La Seydoux,107119,Abdellatif Kechiche,Blue Is the Warmest Color,2013,18+,7.7,89%,1,0,0,0,0,"French,English",180.0
+834,200000000.0,Marvel Studios,China,Shane Black,Action,409013994.0,PG-13,7.2,Robert Downey Jr.,605330,Drew Pearce,Iron Man 3,2013,13+,7.2,79%,0,0,0,1,0,English,130.0
+835,70000000.0,Millennium Films,USA,Antoine Fuqua,Action,98925640.0,R,6.5,Gerard Butler,218879,Creighton Rothenberger,Olympus Has Fallen,2013,18+,6.5,49%,1,0,0,0,0,"English,Korean",119.0
+836,5000000.0,Truth Entertainment (II),USA,Jean-Marc Valle,Biography,27298285.0,R,8.0,Matthew McConaughey,362192,Craig Borten,Dallas Buyers Club,2013,18+,8.0,93%,1,0,0,0,0,"English,Japanese",117.0
+837,12000000.0,Translux,UK,Richard Curtis,Comedy,15322921.0,R,7.8,Domhnall Gleeson,228554,Richard Curtis,About Time,2013,18+,7.8,68%,1,0,0,0,0,English,123.0
+839,170000000.0,Marvel Studios,USA,Alan Taylor,Action,206362140.0,PG-13,7.0,Chris Hemsworth,456007,Christopher Yost,Thor: The Dark World,2013,13+,6.9,66%,0,0,0,1,0,English,112.0
+840,6000000.0,Worldview Entertainment,USA,Eli Roth,Adventure,7192291.0,R,5.3,Lorenza Izzo,28341,Guillermo Amoedo,The Green Inferno,2014,18+,5.3,38%,1,0,0,0,0,"English,Spanish",100.0
+841,13300000.0,Film4,UK,Jonathan Glazer,Drama,2605039.0,R,6.3,Scarlett Johansson,98496,Walter Campbell,Under the Skin,2014,18+,6.3,85%,1,0,0,0,0,English,108.0
+842,5000000.0,Relativity Media,USA,Mike Flanagan,Horror,27695246.0,R,6.5,Karen Gillan,95687,Mike Flanagan,Oculus,2014,18+,6.5,75%,0,1,0,0,0,English,104.0
+843,135000000.0,DreamWorks Animation,USA,Kirk De Micco,Animation,187168425.0,PG,7.2,Nicolas Cage,163313,Chris Sanders,The Croods,2013,7+,7.2,71%,1,0,0,0,0,English,98.0
+844,50000.0,Bellanova Films,USA,James Ward Byrkit,Mystery,68877.0,NOT RATED,7.2,Emily Baldoni,71677,James Ward Byrkit,Coherence,2013,7+,7.2,88%,0,1,1,0,0,English,89.0
+845,20000000.0,Lionsgate,USA,John Luessenhop,Horror,34341945.0,R,4.8,Alexandra Daddario,38083,Adam Marcus,Texas Chainsaw 3D,2013,18+,4.8,19%,0,1,1,0,0,English,92.0
+846,2500000.0,Andrew Lauren Productions (ALP),USA,James Ponsoldt,Comedy,6851969.0,R,7.1,Miles Teller,119642,Scott Neustadter,The Spectacular Now,2013,18+,7.1,91%,1,0,0,0,0,English,95.0
+847,0.0,Red Granite Pictures,USA,Alexandre Aja,Drama,164480.0,R,6.5,Daniel Radcliffe,63156,Keith Bunin,Horns,2013,18+,6.5,41%,1,0,0,0,0,English,120.0
+848,16000000.0,Gaumont,Australia,Anne Fontaine,Drama,317125.0,R,6.2,Naomi Watts,26214,Anne Fontaine,Adore,2013,18+,6.2,34%,0,0,1,0,0,English,106.0
+849,200000000.0,Walt Disney Pictures,USA,Dan Scanlon,Animation,268492764.0,G,7.3,Billy Crystal,258992,Dan Scanlon,Monsters University,2013,all,7.3,80%,0,0,0,1,0,English,104.0
+850,11000000.0,No Trace Camping,Ireland,Michael Dowse,Comedy,3452117.0,PG-13,6.8,Daniel Radcliffe,57422,Elan Mastai,What If,2013,13+,6.8,73%,0,0,1,0,0,English,98.0
+851,0.0,IM Global,UK,Steven Knight,Drama,1361423.0,R,7.1,Tom Hardy,104599,Steven Knight,Locke,2014,18+,7.1,91%,1,0,0,0,0,English,85.0
+852,11000000.0,CBS Films,USA,Ethan Coen,Drama,13235319.0,R,7.5,Oscar Isaac,109079,Joel Coen,Inside Llewyn Davis,2013,18+,7.5,92%,0,0,1,0,0,English,104.0
+853,35000000.0,Walt Disney Pictures,USA,John Lee Hancock,Biography,83301580.0,PG-13,7.5,Emma Thompson,128240,Kelly Marcel,Saving Mr. Banks,2013,13+,7.5,79%,1,0,0,1,0,English,125.0
+854,8000000.0,American Zoetrope,USA,Sofia Coppola,Biography,5841046.0,R,5.6,Katie Chang,72810,Sofia Coppola,The Bling Ring,2013,18+,5.6,59%,1,0,0,0,0,English,90.0
+855,35000000.0,Two Ton Films,USA,Justin Zackham,Comedy,21784432.0,R,5.6,Robert De Niro,40708,Justin Zackham,The Big Wedding,2013,18+,5.6,7%,0,1,1,0,0,"English,Spanish,Chinese,Latin",94.5
+856,1066167.0,The Lab of Madness,USA,Jeremy Saulnier,Crime,258113.0,R,7.1,Macon Blair,51447,Jeremy Saulnier,Blue Ruin,2013,18+,7.1,96%,1,0,0,0,0,English,90.0
+857,0.0,Amber Entertainment,UK,Carlo Carlei,Drama,1161089.0,PG-13,5.8,Hailee Steinfeld,9141,Julian Fellowes,Romeo & Juliet,2013,13+,5.8,24%,0,1,0,0,0,"English,Latin",115.5
+858,0.0,Animal Kingdom,USA,Destin Daniel Cretton,Drama,1010414.0,R,8.0,Brie Larson,64478,Destin Daniel Cretton,Short Term 12,2013,18+,8.0,98%,0,0,1,0,0,English,96.0
+859,0.0,Big Beach Films,USA,Jordan Vogt-Roberts,Adventure,1290312.0,R,7.2,Nick Robinson,67276,Chris Galletta,The Kings of Summer,2013,18+,7.1,75%,0,0,1,0,0,"English,Spanish",95.0
+860,0.0,Burn Later Productions,USA,Joe Swanberg,Comedy,342936.0,R,6.1,Olivia Wilde,49646,Joe Swanberg,Drinking Buddies,2013,18+,6.1,83%,0,1,0,0,0,English,90.0
+861,0.0,RabbitBandini Productions,USA,Gia Coppola,Drama,750100.0,R,6.3,Emma Roberts,22964,Gia Coppola,Palo Alto,2014,18+,6.2,69%,0,0,1,0,0,English,100.0
+863,0.0,Wayfare Entertainment,USA,Sebastin Cordero,Drama,125687.0,PG-13,6.5,Sharlto Copley,58171,Philip Gelatt,Europa Report,2013,13+,6.4,81%,0,1,0,0,0,"English,Russian,Chinese",93.5
+864,135000000.0,DreamWorks Animation,USA,David Soren,Animation,83028128.0,PG,6.5,Ryan Reynolds,67648,Darren Lemke,Turbo,2013,7+,6.4,67%,1,0,0,0,0,English,96.0
+865,2500000.0,Open Road Films,USA,Michael Tiddes,Comedy,40041683.0,R,5.1,Marlon Wayans,37158,Marlon Wayans,A Haunted House,2013,18+,5.0,9%,1,0,0,0,0,"English,Spanish",86.0
+866,0.0,Whitewater Films,USA,Jill Soloway,Comedy,174496.0,R,5.8,Kathryn Hahn,8099,Jill Soloway,Afternoon Delight,2013,18+,5.7,67%,0,0,1,0,0,English,98.0
+868,0.0,Film4,UK,David Mackenzie,Crime,34100.0,NOT RATED,7.4,Jack O'Connell,35739,Jonathan Asser,Starred Up,2013,18+,7.4,99%,1,0,1,0,0,English,106.0
+869,0.0,LD Entertainment,USA,Charlie Stratton,Crime,420266.0,R,6.1,Elizabeth Olsen,6118,Neal Bell,In Secret,2013,18+,6.1,41%,0,0,1,0,0,English,107.0
+870,25000000.0,China Film Group,USA,Keanu Reeves,Action,100144.0,R,6.1,Tiger Hu Chen,30477,Michael G. Cooney,Man of Tai Chi,2013,18+,6.1,70%,1,0,0,0,0,"Cantonese,English,Mandarin",105.0
+871,0.0,MediaPro Pictures,USA,Fredrik Bond,Comedy,7973.0,R,6.4,Shia LaBeouf,23502,Matt Drake,Charlie Countryman,2013,18+,6.4,27%,0,0,1,0,0,"English,Romanian",103.0
+872,5000000.0,Unclaimed Freight Productions,USA,Randall Miller,Drama,40040.0,R,6.6,Alan Rickman,7038,Jody Savin,CBGB,2013,18+,6.6,7%,0,0,1,0,0,English,101.5
+873,0.0,Viacom18 Motion Pictures,India,Vikas Bahl,Adventure,1429534.0,NOT RATED,8.3,Kangana Ranaut,48398,Vikas Bahl,Queen,2013,13+,8.2,86%,0,0,1,0,0,"Hindi,English,French,Japanese,Dutch",146.0
+874,10000000.0,"American Film Company, The",USA,Peter Landesman,Drama,652355.0,PG-13,6.3,Zac Efron,12682,Peter Landesman,Parkland,2013,13+,6.3,50%,0,0,1,0,0,English,93.0
+875,0.0,Castel Film Romania,Romania,Mark Schmidt,Action,357000.0,PG-13,6.0,Jonas Armstrong,884,Kenny Golde,Walking with the Enemy,2014,13+,6.4,45%,0,1,0,0,0,"English,German,Hungarian,Romanian",124.0
+876,5000000.0,Alebrije Cine y Video,Mexico,Eugenio Derbez,Comedy,44467206.0,PG-13,7.6,Eugenio Derbez,24412,Guillermo Ros,Instructions Not Included,2013,13+,7.5,57%,1,0,0,0,0,"Spanish,English",115.0
+877,0.0,93 Films,USA,Stacie Passon,Drama,38361.0,R,5.7,Robin Weigert,3324,Stacie Passon,Concussion,2013,18+,5.6,75%,1,0,0,0,0,English,109.5
+879,38600000.0,Block 2 Pictures,Hong Kong,Kar-Wai Wong,Action,6594959.0,PG-13,6.5,Tony Chiu-Wai Leung,26489,Kar-Wai Wong,The Grandmaster,2013,13+,6.6,78%,1,0,0,0,0,"Mandarin,Cantonese,Japanese",130.0
+880,0.0,The Weinstein Company,Canada,Jonathan Sobol,Comedy,61446.0,R,6.3,Kurt Russell,20439,Jonathan Sobol,The Art of the Steal,2013,18+,6.3,44%,1,0,0,0,0,"English,Spanish",90.0
+881,170000000.0,Marvel Studios,USA,James Gunn,Action,333176600.0,PG-13,8.1,Chris Pratt,791340,James Gunn,Guardians of the Galaxy,2014,13+,8.0,91%,0,0,0,1,0,English,121.0
+882,15000000.0,Universal Pictures International (UPI),UK,Alex Garland,Drama,25442958.0,R,7.7,Alicia Vikander,355666,Alex Garland,Ex Machina,2015,18+,7.7,92%,1,0,0,0,0,English,108.0
+883,170000000.0,Marvel Entertainment,USA,Anthony Russo,Action,259766572.0,PG-13,7.8,Chris Evans,559974,Christopher Markus,Captain America: The Winter Soldier,2014,13+,7.7,90%,0,0,0,1,0,"English,French",136.0
+884,165000000.0,FortyFour Studios,USA,Don Hall,Animation,222527828.0,PG,7.8,Ryan Potter,320396,Jordan Roberts,Big Hero 6,2014,7+,7.8,89%,0,0,0,1,0,English,102.0
+885,15000000.0,Working Title Films,UK,James Marsh,Biography,35893537.0,PG-13,7.7,Eddie Redmayne,310187,Anthony McCarten,The Theory of Everything,2014,13+,7.7,79%,1,0,0,0,0,"English,French",123.0
+886,44000000.0,Columbia Pictures,USA,Evan Goldberg,Comedy,6105175.0,R,6.6,James Franco,267070,Dan Sterling,The Interview,2014,18+,6.5,52%,1,1,1,0,0,"English,Korean",112.0
+887,3000000.0,SModcast Pictures,USA,Kevin Smith,Comedy,1821983.0,R,5.4,Justin Long,35556,Kevin Smith,Tusk,2014,18+,5.3,45%,1,0,0,0,0,English,102.0
+888,100000000.0,Alcon Entertainment,UK,Wally Pfister,Drama,23022309.0,PG-13,6.3,Johnny Depp,189106,Jack Paglen,Transcendence,2014,13+,6.3,20%,1,0,0,0,0,English,119.0
+889,5000000.0,Legendary Entertainment,USA,John Erick Dowdle,Horror,21197315.0,R,6.2,Perdita Weeks,57343,John Erick Dowdle,"As Above, So Below",2014,18+,6.2,26%,1,0,0,0,0,"English,French,Latin",93.0
+890,20000000.0,Before The Door Pictures,USA,J.C. Chandor,Crime,5740310.0,R,7.0,Oscar Isaac,52607,J.C. Chandor,A Most Violent Year,2014,18+,7.0,89%,1,0,0,0,0,"English,Spanish",125.0
+891,22000000.0,Scott Free Productions,UK,Rowan Joffe,Drama,2963012.0,R,6.3,Nicole Kidman,56415,Rowan Joffe,Before I Go to Sleep,2014,18+,6.3,37%,0,1,0,0,0,English,92.0
+892,30000000.0,2929 Productions,Czech Republic,Susanne Bier,Drama,176305.0,R,5.4,Bradley Cooper,20668,Christopher Kyle,Serena,2014,18+,5.4,16%,0,1,1,0,0,English,109.0
+893,22000000.0,Amblin Entertainment,USA,Lasse Hallstrm,Comedy,54240821.0,PG,7.3,Helen Mirren,61319,Steven Knight,The Hundred-Foot Journey,2014,7+,7.3,67%,1,0,0,0,0,"English,French",122.0
+894,0.0,BBC Films,UK,Morgan Matthews,Drama,139511.0,PG-13,7.2,Asa Butterfield,22615,James Graham,A Brilliant Young Mind,2014,13+,7.1,87%,0,1,1,0,0,"English,Mandarin",111.0
+895,0.0,BBC Films,UK,Alan Rickman,Drama,551609.0,R,6.5,Kate Winslet,15294,Jeremy Brock,A Little Chaos,2015,18+,6.5,48%,1,0,0,0,0,English,112.0
+896,4000000.0,Automatik Entertainment,USA,William Eubank,Sci-Fi,600896.0,PG-13,6.1,Brenton Thwaites,53291,Carlyle Eubank,The Signal,2014,13+,6.1,61%,1,0,0,0,0,English,97.0
+897,65000000.0,Hopscotch Features,USA,Stuart Beattie,Action,19075290.0,PG-13,5.1,Aaron Eckhart,70705,Stuart Beattie,"I, Frankenstein",2014,13+,5.1,5%,0,1,1,0,0,English,92.0
+898,19000000.0,Gail Katz Productions,USA,Edward Zwick,Biography,2436062.0,PG-13,7.0,Tobey Maguire,29268,Steven Knight,Pawn Sacrifice,2015,13+,7.0,72%,0,1,0,0,0,"English,Russian",115.0
+900,0.0,Armory Films,USA,Jordan Rubin,Comedy,8163.0,R,4.8,Rachel Melvin,12863,Al Kaplan,Zombeavers,2014,18+,4.8,69%,0,0,1,0,0,English,77.0
+901,0.0,Apartment Two,USA,Max Nichols,Comedy,15600.0,R,6.4,Miles Teller,52628,Mark Hammer,Two Night Stand,2014,18+,6.4,38%,0,0,1,0,0,English,86.0
+902,15000000.0,Lionsgate,UK,Anton Corbijn,Crime,17237244.0,R,6.8,Philip Seymour Hoffman,62647,Andrew Bovell,A Most Wanted Man,2014,18+,6.8,87%,0,0,1,0,0,"Arabic,English,Turkish",122.0
+903,0.0,Rajkumar Hirani Films,India,Rajkumar Hirani,Comedy,10616104.0,Not specified,8.2,Aamir Khan,111073,Rajkumar Hirani,PK,2014,13+,8.1,76%,1,0,0,0,0,"Hindi,English,Urdu,Persian,Kurdish",153.0
+904,10000000.0,River Road Entertainment,USA,Bill Pohlad,Biography,12547189.0,PG-13,7.4,John Cusack,28639,Oren Moverman,Love & Mercy,2015,13+,7.4,90%,0,1,1,0,0,English,121.0
+905,0.0,Focus Features,UK,Kevin Macdonald,Adventure,1171559.0,R,6.4,Jude Law,28336,Dennis Kelly,Black Sea,2014,18+,6.4,80%,1,0,0,0,0,"English,Russian",114.0
+906,5000000.0,Sierra / Affinity,USA,Michael Cuesta,Biography,2450846.0,R,7.0,Jeremy Renner,36607,Peter Landesman,Kill the Messenger,2014,18+,6.9,77%,1,0,0,0,0,English,112.0
+907,25000000.0,Summit Entertainment,USA,Ivan Reitman,Drama,28831145.0,PG-13,6.8,Kevin Costner,43430,Scott Rothman,Draft Day,2014,13+,6.8,59%,0,0,1,0,0,English,110.0
+908,100000.0,Duplass Brothers Productions,USA,Charlie McDowell,Drama,511635.0,R,7.1,Mark Duplass,27078,Justin Lader,The One I Love,2014,18+,7.1,82%,1,0,0,0,0,English,91.0
+909,10000000.0,Scott Rudin Productions,USA,Noah Baumbach,Comedy,7574066.0,R,6.3,Ben Stiller,35437,Noah Baumbach,While We're Young,2014,18+,6.3,84%,1,0,0,0,0,English,97.0
+910,2000000.0,Pure Flix Productions,USA,Harold Cronk,Drama,60755732.0,PG,4.8,Shane Harper,34760,Hunter Dennis,God's Not Dead,2014,7+,4.7,13%,1,0,1,0,0,English,106.5
+911,0.0,Big Farm,Ireland,Tomm Moore,Animation,857522.0,PG,8.1,David Rawle,35135,Will Collins,Song of the Sea,2014,7+,8.1,99%,1,0,0,0,0,"English,Irish",93.0
+912,40000000.0,Four Seasons Partnership,USA,Clint Eastwood,Biography,47034272.0,R,6.8,John Lloyd Young,27637,Marshall Brickman,Jersey Boys,2014,18+,6.8,51%,1,0,0,0,0,"English,Italian,French",134.0
+913,6000000.0,Worldview Entertainment,USA,Zach Braff,Comedy,3588432.0,R,6.7,Zach Braff,32275,Adam J. Braff,Wish I Was Here,2014,18+,6.7,46%,1,0,0,0,0,English,106.0
+914,5000000.0,Anonymous Content,USA,Lynn Shelton,Comedy,440338.0,R,6.4,Keira Knightley,34852,Andrea Seigel,Laggies,2014,18+,6.4,65%,1,0,0,0,0,English,99.0
+915,2400000.0,Abbolita Productions,USA,Jeff Baena,Comedy,80315.0,R,5.6,Aubrey Plaza,15603,Jeff Baena,Life After Beth,2014,18+,5.6,44%,1,0,0,0,0,English,89.0
+916,18000000.0,ASIG Productions,USA,Rob Reiner,Comedy,15155772.0,PG-13,5.8,Michael Douglas,10327,Mark Andrus,And So It Goes,2014,13+,5.8,18%,0,1,0,0,0,English,94.0
+917,8500000.0,Porchlight Films,Australia,David Michd,Action,1109199.0,R,6.4,Guy Pearce,36879,Joel Edgerton,The Rover,2014,18+,6.4,66%,1,0,0,0,0,"English,Chinese",103.0
+918,0.0,Gilbert Films,USA,Daniel Barber,Drama,27166.0,R,6.0,Brit Marling,4650,Julia Hart,The Keeping Room,2014,18+,6.0,75%,0,0,1,0,0,English,95.0
+919,50000000.0,Walt Disney Pictures,USA,James Bobin,Adventure,51183113.0,PG,6.4,Ricky Gervais,26380,James Bobin,Muppets Most Wanted,2014,7+,6.4,80%,0,0,0,1,0,"English,German",107.0
+920,13000000.0,Relativity Media,USA,Dave Green,Adventure,38916903.0,PG,5.8,Teo Halm,16757,Henry Gayden,Earth to Echo,2014,7+,5.8,51%,1,0,0,0,0,English,91.0
+921,0.0,Working Title Films,UK,Stephen Daldry,Adventure,10230.0,R,7.2,Rickson Tevez,16903,Andy Mulligan,Trash,2014,18+,7.2,66%,1,0,0,0,0,"Portuguese,English",114.0
+922,4000000.0,RADiUS-TWC,USA,Daniel Stamm,Horror,9134.0,R,6.3,Mark Webber,26332,David Birke,13 Sins,2014,18+,6.3,65%,1,0,0,0,0,English,93.0
+923,200000.0,Exclusive Media Group,USA,John Pogue,Horror,8496112.0,PG-13,5.1,Jared Harris,16654,Craig Rosenberg,The Quiet Ones,2014,13+,5.1,37%,0,0,1,0,0,English,98.0
+924,245000000.0,Lucasfilm,USA,J.J. Abrams,Action,936662225.0,PG-13,8.1,Daisy Ridley,687192,Lawrence Kasdan,Star Wars: The Force Awakens,2015,13+,7.9,93%,0,0,0,1,0,English,137.0
+925,44000000.0,Visiona Romantica,USA,Quentin Tarantino,Crime,54117416.0,R,7.8,Samuel L. Jackson,360020,Quentin Tarantino,The Hateful Eight,2015,18+,7.8,75%,1,0,0,0,0,"English,Spanish,French",167.5
+926,3500000.0,Parts and Labor,USA,Robert Eggers,Horror,25138292.0,R,6.8,Anya Taylor-Joy,111384,Robert Eggers,The Witch,2015,18+,6.9,90%,1,0,0,0,0,English,92.0
+927,30000000.0,Cross Creek Pictures,UK,Brian Helgeland,Biography,1872994.0,R,7.0,Tom Hardy,115765,Brian Helgeland,Legend,2015,18+,6.9,61%,1,0,0,0,0,English,132.0
+928,250000000.0,Marvel Studios,USA,Joss Whedon,Action,459005868.0,PG-13,7.4,Robert Downey Jr.,537832,Joss Whedon,Avengers: Age of Ultron,2015,13+,7.3,75%,0,0,0,1,0,"English,Korean",141.0
+929,15000000.0,Working Title Films,UK,Tom Hooper,Biography,12706393.0,R,7.1,Eddie Redmayne,117432,David Ebershoff,The Danish Girl,2015,18+,7.1,67%,1,0,0,0,0,"English,French,German",119.0
+931,176000000.0,Warner Bros.,USA,Lana Wachowski,Action,47387723.0,PG-13,5.3,Channing Tatum,153531,Lilly Wachowski,Jupiter Ascending,2015,13+,5.3,27%,1,0,0,0,0,"English,Russian",127.0
+932,130000000.0,Gary Sanchez Productions,USA,Peyton Reed,Action,180202163.0,PG-13,7.3,Paul Rudd,388417,Edgar Wright,Ant-Man,2015,13+,7.3,83%,0,0,0,1,0,English,117.0
+933,0.0,Screen Australia,Australia,Jocelyn Moorhouse,Comedy,2021399.0,R,7.1,Kate Winslet,36647,Rosalie Ham,The Dressmaker,2015,18+,7.1,57%,0,0,1,0,0,English,119.0
+934,0.0,Coup d'Etat Films,USA,Kyle Patrick Alvarez,Biography,643557.0,R,6.9,Ezra Miller,23757,Tim Talbott,The Stanford Prison Experiment,2015,18+,6.9,84%,1,0,0,0,0,English,122.0
+935,30000000.0,Universal Pictures,UK,Danny Boyle,Biography,17750583.0,R,7.2,Michael Fassbender,121579,Aaron Sorkin,Steve Jobs,2015,18+,7.2,85%,1,0,0,0,0,English,122.0
+936,5000000.0,Broad Green Pictures,USA,Jeremy Saulnier,Crime,3219029.0,R,7.0,Anton Yelchin,69349,Jeremy Saulnier,Green Room,2015,18+,7.0,91%,1,0,0,0,0,English,95.0
+937,15000000.0,See-Saw Films,UK,Justin Kurzel,Drama,1108247.0,R,6.7,Michael Fassbender,43481,Todd Louiso,Macbeth,2015,18+,6.6,80%,0,0,1,0,0,English,113.0
+938,26000000.0,Endgame Entertainment,USA,Tarsem Singh,Action,12276810.0,PG-13,6.5,Ryan Reynolds,70564,lex Pastor,Self/less,2015,13+,6.5,19%,1,0,0,0,0,English,117.0
+939,8000000.0,Amasia Entertainment,USA,Paco Cabezas,Action,25369.0,R,6.3,Anna Kendrick,33496,Max Landis,Mr. Right,2016,18+,6.3,44%,1,0,0,0,0,English,95.0
+940,0.0,Gloria Sanchez Productions,USA,Leslye Headland,Comedy,814775.0,R,6.5,Jason Sudeikis,29326,Leslye Headland,Sleeping with Other People,2015,18+,6.5,64%,1,0,0,0,0,English,101.0
+941,19500000.0,IM Global,USA,Billy Ray,Crime,20180155.0,PG-13,6.2,Chiwetel Ejiofor,29254,Billy Ray,Secret in Their Eyes,2015,13+,6.3,39%,1,0,0,0,0,English,111.0
+942,200000000.0,Pixar Animation Studios,USA,Peter Sohn,Animation,123087120.0,PG,6.7,Jeffrey Wright,80711,Bob Peterson,The Good Dinosaur,2015,7+,6.7,76%,0,0,0,1,0,English,93.0
+943,0.0,Mod Producciones,Spain,Alejandro Amenbar,Crime,54734.0,R,5.7,Ethan Hawke,28090,Alejandro Amenbar,Regression,2015,18+,5.7,15%,0,0,1,0,0,English,106.0
+945,0.0,HanWay Films,UK,Ben Wheatley,Drama,343139.0,R,5.7,Tom Hiddleston,28067,Amy Jump,High-Rise,2015,18+,5.6,60%,0,1,0,0,0,English,119.0
+946,16000000.0,Freedom Media,USA,Drake Doremus,Drama,32095.0,PG-13,6.0,Nicholas Hoult,18681,Nathan Parker,Equals,2015,13+,6.1,35%,1,0,0,0,0,English,101.0
+947,2000000.0,StudioCanal,UK,Max Joseph,Drama,3590010.0,R,6.2,Zac Efron,27695,Max Joseph,We Are Your Friends,2015,18+,6.2,38%,1,0,0,0,0,English,96.0
+948,28000000.0,PalmStar Media,USA,Nima Nourizadeh,Action,14434604.0,R,6.1,Jesse Eisenberg,67391,Max Landis,American Ultra,2015,18+,6.1,43%,0,1,1,0,0,"English,Mandarin",98.0
+949,0.0,Rhombus Media,Canada,Patricia Rozema,Drama,6438.0,R,5.9,Ellen Page,11816,Patricia Rozema,Into the Forest,2016,18+,5.8,76%,1,0,0,0,0,English,101.0
+950,15000000.0,Bleecker Street Films,USA,Jay Roach,Biography,7857741.0,R,7.5,Bryan Cranston,60593,John McNamara,Trumbo,2015,18+,7.5,74%,1,0,1,0,0,English,124.0
+951,10000000.0,Entertainment One,USA,Ciarn Foy,Horror,27736779.0,R,5.3,James Ransone,33723,Scott Derrickson,Sinister 2,2015,18+,5.3,16%,1,0,0,0,0,English,97.0
+952,25000000.0,Bloom,USA,Gus Van Sant,Drama,20083.0,PG-13,5.9,Matthew McConaughey,8519,Chris Sparling,The Sea of Trees,2016,13+,6.1,15%,1,0,0,0,0,"English,Japanese",110.0
+953,100000.0,Duplass Brothers Productions,USA,Sean Baker,Comedy,701837.0,R,7.0,Kitana Kiki Rodriguez,16597,Sean Baker,Tangerine,2015,18+,7.1,96%,0,1,0,0,0,"English,Armenian",88.0
+954,0.0,Duplass Brothers Productions,USA,Patrick Brice,Comedy,1100000.0,R,6.1,Adam Scott,12642,Patrick Brice,The Overnight,2015,18+,6.1,83%,0,1,1,0,0,"English,French",79.0
+955,0.0,Soft Tread Enterprises,Australia,Rosemary Myers,Comedy,45650.0,Not specified,6.2,Bethany Whitmore,1693,Matthew Whittet,Girl Asleep,2015,18+,6.2,81%,0,0,1,0,0,English,77.0
+956,5000000.0,Allspark Pictures,USA,Jon M. Chu,Adventure,2184640.0,PG,4.1,Aubrey Peeples,5640,Ryan Landels,Jem and the Holograms,2015,7+,4.1,22%,1,0,0,0,0,English,118.0
+957,14000000.0,Ruby Films,UK,Sarah Gavron,Biography,4693356.0,PG-13,6.9,Carey Mulligan,28377,Abi Morgan,Suffragette,2015,13+,6.9,73%,1,0,0,0,0,English,106.0
+958,0.0,Serendipity Point Films,Canada,Atom Egoyan,Drama,637555.0,R,7.4,Christopher Plummer,14266,Benjamin August,Remember,2015,18+,7.5,70%,1,0,1,0,0,"English,German",94.0
+959,0.0,Hoody Boy Productions,USA,Trey Edward Shults,Drama,140779.0,R,7.1,Krisha Fairchild,4086,Trey Edward Shults,Krisha,2016,18+,7.2,95%,1,0,0,0,0,English,83.0
+960,17000000.0,CBS Films,USA,Jessie Nelson,Comedy,26284475.0,PG-13,5.7,Steve Martin,13475,Steven Rogers,Love the Coopers,2015,13+,5.8,18%,0,0,1,0,0,English,107.0
+961,36000000.0,Dreams Salon Entertainment Culture,China,Wilson Yip,Action,2679437.0,PG-13,7.1,Donnie Yen,31713,Tai-lee Chan,Ip Man 3,2015,13+,7.1,78%,1,0,0,0,0,"Cantonese,English",105.0
+962,10000000.0,Big Indie Pictures,USA,Dan Fogelman,Comedy,5348317.0,R,7.0,Al Pacino,24666,Dan Fogelman,Danny Collins,2015,18+,7.0,77%,0,0,1,0,0,English,106.0
+963,5000000.0,Big Beach Films,USA,Gaby Dellal,Drama,66371.0,PG-13,5.6,Naomi Watts,2608,Nikole Beckwith,3 Generations,2016,13+,5.9,32%,1,0,0,0,0,"English,Spanish",92.0
+964,10000000.0,Worldview Entertainment,Ireland,Kim Farrant,Drama,17472.0,R,5.2,Nicole Kidman,6735,Michael Kinirons,Strangerland,2015,18+,5.2,41%,0,0,1,0,0,English,112.0
+965,0.0,40 Acres & A Mule Filmworks,USA,Spike Lee,Comedy,2647377.0,R,5.7,Nick Cannon,6983,Kevin Willmott,Chi-Raq,2015,18+,5.7,82%,0,0,1,0,0,English,127.0
+966,0.0,Sycamore Pictures,USA,Anna Boden,Comedy,129747.0,R,6.3,Ben Mendelsohn,13207,Anna Boden,Mississippi Grind,2015,18+,6.4,91%,1,0,0,0,0,English,108.0
+967,35000000.0,Regency Enterprises,USA,Ken Scott,Comedy,10214013.0,R,5.4,Vince Vaughn,26051,Steve Conrad,Unfinished Business,2015,18+,5.4,10%,0,0,1,0,0,English,91.0
+968,0.0,Modern Man Films,USA,James Ponsoldt,Biography,2993669.0,R,7.3,Jason Segel,22192,Donald Margulies,The End of the Tour,2015,18+,7.3,92%,1,0,0,0,0,English,106.0
+969,0.0,BB Film Productions,USA,Michael Almereyda,Biography,155075.0,PG-13,6.6,John Palladino,13263,Michael Almereyda,Experimenter,2015,13+,6.6,85%,0,1,0,0,0,English,98.0
+970,2000000.0,See-Saw Films,UK,John Maclean,Western,229094.0,R,6.9,Kodi Smit-McPhee,33032,John Maclean,Slow West,2015,18+,6.9,92%,1,0,0,0,0,"English,French",84.0
+971,800000.0,Audax Films,USA,Jon Watts,Crime,128002.0,R,6.3,Kevin Bacon,24256,Jon Watts,Cop Car,2015,18+,6.3,80%,1,0,0,0,0,English,88.0
+972,0.0,Two Flints,USA,Brett Haley,Comedy,7425963.0,PG-13,6.7,Blythe Danner,5282,Marc Basch,I'll See You in My Dreams,2015,13+,6.7,80%,1,0,0,0,0,English,92.0
+973,8000000.0,Lionsgate,USA,Mark Neveldine,Horror,1712111.0,PG-13,5.1,Olivia Taylor Dudley,13305,Christopher Borrelli,The Vatican Tapes,2015,18+,4.9,20%,1,0,0,0,0,"English,Aramaic",91.0
+974,6000000.0,Human Stew Factory,USA,Ana Lily Amirpour,Drama,177680.0,R,5.4,Suki Waterhouse,8340,Ana Lily Amirpour,The Bad Batch,2017,18+,5.3,47%,1,0,0,0,0,English,118.0
+975,150000000.0,Walt Disney Animation Studios,USA,Ron Clements,Animation,248757044.0,PG,7.6,Auli'i Cravalho,157290,Jared Bush,Moana,2016,7+,7.6,95%,0,0,0,1,0,English,107.0
+976,30000000.0,Keep Your Head,USA,James Gray,Adventure,8574339.0,PG-13,6.6,Charlie Hunnam,39409,James Gray,The Lost City of Z,2016,13+,6.6,87%,0,0,1,0,0,"English,Portuguese,Tupi,Spanish,German",141.0
+977,165000000.0,Marvel Studios,USA,Scott Derrickson,Action,232641920.0,PG-13,7.5,Benedict Cumberbatch,348307,Jon Spaihts,Doctor Strange,2016,13+,7.5,89%,0,0,0,1,0,English,115.0
+978,250000000.0,Marvel Studios,USA,Anthony Russo,Action,408084349.0,PG-13,7.9,Chris Evans,442645,Christopher Markus,Captain America: Civil War,2016,13+,7.8,91%,0,0,0,1,0,"English,German,Xhosa,Russian,Romanian,Hindi",147.0
+979,8500000.0,Amazon Studios,USA,Kenneth Lonergan,Drama,47695120.0,R,7.9,Casey Affleck,159673,Kenneth Lonergan,Manchester by the Sea,2016,18+,7.8,96%,0,0,1,0,0,English,137.0
+980,150000000.0,Walt Disney Pictures,USA,Byron Howard,Animation,341268248.0,PG,8.0,Ginnifer Goodwin,317549,Byron Howard,Zootopia,2016,7+,8.0,98%,0,0,0,1,0,English,108.0
+981,1500000.0,A24,USA,Barry Jenkins,Drama,27850912.0,R,7.5,Mahershala Ali,161857,Barry Jenkins,Moonlight,2016,18+,7.4,98%,1,0,0,0,0,English,111.0
+982,12000000.0,Film 44,USA,David Mackenzie,Crime,26862450.0,R,7.6,Chris Pine,132328,Taylor Sheridan,Hell or High Water,2016,18+,7.6,97%,1,0,0,0,0,English,102.0
+983,9000000.0,Gracie Films,USA,Kelly Fremon Craig,Comedy,14260193.0,R,7.4,Hailee Steinfeld,59867,Kelly Fremon Craig,The Edge of Seventeen,2016,18+,7.3,94%,1,0,0,0,0,English,104.0
+984,0.0,Electric City Entertainment,USA,Matt Ross,Comedy,5875006.0,R,7.9,Viggo Mortensen,121560,Matt Ross,Captain Fantastic,2016,18+,7.9,82%,0,1,0,0,0,"English,Esperanto",118.0
+987,200000000.0,Pixar Animation Studios,USA,Andrew Stanton,Animation,486295561.0,PG,7.4,Ellen DeGeneres,173005,Andrew Stanton,Finding Dory,2016,7+,7.3,94%,0,0,0,1,0,"English,Indonesian",97.0
+988,10000000.0,Film4,UK,Ben Wheatley,Action,1798472.0,R,6.5,Sharlto Copley,22157,Amy Jump,Free Fire,2017,18+,6.4,68%,1,0,0,0,0,English,91.0
+989,0.0,Egoli Tossell KLK,UK,David Leveaux,Drama,606989.0,R,6.8,Lily James,3985,Simon Burke,The Exception,2017,18+,6.8,74%,1,0,0,0,0,English,107.0
+990,3000000.0,Blackbird,USA,Dan Kwan,Adventure,4208879.0,R,7.0,Paul Dano,69827,Daniel Scheinert,Swiss Army Man,2016,18+,7.0,71%,1,0,0,0,0,English,97.0
+991,0.0,Aamir Khan Productions,India,Nitesh Tiwari,Action,12391761.0,UNRATED,8.7,Aamir Khan,70565,Piyush Gupta,Dangal,2016,7+,8.4,88%,1,0,0,0,0,Hindi,161.0
+992,22000000.0,Working Title Films,UK,Ethan Coen,Comedy,30080225.0,PG-13,6.3,Josh Brolin,94361,Joel Coen,"Hail, Caesar!",2016,13+,6.3,85%,1,0,0,0,0,English,106.0
+993,8000000.0,Lakeshore Entertainment,USA,William Brent Bell,Horror,35794166.0,PG-13,6.0,Lauren Cohan,55856,Stacey Menear,The Boy,2016,13+,6.0,30%,0,0,1,0,0,English,97.0
+994,6000000.0,Verdi Productions,USA,Ben Younger,Biography,4847865.0,R,6.8,Miles Teller,15158,Ben Younger,Bleed for This,2016,18+,6.8,69%,1,0,0,0,0,"English,French",117.0
+995,18000000.0,Warner Bros.,USA,Jeff Nichols,Drama,3707794.0,PG-13,6.7,Michael Shannon,58549,Jeff Nichols,Midnight Special,2016,13+,6.6,83%,0,0,1,0,0,English,112.0
+996,0.0,K5 International,USA,Jim Jarmusch,Comedy,2141423.0,R,7.4,Adam Driver,36369,Jim Jarmusch,Paterson,2016,18+,7.4,96%,0,0,1,0,0,"English,Italian",118.0
+997,0.0,Piki Films,New Zealand,Taika Waititi,Adventure,5202582.0,PG-13,7.9,Sam Neill,60530,Taika Waititi,Hunt for the Wilderpeople,2016,13+,7.9,96%,0,1,0,0,0,English,101.0
+998,0.0,Parts and Labor,UK,Andrea Arnold,Adventure,662786.0,R,7.0,Sasha Lane,23250,Andrea Arnold,American Honey,2016,18+,7.0,79%,1,0,0,0,0,English,163.0
+999,7000000.0,A24,USA,Mike Mills,Comedy,5663855.0,R,7.4,Annette Bening,20814,Mike Mills,20th Century Women,2016,18+,7.3,88%,1,0,0,0,0,English,119.0
+1000,140000000.0,Walt Disney Pictures,USA,Steven Spielberg,Adventure,55483770.0,PG,6.4,Mark Rylance,56297,Melissa Mathison,The BFG,2016,7+,6.4,75%,0,0,0,1,0,English,117.0
+1001,80000000.0,Walt Disney Pictures,USA,Craig Gillespie,Action,27550735.0,PG-13,6.8,Chris Pine,47688,Scott Silver,The Finest Hours,2016,13+,6.8,64%,0,0,0,1,0,English,117.0
+1002,0.0,20th Century Fox,South Korea,Hong-jin Na,Drama,785405.0,NOT RATED,7.5,Jun Kunimura,21562,Hong-jin Na,The Wailing,2016,18+,7.5,99%,0,0,1,0,0,"Korean,Japanese",156.0
+1003,65000000.0,Walt Disney Pictures,USA,David Lowery,Action,76204454.0,PG,6.7,Bryce Dallas Howard,41083,David Lowery,Pete's Dragon,2016,7+,6.7,88%,0,0,0,1,0,English,102.0
+1004,0.0,Mockingbird Pictures,USA,Robin Swicord,Drama,259412.0,R,6.4,Bryan Cranston,6795,E.L. Doctorow,Wakefield,2017,18+,6.3,74%,1,0,0,0,0,English,106.0
+1005,0.0,LD Entertainment,Czech Republic,Sean Ellis,Biography,2959288.0,R,7.2,Jamie Dornan,28589,Sean Ellis,Anthropoid,2016,18+,7.2,66%,0,1,0,0,0,"English,Czech,German",120.0
+1007,0.0,Magic Lantern,Spain,Carles Torrens,Horror,70.0,R,5.7,Dominic Monaghan,10504,Jeremy Slater,Pet,2016,18+,5.7,56%,0,0,1,0,0,English,94.0
+1008,0.0,AZ Films,Chile,Pablo Larran,Biography,938875.0,R,7.0,Gael Garca Bernal,5680,Guillermo Caldern,Neruda,2016,18+,6.9,93%,1,0,0,0,0,"Spanish,French,Dutch,Mapudungun",107.0
+1009,8000000.0,Cinelou Films,USA,Bruce Beresford,Comedy,685143.0,PG-13,7.7,Eddie Murphy,18249,Susan McMartin,Mr. Church,2016,13+,7.6,24%,1,0,0,0,0,English,104.0
+1010,10000000.0,BBC Films,UK,Mick Jackson,Biography,4072226.0,PG-13,6.6,Rachel Weisz,10848,David Hare,Denial,2016,13+,6.7,82%,0,1,0,0,0,"English,German,Hebrew",109.0
+1012,0.0,Mandarin Films,France,Franois Ozon,Drama,880474.0,PG-13,7.5,Pierre Niney,6634,Franois Ozon,Frantz,2016,13+,7.5,91%,0,0,1,0,0,"French,German",113.0
+1013,4000000.0,Blumhouse Productions,USA,Greg McLean,Horror,10732841.0,PG-13,4.4,Kevin Bacon,9450,Greg McLean,The Darkness,2016,13+,4.4,3%,0,0,1,0,0,"English,French",96.5
+1014,3000000.0,Westerly Films,Ireland,Whit Stillman,Comedy,14013564.0,PG,6.5,Kate Beckinsale,17862,Whit Stillman,Love & Friendship,2016,13+,6.4,97%,0,0,1,0,0,"English,French",90.0
+1015,8500000.0,CBS Films,USA,Steve Carr,Animation,19985196.0,PG,6.1,Griffin Gluck,4556,Chris Bowman,Middle School: The Worst Years of My Life,2016,7+,6.1,63%,1,0,0,0,0,"English,Khmer",92.0
