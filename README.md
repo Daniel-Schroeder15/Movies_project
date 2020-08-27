@@ -13,9 +13,11 @@ This week, each member of the group will be submitting a link to their GitHub re
 - **Software:**
   - Jupyter Notebook (anaconda python 3.7)  
   - PostgreSQL 11  
-  - AWS S3 and RDS  
-  - MongoDB  
+  - AWS S3 and RDS   
   - Tableau
+  - Flask 
+  - HTML5
+  - JavaScript
 
 ## Challenge Summary
 
