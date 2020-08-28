@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Robotic Tomatoes</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 jumbotron text-center">
+        <h1>Robotic Tomatoes</h1>
+        <p>Generating your next favorite movie!</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="well">
+          <h5>What gerne are you feeling tonight?</h5>
+          <!-- <select id="selDatasetgenre"></select> -->
+          <select id="selDatasetgenre" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Which movie have you enjoyed watching?</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+    </div>
+    <div class="col-md-9">
+      <!--- Table of Movie Data --->
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>title</th>
+            <th>budget_ds-movies</th>
+            <th>company</th>
+            <th>country</th>
+            <th>director</th>
+            <th>genre</th>
+            <th>gross</th>
+            <th>rating</th>
+            <th>score</th>
+            <th>star</th>
+            <th>votes</th>
+            <th>writer</th>
+            <th>original_language</th>
+            <th>popularity</th>
+            <th>revenue</th>
+            <th>Ave_runtime</th>
+            <th>release_year</th>
+            <th>release_month</th>
+            <th>recomendation</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/js/app.js"></script>
+
+</body>
+
+</html>
