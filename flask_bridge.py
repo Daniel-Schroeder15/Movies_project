@@ -23,12 +23,13 @@ def Filter_movies(genre):
     connection_string = f"postgres://postgres:{sql_pw}@group-c-project-db.csna2pebfhlh.us-east-2.rds.amazonaws.com:5432/postgres"
     engine = create_engine(connection_string)
     movies_df = pd.read_sql(sql="Movie_Data_Pre-Encoding", con=engine)
-    movie_list = # filtering through dataframe based on inputed gerne and generating movie titles
+    filtered_movies = movies_df[movies_df["genre"] == genre]
+    movie_list = filtered_movies["title"].unique().tolist()
     return movie_list    
 
-def ML_recommend(movie):
+# def ML_recommend(movie):
 
 
-def MLP_recommend(movie):
+# def NLP_recommend(movie):
 
     

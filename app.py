@@ -4,7 +4,8 @@ import numpy as np
 from sqlalchemy import create_engine
 from flask import Flask, render_template, redirect, jsonify
 from config import sql_pw
-from flask_bridge import Get_genres, Filter_movies, ML_recommend, NLP_recommend
+from flask_bridge import Get_genres, Filter_movies
+# from flask_bridge import ML_recommend, NLP_recommend
 
 # Create a New Flask App Instance
 app = Flask(__name__)
@@ -36,15 +37,15 @@ def get_movies_by_genre(genre):
     filtered_movies = Filter_movies(genre)
     return jsonify(filtered_movies)
 
-# @app.route('/api/data')
-# def data():
-#     data = Get_data()
-#     return jsonify(data)
+# @app.route('/api/ml/recommendation/<movie>')
+# def recommend_ml_movies(movie):
+#     recommend_movies_ML = ML_recommend(movie)
+#     return jsonify(recommend_movies_ML)
 
-# @app.route('/user/<username>')
-# def show_user_profile(username):
-#     # show the user profile for that user
-#     return 'User %s' % escape(username)
+# @app.route('/api/nlp/recommendation/<movie>')
+# def recommend_nlp_movies(movie):
+#     recommend_movies_NLP = NLP_recommend(movie)
+#     return jsonify(recommend_movies_NLP)
 
 # Running Flask App
 if __name__ == "__main__":
