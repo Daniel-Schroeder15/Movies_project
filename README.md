@@ -49,6 +49,14 @@ The team will communicate through zoom, slack, and email. The team will meet twi
 - **Data Training and Testing split:**
 - **Model choice explained:**
 
+## Database Integration
+-  **Connection details:**
+
+## Dashboard
+- **Visualization Tools:**
+
+- **Interactive Element:**
+
 
 
 
