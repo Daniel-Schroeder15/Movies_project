@@ -35,7 +35,7 @@ Could we predecit a score of a movie that is coming out, or not yet rated?
 - **Description of the data exploration phase of the project:**
  Exploring each data set via Tableau and Machine Learning models to see relationships that could help us answer any of the above questions. The budget, revenue, genre, and streaming services all play a major role into understanding the data. Viewing the datasets individually allows us to understand the value of each dataset. 
  
- -**Description of the analysis phase of the project:**
+ - **Description of the analysis phase of the project:**
  Analyzing the data with the merge datasets does not tell the full story. However, merging the data allows us to get the data necessary for the Machine Learning models. 
 
 
@@ -43,7 +43,11 @@ Could we predecit a score of a movie that is coming out, or not yet rated?
 ## Communication Protocols
 The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend. 
 
-## Outline of the project
+## Machine Learning Model 
+- **Preliminary data preprocessing:**
+- **Preliminary selection and engineering:**
+- **Data Training and Testing split:**
+- **Model choice explained:**
 
 
 
