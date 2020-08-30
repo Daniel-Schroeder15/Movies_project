@@ -44,19 +44,41 @@ Could we predecit a score of a movie that is coming out, or not yet rated?
 The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend. 
 
 ## Machine Learning Model 
+
 - **Preliminary data preprocessing:**
-- **Preliminary selection and engineering:**
+Before plugging the datasets into any of the machine learning models listed below, we had to do the following:
+  - assure the database connection was secured and reliable.
+  - Fix quality issues among the datasets (perform CRUD operations, drop null values and clean data)
+  - Identify important features and high correlations to drop columns
+  - Apply feature engineering libraries (encoding and machine learning dependencies)
+ 
+ - **Preliminary selection and engineering:**
+  
+File: “KMeans_Movies: Finding if we can make a cluster classification using KMeans that helps to predict better the score movies. We also plan to use these clusters to assist in filtering movies for recommendation selection. 
+ 
+File: “Logistic_Regression”: We are using Lasso and ElasticNet algorithms to train the model to get a better prediction of movie score. Currently the ElasticNet algorithm is a better predictor of score, but overall both models have difficulty accurately predicting score because of the limitation of our data. 
+ 
+File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-learn, which transforms text to feature vectors that can be used as input to estimator, we are using “genre” in this case to compute the cosine similarity matrix to calculate a numeric quantity that denotes the similarity between two movies using movies titles.
+
+File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
+
 - **Data Training and Testing split:**
+
 - **Model choice explained:**
+
+The Natural Language Processing Model G
 
 ## Database Integration
 -  **Connection details:**
 
 ## Dashboard
 - **Visualization Tools:**
+Tableau Public: "Data2", "Movies", and "Streaming Services"
+https://public.tableau.com/profile/daniel.schroeder#!/?newProfile=&activeTab=0
 
 - **Interactive Element:**
-
+Creating a web application that will allow the user to select a movie based on genre. Once movie is selecet, the Machine Learning model's data will display the predicted score results.
+Another option for the user with be to type a movie into web application, and the Natural Language Processing model with give the user the top 10 recommended movies based on the movie the user input. 
 
 
 
