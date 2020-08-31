@@ -38,7 +38,7 @@ Could we predecit a score of a movie that is coming out, or not yet rated?
  - **Description of the analysis phase of the project:**
  Analyzing the data with the merge datasets does not tell the full story. However, merging the data allows us to get the data necessary for the Machine Learning models. 
 
-For more information, or view the presentation draft, please look at our google slides. We have included several notes throughout the google slides.
+For more information, or to view the presentation draft, please look at our google slides. We have included several notes throughout the google slides.
 https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 
