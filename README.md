@@ -70,7 +70,8 @@ SKLearn model selection train and test split method.
 
 - **Model choice explained:**
 
-The Natural Language Processing Model will be used because it allows to take read the input of the user. 
+The Natural Language Processing Model will be used because it allows to read the input of the user. This Machine Learning Model is being used because it can interpret the data input, and use set of statistical techniques identifying text. The techniques can be expressed as a model that is then applied to other text, also known as supervised machine learning. 
+
 ## Database Integration
 -  **Connection details:**
 AWS and PostgreSQL are connected with the AWS RDS and S3 buckets holding our datasets. The Connection is then used within the jupyter Notebook via SQLAlchemy. The primary utilization of the database will be for connecting our machine learning model results with our interactive website.
