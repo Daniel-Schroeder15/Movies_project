@@ -1,5 +1,5 @@
 # Final Project Outline - Team C
-This week, each member of the group will be submitting a link to their GitHub repository, which contains all the deliverables for the presentation, GitHub, machine learning model, and database sections.
+
 
 ## Resources
 - **Data Source:** Kaggle  
@@ -17,7 +17,7 @@ This week, each member of the group will be submitting a link to their GitHub re
   - HTML5
   - JavaScript
 
-## Challenge Summary
+## Presentation
 
 - **Topic (and why):**  
 The project topic is Movies. Watching movies has become one of the most common at-home activities during the pandemic, and people start to switch from going to movie theaters to using movie rentals and streaming services such as Netflix, Hulu, Disney+. However, it also makes people spend more time on finding the right movie. It will be great if we can have some aspects of the movies we should know before deciding what movie to watch. To help people save time on selecting movies, we will use machine learning techniques to analyze movie data based on different features and to predict movies the viewer may enjoy.  
@@ -38,10 +38,13 @@ Could we predecit a score of a movie that is coming out, or not yet rated?
  - **Description of the analysis phase of the project:**
  Analyzing the data with the merge datasets does not tell the full story. However, merging the data allows us to get the data necessary for the Machine Learning models. 
 
+For more information, or view the presentation draft, please look at our google slides. We have included several notes throughout the google slides.
+https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 
 ## Communication Protocols
 The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend. 
+
 
 ## Machine Learning Model 
 
