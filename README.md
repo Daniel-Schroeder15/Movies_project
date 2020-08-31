@@ -63,13 +63,14 @@ File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-lea
 File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
 - **Data Training and Testing split:**
+SKLearn model selection train and test split method.
 
 - **Model choice explained:**
 
-The Natural Language Processing Model G
-
+The Natural Language Processing Model will be used because it allows to take read the input of the user. 
 ## Database Integration
 -  **Connection details:**
+AWS and PostgreSQL are connected with the AWS RDS and S3 buckets holding our datasets. The Connection is then used within the jupyter Notebook via SQLAlchemy. The primary utilization of the database will be for connecting our machine learning model results with our interactive website.
 
 ## Dashboard
 - **Visualization Tools:**
