@@ -72,10 +72,15 @@ The Natural Language Processing Model will be used because it allows to take rea
 -  **Connection details:**
 AWS and PostgreSQL are connected with the AWS RDS and S3 buckets holding our datasets. The Connection is then used within the jupyter Notebook via SQLAlchemy. The primary utilization of the database will be for connecting our machine learning model results with our interactive website.
 
+You can view the schema file in this repository's master branch labeled "schema.sql".
+
 ## Dashboard
 - **Visualization Tools:**
 Tableau Public: "Data2", "Movies", and "Streaming Services"
 https://public.tableau.com/profile/daniel.schroeder#!/?newProfile=&activeTab=0
+
+The visuals using tableau will be displayed on our google slides.
+https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 - **Interactive Element:**
 Creating a web application that will allow the user to select a movie based on genre. Once movie is selecet, the Machine Learning model's data will display the predicted score results.
