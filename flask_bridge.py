@@ -40,4 +40,3 @@ def Filter_movies(genre, popularity):
 
 # def NLP_recommend(movie):
 
-    
