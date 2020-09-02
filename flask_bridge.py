@@ -35,8 +35,5 @@ def Filter_movies(genre, popularity):
     movie_list = filtered_movies["title"].unique().tolist()
     return movie_list    
 
-# def ML_recommend(movie):
-
-
-# def NLP_recommend(movie):
+# def recommendations(movie):
 

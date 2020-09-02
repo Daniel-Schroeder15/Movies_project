@@ -42,15 +42,10 @@ def get_movies_by_inputs(genre, popularity):
     filtered_movies = Filter_movies(genre, popularity)
     return jsonify(filtered_movies)
 
-# @app.route('/api/ml/recommendation/<movie>')
-# def recommend_ml_movies(movie):
-#     recommend_movies_ML = ML_recommend(movie)
-#     return jsonify(recommend_movies_ML)
-
-# @app.route('/api/nlp/recommendation/<movie>')
-# def recommend_nlp_movies(movie):
-#     recommend_movies_NLP = NLP_recommend(movie)
-#     return jsonify(recommend_movies_NLP)
+# @app.route('/api/recommendation/<movie>')
+# def recommend_movies(movie):
+#     recommend_movies = recommendations(movie)
+#     return jsonify(recommend_movies)
 
 # Running Flask App
 if __name__ == "__main__":

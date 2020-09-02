@@ -1,12 +1,12 @@
 var genre;
 var popularity;
 
-// // function for calling function when genre is chosen
+// // function for calling function when genre is chosen (Button)
 // function genreSelect(genre) {
 //     Selectmovie(genre);
 // };
 
-// // function for calling function when movie is chosen
+// // function for calling function when movie is chosen (onchange)
 // function movieSelect(movie) {
 //     GenerateTables(movie);
 // };
@@ -37,8 +37,8 @@ Onload();
 // Add button code for running Selectmovie fuction
 
 // Generating movie list for HTML drop down based on genre selection
-function Selectmovie(genre) {
-    d3.json(`/api/movies/${genre}`).then(res => {
+function Selectmovie(genre, popularity) {
+    d3.json(`/api/${genre}/${popularity}`).then(res => {
         var movieSelect = d3.select("#selDatasetmovie")
         console.log(movieSelect)
         res.forEach(movie => {
@@ -50,17 +50,9 @@ function Selectmovie(genre) {
 
 // // Creating tables for HTML based on movie selection
 // function GenerateTables(movie) {  
-//     d3.json("/api/ml/recommendation/<movie>").then(res => {
+//     d3.json("/api/recommendation/<movie>").then(res => {
 //         var mlMovies = d3.select("")
 //         console.log(mlMovies)
-//         res.forEach(row => {
-//             console.log(row)
-//             genreSelect.append("option").text(row).attr("value", row)
-//         })
-//     })
-//     d3.json("/api/nlp/recommendation/<movie>").then(res => {
-//         var nlpMovies = d3.select("")
-//         console.log(nlpMovies)
 //         res.forEach(row => {
 //             console.log(row)
 //             genreSelect.append("option").text(row).attr("value", row)
