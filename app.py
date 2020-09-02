@@ -37,6 +37,7 @@ def get_movies_by_genre(genre):
     filtered_movies = Filter_movies(genre)
     return jsonify(filtered_movies)
 
+@app.route('/api/movies/<genre>/<movie>')
 # @app.route('/api/ml/recommendation/<movie>')
 # def recommend_ml_movies(movie):
 #     recommend_movies_ML = ML_recommend(movie)

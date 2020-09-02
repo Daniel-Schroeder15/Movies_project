@@ -1,3 +1,6 @@
+var genre;
+var popularity;
+
 // function for calling function when genre is chosen
 function genreSelect(genre) {
     Selectmovie(genre);
@@ -25,7 +28,7 @@ Onload();
 
 // Generating movie list for HTML drop down based on genre selection
 function Selectmovie(genre) {
-    d3.json("/api/movies/<genre>").then(res => {
+    d3.json(`/api/movies/${genre}`).then(res => {
         var movieSelect = d3.select("#selDatasetmovie")
         console.log(movieSelect)
         res.forEach(movie => {
