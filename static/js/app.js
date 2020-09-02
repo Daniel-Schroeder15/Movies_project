@@ -1,10 +1,10 @@
 var genre;
 var popularity;
 
-// function for calling function when genre is chosen
-function genreSelect(genre) {
-    Selectmovie(genre);
-};
+// // function for calling function when genre is chosen
+// function genreSelect(genre) {
+//     Selectmovie(genre);
+// };
 
 // // function for calling function when movie is chosen
 // function movieSelect(movie) {
@@ -13,7 +13,7 @@ function genreSelect(genre) {
 
 // Generating genre list for HTML drop down 
 function Onload() {
-    d3.json("/genres").then(res => {
+    d3.json("/api/genres").then(res => {
         var genreSelect = d3.select("#selDatasetgenre")
         console.log(genreSelect)
         res.forEach(genre => {
@@ -21,10 +21,20 @@ function Onload() {
             genreSelect.append("option").text(genre).attr("value", genre)
         })
     })
+    d3.json("/api/popularities").then(res => {
+        var popSelect = d3.select("#selDatasetpop")
+        console.log(popSelect)
+        res.forEach(popularity => {
+            console.log(popularity)
+            pop.append("option").text(popularity).attr("value", popularity)
+        })
+    })
 };
 
 // Call functions on loading HTML template
 Onload();
+
+// Add button code for running Selectmovie fuction
 
 // Generating movie list for HTML drop down based on genre selection
 function Selectmovie(genre) {

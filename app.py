@@ -4,7 +4,7 @@ import numpy as np
 from sqlalchemy import create_engine
 from flask import Flask, render_template, redirect, jsonify
 from config import sql_pw
-from flask_bridge import Get_genres, Filter_movies
+from flask_bridge import Get_popularities, Get_genres, Filter_movies
 # from flask_bridge import ML_recommend, NLP_recommend
 
 # Create a New Flask App Instance
@@ -27,17 +27,21 @@ def add_header(r):
 def index():
     return render_template('index.html')
 
-@app.route('/genres')
-def data():
-    data = Get_genres()
-    return jsonify(data)
+@app.route('/api/genres')
+def genres():
+    genres = Get_genres()
+    return jsonify(genres)
 
-@app.route('/api/movies/<genre>')
-def get_movies_by_genre(genre):
-    filtered_movies = Filter_movies(genre)
+@app.route('/api/popularities')
+def popularities():
+    popularities = Get_popularities()
+    return jsonify(popularities)
+
+@app.route('/api/<genre>/<popularity>')
+def get_movies_by_inputs(genre, popularity):
+    filtered_movies = Filter_movies(genre, popularity)
     return jsonify(filtered_movies)
 
-@app.route('/api/movies/<genre>/<movie>')
 # @app.route('/api/ml/recommendation/<movie>')
 # def recommend_ml_movies(movie):
 #     recommend_movies_ML = ML_recommend(movie)
