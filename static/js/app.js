@@ -48,6 +48,9 @@ function Selectmovie(genre, popularity) {
     })
 };
 
+// Event tied to clear filters button in HTML
+d3.selectAll("#select-btn").on("click", Selectmovie);
+
 // // Creating tables for HTML based on movie selection
 // function GenerateTables(movie) {  
 //     d3.json("/api/recommendation/<movie>").then(res => {

@@ -14,7 +14,7 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-md-8 jumbotron-center text-center">
+      <div class="col-md-10 jumbotron text-center">
         <h1>Robotic Tomatoes</h1>
         <p>Generating your next favorite movie!</p>
       </div>
@@ -26,13 +26,21 @@
           <!-- <select id="selDatasetgenre"></select> -->
           <select id="selDatasetgenre" onchange="genreSelect(this.value)"></select>
         </div>
+        <!-- Add look for movies button here -->
+        <div class="bg-dark list-group-item">
+          <button id="select-btn" type="button" class="btn btn-dark">
+              Show Movies
+          </button>
+        </div>
+      </div>
+      <div class="col-md-6">  
         <div class="well">
           <h5>Do you want to see a Blockbuster, Average or Underated Movie?</h5>
           <!-- <select id="selDatasetgenre"></select> -->
           <select id="selDatasetpop" onchange="popSelect(this.value)"></select>
         </div>
-        <!-- Add look for movies button here -->
-      <div class="col-md-4">
+      </div>
+      <div class="col-md-6">
         <div class="well">
           <h5>Which movie have you enjoyed watching?</h5>
           <!-- <select id="selDatasetgenre"></select> -->
@@ -47,23 +55,6 @@
         </div>
       </div>
     </div>
-    <!-- <div class="row">
-      <div class="col-md-5">
-        <table class="table table-striped">
-          <thead>
-            <tr>
-              <th>title</th>
-              <th>genre</th>
-              <th>rating</th>
-              <th>generated_score</th>
-              <th>Ave_runtime</th>
-              <th>Streaming_Service</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </div> -->
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
