@@ -4,8 +4,8 @@ import numpy as np
 from sqlalchemy import create_engine
 from flask import Flask, render_template, redirect, jsonify
 from config import sql_pw
-from flask_bridge import Get_popularities, Get_genres, Filter_movies
-# from flask_bridge import ML_recommend, NLP_recommend
+from flask_bridge import get_popularities, Get_genres, Filter_movies
+# from flask_bridge import recommendations
 
 # Create a New Flask App Instance
 app = Flask(__name__)
@@ -34,7 +34,7 @@ def genres():
 
 @app.route('/api/popularities')
 def popularities():
-    popularities = Get_popularities()
+    popularities = get_popularities()
     return jsonify(popularities)
 
 @app.route('/api/<genre>/<popularity>')
