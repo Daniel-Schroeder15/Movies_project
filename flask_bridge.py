@@ -60,9 +60,23 @@ def recommendations(title):
     tfidf_matrix = tf.fit_transform(movies_df['keywords_name'])
     # Use the Cosine Similarity to calculate a numeric quantity that denotes the similarity between two movies
     cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix)
+    # creating streaming service column
+    movies_df['streaming_service'] = movies_df['title']
+    # If statement creating streaming column
+    for i, row in movies_df.iterrows():
+        if movies_df['Netflix'][i] == 1.0:
+            movies_df['streaming_service'][i] = 'Netflix'
+        elif movies_df['Hulu'][i] == 1.0:
+            movies_df['streaming_service'][i] = 'Hulu'
+        elif movies_df['Prime Video'][i] == 1.0:
+            movies_df['streaming_service'][i] = 'Prime Video'
+        elif movies_df['Disney+'][i] == 1.0:
+            movies_df['streaming_service'][i] = 'Disney+'
+        else:
+            movies_df['streaming_service'][i] = 'streaming unavailable'
     # Write a function that returns the 20 most similar movies based on the cosine similarity score
     # Build a 1-dimensional array with movie titles
-    titles = movies_df[['title','score','score_prediction','genre','Netflix','Hulu','Prime Video','Disney+']]
+    titles = movies_df[['title','score','score_prediction','genre','streaming_service']]
     indices = pd.Series(movies_df.index, index=movies_df['title'])
     idx = indices[title]
     sim_scores = list(enumerate(cosine_sim[idx]))
