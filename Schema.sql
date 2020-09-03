@@ -23,36 +23,67 @@ CREATE TABLE movie_scores_genre (
 	year INTEGER
 );
 
+-- Joining Interactive_ML_Movie_Data and Movie_Info tables
+CREATE TABLE Interactive_NLP_Movie_Info_Data AS
+     SELECT 
+          mi."keywords_name",
+          immd."Netflix",
+          immd."Hulu",
+          immd."Prime Video",
+          immd."Disney+",
+          immd."title",
+          immd."budget",
+          immd."company",
+          immd."country",
+          immd."director",
+          immd."genre",
+          immd."rating",
+          immd."score",
+          immd."star",
+          immd."votes",
+          immd."writer",
+          immd."original_language",
+          immd."popularity",
+          immd."revenue",
+          immd."runtime",
+          immd."release_year",
+          immd."release_month",
+          immd."release_day",
+          immd."class",
+          immd."score_prediction"
+     FROM public."Interactive_ML_Movie_Data" as immd
+     LEFT JOIN public."Movie_Info" as mi
+          ON immd."title" = mi."title";
+
 -- Joining Streaming_Movie_Data and Movie_Data tables
-CREATE TABLE Streaming_Pre_Encoding_Data AS
+CREATE TABLE Streaming_Nonencoded_Data AS
      SELECT 
           smd."Title",
           smd."Netflix",
           smd."Hulu",
           smd."Prime Video",
           smd."Disney+",
-          mdpe."title",
-          mdpe."budget_ds-movies",
-          mdpe."company",
-          mdpe."country",
-          mdpe."director",
-          mdpe."genre",
-          mdpe."gross",
-          mdpe."rating",
-          mdpe."score",
-          mdpe."star",
-          mdpe."votes",
-          mdpe."writer",
-          mdpe."original_language",
-          mdpe."popularity",
-          mdpe."revenue",
-          mdpe."Ave_runtime",
-          mdpe."release_year",
-          mdpe."release_month",
-          mdpe."recomendation"
-     FROM public."Movie_Data_Pre-Encoding" as mdpe
+          mdne."title",
+          mdne."budget",
+          mdne."company",
+          mdne."country",
+          mdne."director",
+          mdne."genre",
+          mdne."rating",
+          mdne."score",
+          mdne."star",
+          mdne."votes",
+          mdne."writer",
+          mdne."original_language",
+          mdne."popularity",
+          mdne."revenue",
+          mdne."runtime",
+          mdne."release_year",
+          mdne."release_month",
+          mdne."release_day"
+     FROM public."Movie_Data_Nonencoded" as mdne
      LEFT JOIN public."Streaming_Movie_Data" as smd
-          ON mdpe."title" = smd."Title";
+          ON mdne."title" = smd."Title";
 
 CREATE TABLE Streaming_Encoded_Data AS
      SELECT 
@@ -62,16 +93,15 @@ CREATE TABLE Streaming_Encoded_Data AS
           smd."Prime Video",
           smd."Disney+",
           mde."title",
-          mde."budget_ds-movies",
-          mde."gross",
+          mde."budget",
           mde."score",
           mde."votes",
           mde."popularity",
           mde."revenue",
-          mde."Ave_runtime",
+          mde."runtime",
           mde."release_year",
           mde."release_month",
-          mde."recomendation",
+          mde."release_day",
           mde."company_Columbia Pictures",                    
           mde."company_Columbia Pictures Corporation",       
           mde."company_DreamWorks",                           
@@ -89,8 +119,7 @@ CREATE TABLE Streaming_Encoded_Data AS
           mde."country_Australia",                          
           mde."country_Canada",                              
           mde."country_France",                               
-          mde."country_Germany",                              
-          mde."country_Hong Kong",                           
+          mde."country_Germany",                                                        
           mde."country_Japan",                               
           mde."country_Other",                                
           mde."country_Spain",                               
@@ -153,8 +182,7 @@ CREATE TABLE Streaming_Encoded_Data AS
           mde."star_Other",                                 
           mde."star_Robert De Niro",                       
           mde."star_Tom Cruise",                            
-          mde."star_Tom Hanks",                             
-          mde."writer_Andrew Niccol",                       
+          mde."star_Tom Hanks",                                                    
           mde."writer_Brian Helgeland",                      
           mde."writer_Ehren Kruger",                         
           mde."writer_Joel Coen",                           
@@ -165,21 +193,38 @@ CREATE TABLE Streaming_Encoded_Data AS
           mde."writer_Other",                             
           mde."writer_Quentin Tarantino",                    
           mde."writer_Stephen King",                         
-          mde."writer_Wes Craven",                          
-          mde."writer_William Shakespeare",                  
+          mde."writer_Wes Craven",                                            
           mde."writer_Woody Allen",                         
           mde."original_language_Other",                    
-          mde."original_language_en",                       
-          mde."original_language_es",                       
+          mde."original_language_en",                                             
           mde."original_language_fr",                       
           mde."original_language_zh"
      FROM public."Movie_Data_Encoded" as mde
      LEFT JOIN public."Streaming_Movie_Data" as smd
           ON mde."title" = smd."Title";
 
+CREATE TABLE Streaming_Movie_Info AS
+     SELECT 
+          smd."Title",
+          smd."Netflix",
+          smd."Hulu",
+          smd."Prime Video",
+          smd."Disney+",
+          mi."title",
+          mi."genre",
+          mi."rating",
+          mi."score",
+          mi."popularity",
+          mi."overview",
+          mi."keywords_name",
+          mi."keywords"
+     FROM public."Movie_Info" as mi
+     LEFT JOIN public."Streaming_Movie_Data" as smd
+          ON mi."title" = smd."Title";
+
 -- ERD diagram
 
-Streaming_Movie_Data_ML_Merge
+Streaming_Movie_Data
 -
 Title varchar pk FK
 Netflix float
@@ -187,15 +232,25 @@ Hulu float
 Prime_Video float
 Disney+ float
 
-Movie_Data_Pre-Encoding
+Movie_Info
 -
-title varchar pk FK >- Streaming_Movie_Data_ML_Merge.Title
-budget_ds-movies float
+title varchar pk FK >- Streaming_Movie_Data.Title
+genre varchar
+rating varchar
+score float
+popularity float
+overview varchar
+keywords_name varchar
+keywords varchar
+
+Movie_Data_Nonencoded
+-
+title varchar pk FK >- Streaming_Movie_Data.Title
+budget float
 company varchar
 country varchar
 director varchar
 genre varchar
-gross float
 rating varchar
 score float
 star varchar
@@ -204,24 +259,23 @@ writer varchar
 original_language varchar
 popularity float
 revenue int
-Ave_runtime float
+runtime float
 release_year int
 release_month int
-recomendation float
+release_day int
 
 Movie_Data_Encoded
 -
-title varchar pk FK - Streaming_Movie_Data_ML_Merge.Title
-budget_ds-movies float
-gross float
+title varchar pk FK - Streaming_Movie_Data.Title
+budget float
 score float
 votes int
 popularity float
 revenue int
-Ave_runtime float
+runtime float
 release_year int
 release_month int
-recomendation float
+release_day int
 company_Columbia_Pictures float                    
 company_Columbia_Pictures_Corporation float        
 company_DreamWorks float                           
@@ -240,7 +294,6 @@ country_Australia float
 country_Canada float                               
 country_France float                               
 country_Germany float                              
-country_Hong_Kong float                            
 country_Japan float                                
 country_Other float                                
 country_Spain float                                
@@ -303,8 +356,7 @@ star_Nicolas_Cage float
 star_Other float                                  
 star_Robert_De_Niro float                         
 star_Tom_Cruise float                             
-star_Tom_Hanks float                              
-writer_Andrew_Niccol float                        
+star_Tom_Hanks float                                                      
 writer_Brian_Helgeland float                      
 writer_Ehren_Kruger float                         
 writer_Joel_Coen float                            
@@ -315,11 +367,9 @@ writer_Michael_Crichton float
 writer_Other float                                
 writer_Quentin_Tarantino float                    
 writer_Stephen_King float                         
-writer_Wes_Craven float                           
-writer_William_Shakespeare float                  
+writer_Wes_Craven float                                            
 writer_Woody_Allen float                          
 original_language_Other float                     
 original_language_en float                        
-original_language_es float                        
 original_language_fr float                        
-original_language_zh float                        
+original_language_zh float
