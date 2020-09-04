@@ -28,9 +28,9 @@ We decide to use Kaggle as the data source for our project because it provides a
 - **Questions we hope to answer with data:**  
 What aspects make a movie more watchable?  
 Can the budget indicate a good movie?  
-Are streaming services' movie library offering enough amount of watchable movies?
-Can we recommend the viewer ten movies based on the movie entered by the viewer?
-Could we predecit a score of a movie that is coming out, or not yet rated?
+Are streaming services' movie library offering enough amount of watchable movies?  
+Can we recommend the viewer ten movies based on the movie entered by the viewer?  
+Could we predict a score of a movie that is coming out, or not yet rated?
 
 - **Description of the data exploration phase of the project:**
  Exploring each data set via Tableau and Machine Learning models to see relationships that could help us answer any of the above questions. The budget, revenue, genre, and streaming services all play a major role into understanding the data. Viewing the datasets individually allows us to understand the value of each dataset. 
