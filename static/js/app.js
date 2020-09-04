@@ -3,11 +3,11 @@ var popularity;
 
 // functions for assigning variables from selections
 function genreSelect(select) {
-    var genre = select;
+    genre = select;
 };
     
 function popSelect(select) {
-    var popularity = select;
+    popularity = select;
 };
 
 // Generating genre list for HTML drop down 
@@ -25,7 +25,7 @@ function Onload() {
         console.log(popSelect)
         res.forEach(popularity => {
             console.log(popularity)
-            pop.append("option").text(popularity).attr("value", popularity)
+            popSelect.append("option").text(popularity).attr("value", popularity)
         })
     })
 };
@@ -36,7 +36,8 @@ Onload();
 // Add button code for running Selectmovie fuction
 
 // Generating movie list for HTML drop down based on genre selection
-function Selectmovie(genre, popularity) {
+function Selectmovie() {
+    console.log(genre, popularity);
     d3.json(`/api/${genre}/${popularity}`).then(res => {
         var movieSelect = d3.select("#selDatasetmovie")
         console.log(movieSelect)
@@ -50,36 +51,29 @@ function Selectmovie(genre, popularity) {
 // Add button code for running Selectmovie fuction
 d3.selectAll("#select-btn").on("click", Selectmovie);
 
-// // Creating tables for HTML based on movie selection
-// function GenerateTables(movie) {  
-//     d3.json("/api/recommendation/<movie>").then(res => {
-//         var recomendations = res
-//         console.log(recomendations)
-//         res.forEach(row => {
-//             console.log(row)
-//             genreSelect.append("option").text(row).attr("value", row)
-//         })
-//         // assign data to sample-metadata id in HTML
-//         var PANEL = d3.select("#sample-metadata");
-//         PANEL.html("");
-//         result.forEach(([key, value]) => {
-//             PANEL.append("h6").text(key + ': ' + value);
-//         });
-//     })
-// };
+// Creating tables for HTML based on movie selection
+function GenerateTables(movie) {  
+    d3.json(`/api/recommendation/${movie}`).then(res => {
+    buildTable(res);
+    })
+};
 
-// // function for building demographic info based on chosen sample
-// function buildMetadata(sample) {
-//     d3.json("samples.json").then((data) => {
-//         // Identify the sample data for the chosen id
-//         var metadata = data.metadata;
-//         var resultArray = metadata.filter(sampleObj => sampleObj.id == sample);
-//         var result = Object.entries(resultArray[0]);
-//         console.log(result);
-
-//         // assign data to sample-metadata id in HTML
-//         var PANEL = d3.select("#sample-metadata");
-//         PANEL.html("");
-//         result.forEach(([key, value]) => {
-//             PANEL.append("h6").text(key + ': ' + value);
-//         });
+// Function for creating the table in HTML
+function buildTable(data) {
+    // Reference the HTML table using d3
+    var tbody = d3.select("tbody");
+    // Clear out any existing data
+    tbody.html("");
+    // Loop through all objects in the array and adding thme to the table.
+    data.forEach((dataRow) => {
+        // Append a row to the HTML table
+        let row = tbody.append("tr");
+        // Loop through each field in the dataRow
+        Object.values(dataRow).forEach((val) => {
+            // Add each value as a table cell (td)
+            let cell = row.append("td");
+            // Add each value to a cell
+            cell.text(val);
+        });
+    });
+};

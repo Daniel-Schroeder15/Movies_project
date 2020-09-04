@@ -76,7 +76,7 @@ def recommendations(title):
             movies_df['streaming_service'][i] = 'streaming unavailable'
     # Write a function that returns the 20 most similar movies based on the cosine similarity score
     # Build a 1-dimensional array with movie titles
-    titles = movies_df[['title','score','score_prediction','genre','streaming_service']]
+    titles = movies_df[['title','genre','score','score_prediction','streaming_service']]
     indices = pd.Series(movies_df.index, index=movies_df['title'])
     idx = indices[title]
     sim_scores = list(enumerate(cosine_sim[idx]))
