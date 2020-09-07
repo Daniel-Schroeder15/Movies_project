@@ -23,6 +23,38 @@ CREATE TABLE movie_scores_genre (
 	year INTEGER
 );
 
+-- Joining Interactive_ML_Movie_Data and Movie_Info tables
+CREATE TABLE Interactive_NLP_Movie_Info_Data AS
+     SELECT 
+          mi."keywords_name",
+          immd."Netflix",
+          immd."Hulu",
+          immd."Prime Video",
+          immd."Disney+",
+          immd."title",
+          immd."budget",
+          immd."company",
+          immd."country",
+          immd."director",
+          immd."genre",
+          immd."rating",
+          immd."score",
+          immd."star",
+          immd."votes",
+          immd."writer",
+          immd."original_language",
+          immd."popularity",
+          immd."revenue",
+          immd."runtime",
+          immd."release_year",
+          immd."release_month",
+          immd."release_day",
+          immd."class",
+          immd."score_prediction"
+     FROM public."Interactive_ML_Movie_Data" as immd
+     LEFT JOIN public."Movie_Info" as mi
+          ON immd."title" = mi."title";
+
 -- Joining Streaming_Movie_Data and Movie_Data tables
 CREATE TABLE Streaming_Nonencoded_Data AS
      SELECT 
