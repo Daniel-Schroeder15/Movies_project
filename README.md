@@ -90,11 +90,14 @@ File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Cluste
   - We added score, score_prediction, genre and class to the result.
   - Finally the code was added to the interactive web app to update results every time an user pick a movie to get the recommendation.
 
+We also tried the ramdom forest because the feature importance, but the score_predictions were very low and we tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
 - **Model choice explained:**
 
 - The Kmeans was used to find classes for the data.  We noticed the revenue and budget were a main driver of the classes.  Since we want to find a variable more meaningful to the user, we decided to use popularity, since it is a variable people look to decide to watch a movie.  We dropped the revenue and budget data from the dataset, and now the classes are driven by popularity.  We defined those classes like: Blockbuster, Average Movies and 
 Underrated.
+
+- We wanted to add score prediction to our results, and we found the Logistic Regression ElasticNet gave us the best r2:0.41.  We think adding more variables that correlates the score it will help to improve the prediction.  We tried to improve the prediction adding the classes from KMeans, but the r2 for score_prediction only went from 0.41 to 0.42.  We also tried to improve the prediction changing the size of the training and test datasets, but only improve the r2 by 0.09.  Our best combination was training data: 0.7, testing data: 0.3.  Our proposed for this model it was provide a score prediction for movies based on writer, genre, director, company, rating, country, star, language, runtime, popularity, budget and votes.
 
 - The Natural Language Processing Model will be used because it allows to read the input of the user, in this case the title movie. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the similarity matrix for each movie, then the user input a movie and model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
 
