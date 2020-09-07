@@ -96,7 +96,7 @@ File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Cluste
 - The Kmeans was used to find classes for the data.  We noticed the revenue and budget were a main driver of the classes.  Since we want to find a variable more meaningful to the user, we decided to use popularity, since it is a variable people look to decide to watch a movie.  We dropped the revenue and budget data from the dataset, and now the classes are driven by popularity.  We defined those classes like: Blockbuster, Average Movies and 
 Underrated.
 
-- The Natural Language Processing Model will be used because it allows to read the input of the user, in this case the title movie. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the simmilarity matrix for each movie, then the user input a movie then the model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
+- The Natural Language Processing Model will be used because it allows to read the input of the user, in this case the title movie. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the similarity matrix for each movie, then the user input a movie and model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
 
 ## Database Integration
 -  **Connection details:**
