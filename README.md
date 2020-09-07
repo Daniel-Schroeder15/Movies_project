@@ -42,10 +42,6 @@ For more information, or to view the presentation draft, please look at our goog
 https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 
-## Communication Protocols
-The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend. 
-
-
 ## Machine Learning Model 
 
 - **Preliminary data preprocessing:**
