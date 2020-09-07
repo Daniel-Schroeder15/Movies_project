@@ -61,7 +61,7 @@ File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-lea
 
 File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
-We also tried the ramdom forest because the feature importance, but the model did not work very well trying to get the score_prediction.
+We also tried the random forest because the feature importance, but the model did not work very well trying to get the score_prediction.
 
 ### **Machine Learning Final Results
 - Logistic Regression Model
