@@ -61,7 +61,7 @@ File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-lea
 
 File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
-- **Machine Learning Processing
+### **Machine Learning Final Results
 - Logistic Regression Model
   - Output: Score
   - Input: Encoded data (company, directors, revenue language, writer, star, country, genre, rating), budget, title, votes, runtime, released year, popularity
