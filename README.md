@@ -42,10 +42,6 @@ For more information, or to view the presentation draft, please look at our goog
 https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 
-## Communication Protocols
-The team will communicate through zoom, slack, and email. The team will meet twice a week outside of class Monday and Wednesday for 20 minutes at 7 pm via zoom to discuss progress and possible issues. Any additional time will be as needed during the weekend. 
-
-
 ## Machine Learning Model 
 
 - **Preliminary data preprocessing:**
@@ -87,8 +83,7 @@ The visuals using tableau will be displayed on our google slides.
 https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 - **Interactive Element:**
-Creating a web application that will allow the user to select a movie based on genre. Once movie is selecet, the Machine Learning model's data will display the predicted score results.
-Another option for the user with be to type a movie into web application, and the Natural Language Processing model with give the user the top 10 recommended movies based on the movie the user input. 
+The interative element ustilizes flask, html and javastript to produce a web application that allows the user to select a movie based on selected genre and machine learning clustering. Once movie is selected, the natrual language processing model runs generating a table of the top ten highest rated movies related to the selected movie. The table also displays the genre, score, predicted score results and what streaming service it is viewable on, if any.
 
 
 
