@@ -44,7 +44,7 @@ https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-
 
 ## Machine Learning Model 
 
-- **Preliminary data preprocessing:**
+- **Data preprocessing:**
 Before plugging the datasets into any of the machine learning models listed below, we had to do the following:
   - assure the database connection was secured and reliable.
   - Fix quality issues among the datasets (perform CRUD operations, drop null values and clean data)
@@ -61,12 +61,42 @@ File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-lea
 
 File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
-- **Data Training and Testing split:**
-SKLearn model selection train and test split method.
+- **Machine Learning Processing
+- Logistic Regression Model
+  - Output: Score
+  - Input: Encoded data (company, directors, revenue language, writer, star, country, genre, rating), budget, title, votes, runtime, released year, popularity
+  - **Data Training and Testing split:**
+  - Test_size = 0.3, training_size = 0.7 (change size of training and test data from 0.7 to 0.8, and 0.7 and 0.3 give us the best score_prediction)
+  - Generate score_prediction using Lasso Regression and ElasticNet Net Regression
+  - Lasso: r2 = 0.365
+  - ElasticNet: r2 = 0.41
+
+- Kmeans Model
+  - Based on questions we wanted to answer from datasets we drop revenue and budget to generate classes
+  - Generate elbow curve.
+  - Elbow curve shows 3 main clusters.
+  - Add class to dataset.
+
+- We added the classes from KMeans model and run the Logistic Regression Model to see if we can get better score prediction.
+- Logistic Regression ElasticNet.
+  - ElasticNet: r2 = 0.42.
+  - Add score_prediction to dataset.
+
+- TfidfVectorizer Model
+  - Transform text to feature vectors to be used as input to estimator.
+  - Use keywords_name to generate the matrix of numeric quantity that denotes the similarity between two movies based on keywords_name.
+  - Generate a function that returns the most similar movies based on cosine similarity score (matrix).
+  - Input a title movie and get the “Top Ten Movies Recommendation” based on similarity of the keywords_name of the title movie selected.
+  - We added score, score_prediction, genre and class to the result.
+  - Finally the code was added to the interactive web app to update results every time an user pick a movie to get the recommendation.
+
 
 - **Model choice explained:**
 
-The Natural Language Processing Model will be used because it allows to read the input of the user. This Machine Learning Model is being used because it can interpret the data input, and use set of statistical techniques identifying text. The techniques can be expressed as a model that is then applied to other text, also known as supervised machine learning. 
+- The Kmeans was used to find classes for the data.  We noticed the revenue and budget were a main driver of the classes.  Since we want to find a variable more meaningful to the user, we decided to use popularity, since it is a variable people look to decide to watch a movie.  We dropped the revenue and budget data from the dataset, and now the classes are driven by popularity.  We defined those classes like: Blockbuster, Average Movies and 
+Underrated.
+
+- The Natural Language Processing Model will be used because it allows to read the input of the user, in this case the title movie. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the simmilarity matrix for each movie, then the user input a movie then the model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
 
 ## Database Integration
 -  **Connection details:**
