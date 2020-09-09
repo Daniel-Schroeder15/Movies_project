@@ -74,9 +74,9 @@ We also tried the random forest because the feature importance, but the model di
   - ElasticNet: r2 = 0.41
 
 - Kmeans Model
-  - Based on questions we wanted to answer from datasets we drop revenue and budget to generate classes
   - Generate elbow curve.
   - Elbow curve shows 3 main clusters.
+  - Classes are driven by revenue, we used the classes to set dropdown menu for the movie selection based on funding, we used the classes and classify the movies like: Blockbuster, Average Movies and Underrated.
   - Add class to dataset.
 
 - We added the classes from KMeans model and run the Logistic Regression Model to see if we can get better score prediction.
@@ -95,12 +95,11 @@ We also tried the random forest because the feature importance, but the model di
 
 - **Model choice explained:**
 
-- The Kmeans was used to find classes for the data.  We noticed the revenue and budget were a main driver of the classes.  Since we want to find a variable more meaningful to the user, we decided to use popularity, since it is a variable people look to decide to watch a movie.  We dropped the revenue and budget data from the dataset, and now the classes are driven by popularity.  We defined those classes like: Blockbuster, Average Movies and 
-Underrated.
+- The Kmeans was used to find classes for the data.  We noticed the revenue and budget were a main driver of the classes, but we tried finding how the classes were divided if the revenue and budged were dropped, we found votes are now the driver, if we dropped votes popularity was the driven.  We decided to make the classes using all the data, because to get classes from popularity we had to drop many important variables for machine learning model.  We defined those classes like: Blockbuster, Average Movies and Underrated.
 
 - We wanted to add score prediction to our results, and we found the Logistic Regression ElasticNet gave us the best r2:0.41.  We think adding more variables that correlates the score it will help to improve the prediction.  We tried to improve the prediction adding the classes from KMeans, but the r2 for score_prediction only went from 0.41 to 0.42.  We also tried to improve the prediction changing the size of the training and test datasets, but only improve the r2 by 0.09.  Our best combination was training data: 0.7, testing data: 0.3.  Our proposed for this model it was provide a score prediction for movies based on writer, genre, director, company, rating, country, star, language, runtime, popularity, budget and votes.
 
-- The Natural Language Processing Model will be used because it allows to read the input of the user, in this case the title movie. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the similarity matrix for each movie, then the user input a movie and model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
+- The Natural Language Processing Model will be used because allows to use string data, in this case keywords (keywords to describe the movies), then use the title movie to predict a recommendation. The Machine Learning TfidfVectorizer Model Model takes the keywords_name and generate the similarity matrix for each movie, then the user input a movie and model predicts similar movies based on the keywords_name.  We finally filtered the results by genre and sort the results by score.  We also added the score prediction to the table presented to the user. 
 
 ## Database Integration
 -  **Connection details:**
@@ -119,6 +118,11 @@ https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-
 - **Interactive Element:**
 The interative element ustilizes flask, html and javastript to produce a web application that allows the user to select a movie based on selected genre and machine learning clustering. Once movie is selected, the natrual language processing model runs generating a table of the top ten highest rated movies related to the selected movie. The table also displays the genre, score, predicted score results and what streaming service it is viewable on, if any.
 
+
+## Recommendations
+- Add reviews on the dataset to return a recommendation based on user reviews.
+- We could add the cosine similarity matrix to the Kmeans and Logistic Regresion models dataset and see if the score_prediction improves.
+- Explore more the TfidfVectorizer Model, see if 2 variables can be used for the matrix.
 
 
 
