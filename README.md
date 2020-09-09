@@ -120,6 +120,10 @@ The interative element ustilizes flask, html and javastript to produce a web app
 
 
 ## Recommendations
+- Add reviews on the dataset to return a recommendation based on user reviews.
+- We could add the cosine similarity matrix to the Kmeans and Logistic Regresion models dataset and see if the score_prediction improves.
+- Explore more the TfidfVectorizer Model, see if 2 variables can be used for the matrix.
+
 
 
 
