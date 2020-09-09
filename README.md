@@ -74,9 +74,9 @@ We also tried the random forest because the feature importance, but the model di
   - ElasticNet: r2 = 0.41
 
 - Kmeans Model
-  - Based on questions we wanted to answer from datasets we drop revenue and budget to generate classes
   - Generate elbow curve.
   - Elbow curve shows 3 main clusters.
+  - Classes are driven by revenue, we used the classes to set dropdown menu for the movie selection based on funding, we used the classes and classify the movies like: Blockbuster, Average Movies and Underrated.
   - Add class to dataset.
 
 - We added the classes from KMeans model and run the Logistic Regression Model to see if we can get better score prediction.
