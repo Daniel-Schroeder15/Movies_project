@@ -116,7 +116,7 @@ The visuals using tableau will be displayed on our google slides.
 https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-k5c/edit?usp=sharing
 
 - **Interactive Element:**
-The interative element ustilizes flask, html and javastript to produce a web application that allows the user to select a movie based on selected genre and machine learning clustering. Once movie is selected, the natrual language processing model runs generating a table of the top ten highest rated movies related to the selected movie. The table also displays the genre, score, predicted score results and what streaming service it is viewable on, if any.
+The interative element ustilizes python fuctions, flask routes, html and javastript to produce a web application that allows the user to select a movie based on selected genre and machine learning clustering. Once a displayed movie is selected, the natrual language processing model runs generating a table of the top ten highest rated movies related to the selected movie. The table also displays the genre, score, predicted score results and what streaming service it is viewable on, if any.
 
 
 ## Recommendations
