@@ -34,7 +34,7 @@ Could we predict a score of a movie that is coming out, or not yet rated?
 
 - **Description of the data exploration phase of the project:**
  Exploring each data set via Tableau and Machine Learning models to see relationships that could help us answer any of the above questions. The budget, revenue, genre, and streaming services all play a major role into understanding the data. Viewing the datasets individually allows us to understand the value of each dataset. 
- 
+ Genre and average revenue have an inverse relationship. Over the past 35 years, the average reveune for movies has increased 333%. 
  - **Description of the analysis phase of the project:**
  Analyzing the data with the merge datasets does not tell the full story. However, merging the data allows us to get the data necessary for the Machine Learning models. 
 
