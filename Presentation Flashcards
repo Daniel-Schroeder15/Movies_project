@@ -1,0 +1,83 @@
+Daniel's Notes
+Good Evening Everyone! Who here doesn’t like movies? I bet everyone here has at least ONE favorite movie. Movies are a great way to escape!
+
+Don’t worry You are not alone! I know I wasting my valuable time the other day. I sat down to watch a funny movie, shopped around Amazon Prime, only to find nothing appealing, then hulu.. NOTHING… Then Netflix. 15 minutes later, I SETTLED on a movie I have seen 1000 times! Top GUN “ Talk to me Goose!” “ I feel the need, need for speed”
+Turns out, I am not the only one with this issue. Do not SETTLE. With the help of our dependable scoring metrics and Movie Recommendations, you will have more time to spend with your loved ones, happy. 
+As You can see, the United States is spending A lot of time starring at our screens. 158.8 Million Accumulative hours a DAY viewing Netflix alone. Netflix has about 73 Million Subscribers. So imagine A person spends 10 minutes 6 Times a week, (equals to 1 hr per week), on searching what to watch. This would equal to over 3000 hours (or 125 days) wasted over an average adult life No need to fear! Robotic Tomatoes is here to help you solve this problem of wasting valuable time.. 
+Our mission is simple. To utilize Machine Learning to provide dependable movie score predictions and top recommendations for the viewer. Saving Valuable Time
+The Source of our data comes from Kaggle, where we downloaded 3 datasets with a total of over 25,000 Rows. Ultimately, the datasets came from IMDB, which stands for The Internet Movie Database, which is owned by Amazon. 
+In Order to look at the list of movies, we first had to establish a relational database.  Input the datasets within the database, then extract, or read and collect the data together to preform transformation. Utilizing the computer programming language, PYTHON, we were able to clean, analyze, and build ML models. From there we Loaded the clean data back into the database. 
+
+“SHOW ME THE MONEY” Of course we have to dive into how much Hollywood is cashing in on. As the years go on, more the average continues to go on. This could mean more people are going to the movies or the cost of movies has increased, or both! But What kind of movies are people paying to go see? G – Rated – kids AKA the parents pay to please their children and adults prefer non-violent, gory explicit movies. Notice the inverse relationship of rating vs revenue.  higher the rating, the lower the revenue. 
+
+Help PRODUCERS/Writers – what to create. The increase of Revenue over time gives us confident there more people are watching movies.  Causing this crisis of wasting valuable time to increase.
+How does this translate to predicting scores? Glad You Asked! Predicting score is not easy. People have a lot of opinions. Critics have a tough job to just sit and watch a movie… Sign me up! Notice the Rated Movies 
+
+
+Dahiana's Notes
+
+Since we wanted to predict the score for a movie, and then make a recommendation, we started looking a model than can predict the score.
+
+But before starting working on the machine learning we need to prepared the data for the models.  First, we did all preprocessing of the data. After we merged all 3 datasets, we encoded the categorical variables, in this case: director, company, genre, rating, country, star, etc.  We used less than 10 different categories for each variable to avoid overfitting.  We found correlation between similar variables that could be giving us same information, then we dropped one of them.
+
+We started with random forest but we found the linear regression gave us a better prediction.  We used Lasso and Enelastic Net logistic regressions.  We split the data 0.8 and 0.2 (training and test datasets), our output was score, and the input was the encoded data with revenue, release year, runtime, popularity and votes.  We changed the size of the training data and the best results was giving by the combination of 0.7 for training data and 0.3 for test data.  The score prediction was very skewed by votes.
+
+•	While we were looking how to predict the score, we are asking us if a model that can give us classes could be useful to help with the recommendation.  We started with PCA and Heritache but the the ncomponents were only taken about 10% of the data, then we decided to go with KMeans.
+For Kmeans, we used same encoded and numeric variables for the logistic regression model.  We found 3 classes, and those were driven by revenue.  We dropped revenue, and found out now the classes were driven by votes.  Then we dropped votes and classes were driven by popularity.  We were doing this because we wanted to find the best classification that helps with the recommendation.  After all this process, we decided to keep all variables and use the classes given by revenue to have more data for our model. 
+•	Since we have variables that couldn’t use for the model because are not numerical or categorical, we decided to explore a machine learning model that can use words (NLP).   We found a model called tfidvectorizer machine learning.  We had 2 potential variables that could be used in this model, overview or keywords.  On the slide is an example of what type of information overview and keywords are given.
+
+•	The tfidvectorizer takes the words from the input and compare it with all of possible inputs, then generates a similarity matrix with values from 0 to 1.  0 means the words for a movie are totally different and 1 means the words are exactly the same.  For example, if we have 20 inputs, we will generate a 20 x 20 matrix size after the comparison.  We used both variables and the best result for the recommendation was given by keywords.
+
+
+
+Here is the summary of our machine learning processing.  On the flow chart we can see all the process we went through.
+
+Log regressions were giving these r2 of 0.36 and 0.41 for Lasso and EnelasticNet.  We predicted the classes then we input this info to the log regression model trying to improve our r2, but only went to 0.42 using EnelasticNet.  We generated the results from these models and sent them to the database to be used on the interactive web app.
+
+For Kmeans we got 3 classes and we assigned a description for each class to do the recommendation (underrating, average score and blockbuster)
+
+Finally, we used tfidvectorizer to make our recommendation.  We input a movie title and we found the most similar movies using the similarity matrix came from the keywords.  We generated a table including the movie title, genre, score, score prediction from logistic regression and classes from KMeans in our interactive web app.  The code was added to the interactive web app to generate a recommendation every time a movie was selected.
+
+
+Jian's Notes
+Results of Analysis
+•	Using proper machine learning models, we are able to generate results of analysis. First, we use logistic regression model to performe score prediction and generate our Robotic Score for movies. Then, based on funding, we use the Kmeans model to generate the elbow curve and classify the data clusters into Blockbuster, Average Movies, and Underrated. Last, we provide the top ten movies recommendation based on the similarity of the key words in the selected movie title. Using the machine learning results, we create a dashboard to show our finding and help us identify areas that we need to explore more deeply.  
+
+Dashboard and Results 
+•	First, we counted the number of movies in each class. In the pie chart, we can see there are about 80% of movies in the dataset are underrated; then, we looked each class by type of movies. The movie selection breakdown shows that all three categories have same movie type composition, which including a large number of action, comedy, and drama movies and a small number of biography, family, and mystery movies. In the line chart, we compare our predict score to actual score in past 30 years, we can see the average robotic score is very conservative and has high level of consistency. It helps avoid the variances and exceptions in critics.
+The class vs. score bar chart shows the accuracy of the Robotic Score, the blockbuster category has the highest average score and the underrated category has the lowest average score, these scores can match the movie categories and proves that the machine learning models can recommend movies correctly. The results and information on this dashboard are helpful and all being used to achieve our solution. 
+
+The Solution 
+•	With all the information, results, and ideas we have, our goal is to provide a solution for people to spend less time on selecting movies and find what they want to watch easily. We create an interactive web app to provide the top ten movies recommendation for viewers based on the movie type and a certain movie they enjoyed watching in the past. Eric will talk about the interactive part more in depth. (Switch to Eric)
+
+Recommendation 
+•	We are very proud of what we have done and our accomplishments, but here are some improvements we can have in our project and recommendations for future analysis. First, as you can see from these two tables, the number of movies with streaming services decreases dramatically after we merged and cleaned the datasets. therefore, instead of using Kaggle, a better solution for gathering more data and information is to connect to API, such as IMDB API directly. We can call columns and access updated data when we want, which is more convenience and comprehensive for analysis. 
+Second, we can include users’ reviews in dataset to improve the robotic score prediction. 
+It is also important to provide better streaming service selection to tell users where they can find the movie they like and which streaming services has the best movie selection. We can also apply the models for TV shows prediction and provide robotic scores for upcoming movies in the future.
+Last, in more technical parts, we can add the cosine similarity matrix to the inputs to see if the score prediction can be improved, and to explore the TfidfVectorizer Model to see if 2 variables can be used for the matrix. (Switch to Eric)
+
+
+
+
+
+
+Eric's Notes
+
+Interactive Web App Demonstration
+Thanks Jian!
+All of our exploration and analysis led us to a simple process for our site’s users. 
+All they have to do is answer three simple questions: 
+What genre are you feeling tonight?
+Do you want to see a Blockbuster, Average Movie, or Underrated Movie?
+And what movie have you enjoyed watching before?
+From these simple questions, a list of top 10 recommendations are generated for them along with what streaming service they can watch them on! This hopefully leads our users to their next favorite movie! (When movie ends)
+Interactive Web App
+The process is simple on the surface. 
+Choose the genre and funding, press a button, choose a movie you have liked in the past and bam you have results. 
+But looking deeper into this process, reveilles it to be much complex then it seems on the surface. The funding of the movie is generated from our KMeans clustering, the list of movies are filtered based on the user selections and once the movie is selected by the user, it is funneled into our Natural Language Processing machine learning model. The results are then merged into our table giving the user access to not only what how the critics rate the movies, but what our logistic regression model thinks about the movie, but our robot’s taste in movies is still developing. 
+Interactive Web App How it works!
+Considering all of that, you might be asking, how do we put all of this together and make it work!? Well first, we pull all of our cleaned and processed data from our PostgreSQL database. Our database connection path is integrated into our python functions. For organization, we kept those functions in a separate python script from our flask app. Our flask app then calls those functions and generates the HTML template. And lastly, but definitely not least our JavaScript calls the flask routes with D3 communicating with the flask app and HTML to populate the generated data on HTML based on the user’s selections.
+Sounds like a lot, but staying organized is the key. We can always do better though and Jian is going to fill us in on how we can do that.
+(Switch to Jian)
+In Conclusion
+No time, no google, no problem! With this application, you can now skip spending grueling hours scrolling through Netflix, Prime Video and all of the content new streaming services that are popping up all over the internet. You don’t even need to google what the rating is on the movie once you finally pulled the needle out of the haystack. Using Robotic Tomatoes is like following movie GPS. Our trusted robots will do all the tedious movie searching for you! Leaving you to spend your valuable time and energy solving today’s problems! Any questions?
