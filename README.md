@@ -109,6 +109,7 @@ AWS and PostgreSQL are connected with the AWS RDS and S3 buckets holding our dat
 
 You can view the schema file in this repository's master branch labeled "schema.sql".
 
+
 ## Dashboard
 - **Visualization Tools:**
 Tableau Public: "Data2", "Movies", and "Streaming Services"
