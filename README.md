@@ -47,9 +47,12 @@ https://docs.google.com/presentation/d/1WdAScHd122qWdyxKD_V411jTsfbOdzzzfuablZH-
 - **Data preprocessing:**
 Before plugging the datasets into any of the machine learning models listed below, we had to do the following:
   - assure the database connection was secured and reliable.
-  - Fix quality issues among the datasets (perform CRUD operations, drop null values and clean data)
-  - Identify important features and high correlations to drop columns
-  - Apply feature engineering libraries (encoding and machine learning dependencies)
+  - Fix quality issues among the datasets (perform CRUD operations, drop null values and clean data).
+  - Merge datasets and identify important features and high correlations to drop columns.
+  - For streaming services we added '0' for movies that do not have this information after the merge, meaning the stream service was not available.
+  - Apply feature engineering libraries (encoding and machine learning dependencies) to categorical variables like: company, rating, country, genre, director and star.
+  - For keywords, we extracted from the dictionary only the key "name" to be used in our NLP model.
+  - Numerical variables: revenue, votes, released year, score and popularity.
  
  - **Preliminary selection and engineering:**
   
