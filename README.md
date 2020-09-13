@@ -53,13 +53,15 @@ Before plugging the datasets into any of the machine learning models listed belo
  
  - **Preliminary selection and engineering:**
   
-File: “KMeans_Movies: Finding if we can make a cluster classification using KMeans that helps to predict better the score movies. We also plan to use these clusters to assist in filtering movies for recommendation selection. 
- 
-File: “Logistic_Regression”: We are using Lasso and ElasticNet algorithms to train the model to get a better prediction of movie score. Currently the ElasticNet algorithm is a better predictor of score, but overall both models have difficulty accurately predicting score because of the limitation of our data. 
- 
-File: “Genre_recommendation”: Using TfidfVectorizer function from scikit-learn, which transforms text to feature vectors that can be used as input to estimator, we are using “genre” in this case to compute the cosine similarity matrix to calculate a numeric quantity that denotes the similarity between two movies using movies titles.
+KMeans Clustering: Finding if we can make a cluster classification using KMeans that helps to predict better the score movies. We also plan to use these clusters to assist in filtering movies for recommendation selection.
 
-File: “PCA_Hierarchical_Clustering_Movies”: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
+Linear Regression: the model did not predict score using the model data available.
+ 
+Logistic_Regression: We are using Lasso and ElasticNet algorithms to train the model to get a better prediction of movie score. Currently the ElasticNet algorithm is a better predictor of score, but overall both models have difficulty accurately predicting score because of the limitation of our data. 
+
+TfidfVectorizer function from scikit-learn: transforms text to feature vectors that can be used as input to estimator, we are using “genre” in this case to compute the cosine similarity matrix to calculate a numeric quantity that denotes the similarity between two movies using movies titles.
+
+PCA Hierarchical Clustering: We tried PCA_Hierarchical_Clustering but the explained variance when 2 components were taken was only (0.075, 0.047).
 
 We also tried the random forest because the feature importance, but the model did not work very well trying to get the score_prediction.
 
@@ -121,9 +123,14 @@ The Interactive Element is the labeled file in our master branch, "Updated_Inter
 
 
 ## Recommendations
-- Add reviews on the dataset to return a recommendation based on user reviews.
-- We could add the cosine similarity matrix to the Kmeans and Logistic Regresion models dataset and see if the score_prediction improves.
-- Explore more the TfidfVectorizer Model, see if 2 variables can be used for the matrix.
+- API from multiple sources / Pay for API
+- Improve predicted score based on user reviews 
+- Provide better streaming services selection 
+- Include TV shows
+- Give score predictions for new movies 
+- Add the cosine similarity matrix to the inputs
+- Explore more of the TfidfVectorizer Model
+
 
 
 
