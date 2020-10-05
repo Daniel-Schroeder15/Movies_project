@@ -1,4 +1,4 @@
-# Final Project Outline - Team C
+# Movie Project Outline
 
 
 ## Resources
